@@ -54,11 +54,13 @@ for batch_number, batch in enumerate(batches, start=1):
     with open(output_file, mode='w', newline='') as file:
         writer = csv.writer(file)
 
-        results = []
         for i, abstract in enumerate(batch, start=1):
+            #call openai
             result = evaluate_abstract(abstract)
+
+            #write the result fro openai call
             writer.writerow([i, result])
-            results.append((abstract, result))
+
             print(f"{i}: {result}")
             print("\n")
 

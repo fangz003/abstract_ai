@@ -1,0 +1,3523 @@
+1201. J Neurol. 2004 Nov;251(11):1383-92. doi: 10.1007/s00415-004-0549-2.
+
+Cognitive and SPECT characteristics predict progression of Parkinson's disease 
+in newly diagnosed patients.
+
+Dujardin K(1), Defebvre L, Duhamel A, Lecouffe P, Rogelet P, Steinling M, Destée 
+A.
+
+Author information:
+(1)Neurologie et Pathologie du Mouvement Neurologie A, Hôpital Salengro Centre 
+Hospitalier Universitaire, 59037, Lille Cedex, France. dujardin@univ-lille3.fr
+
+OBJECTIVE: To identify features in cognitive functioning and regional cerebral 
+blood flow (rCBF) in newly diagnosed Parkinson's disease (PD) patients and to 
+determine whether these factors are able to predict the progression of the 
+disease in general and the development of cognitive decline in particular.
+METHODS: 50 previously treatment-naive PD patients participated in the study. 
+Cognitive assessment and SPECT were performed twice: at the time of diagnosis 
+and then 3 years later. Six patients died or refused to continue. The Mattis 
+dementia rating scale, the WAIS-R digit span test, a word list learning/recall 
+test, a word fluency task and the Stroop word-colour test were used to assess 
+cognitive function. rCBF was measured in 10 pairs of regions of interest. 
+Principal component analysis of the data from the final examination was used to 
+determine which variables allowed the formation of patient subgroups. 
+Thereafter, factorial discriminant analysis (FDA) was performed in order to 
+obtain a predictive model of these final classes.
+RESULTS: A stepwise procedure enabled the identification of 3 clusters (26, 16 
+and 2 patients). As the patients in the smallest cluster met the criteria for 
+dementia at the final examination, they were discarded from further analyses. 
+All the cognitive variables contributed to the constitution of the two other 
+clusters. Age, educational level and all the rCBF parameters also contributed 
+but to a lesser extent. Comparison of these groups showed reduced overall 
+cognitive efficiency and an exacerbated subcorticofrontal syndrome in the 
+16-patient cluster. FDA showed that the best predictive model for the final 
+classes was based on 7 variables: educational level, semantic and alternating 
+word fluency, Stroop interference index and the right medial frontal, left 
+parietal and left lenticular nucleus rCBF findings.
+CONCLUSION: Even though both cognitive and rCBF parameters help predict the 
+progression of newly diagnosed PD patients and bearing in mind the limitations 
+of the SPECT method used here, it appears that the contribution of cognitive 
+assessment is greater than that of rCBF measurement.
+
+DOI: 10.1007/s00415-004-0549-2
+PMID: 15592735 [Indexed for MEDLINE]
+
+
+1202. Arch Neurol. 2004 Dec;61(12):1906-11. doi: 10.1001/archneur.61.12.1906.
+
+The rate of cognitive decline in Parkinson disease.
+
+Aarsland D(1), Andersen K, Larsen JP, Perry R, Wentzel-Larsen T, Lolk A, 
+Kragh-Sørensen P.
+
+Author information:
+(1)Section of Geriatric Psychiatry, Central Hospital of Rogaland, Stavanger, 
+N-4095 Hillevåg, Norway. daa@sir.no
+
+OBJECTIVES: To measure the rate and predictors of change on the Mini-Mental 
+State Examination in patients with Parkinson disease (PD) and to compare that 
+change with the Mini-Mental State Examination changes of patients with Alzheimer 
+disease and nondemented subjects.
+PATIENTS: Patients with PD were drawn from a community-based cohort in Rogaland 
+County, Norway. Those who were without cognitive impairment at disease onset and 
+participated in 1 or more assessments after visit 1 were included and examined 
+after 4 years (visit 2) and 8 years (visit 3). Motor, cognitive, and psychiatric 
+symptoms were rated using standardized scales at visit 1. Two population-based 
+cohorts of patients with Alzheimer disease and nondemented control subjects were 
+included for comparison. Data were analyzed using a mixed-effects model.
+RESULTS: One hundred twenty-nine PD patients (57% women) were included. The mean 
+(SD) Mini-Mental State Examination score at visit 1 was 27.3 (5.7). The mean 
+annual decline in score from visit 1 to visit 3 was 1.1 (95% confidence 
+interval, 0.8 to 1.3; 3.9% change from visit 1). Patients with PD and dementia 
+(n = 49) had an annual decline from visit 1 to visit 2 of 2.3 (95% confidence 
+interval, 2.1 to 2.5; 9.1% change from visit 1), compared with 2.6 (95% 
+confidence interval, 2.3 to 2.8; 10.6% change from visit 1) in the patients with 
+Alzheimer disease (n = 34) (mean annual decline among patients with PD and 
+dementia vs patients with Alzheimer disease, not significant). The change in 
+score for nondemented PD patients (n = 80) was small and similar to that for 
+nondemented control subjects (n = 1621). Old age, hallucinations, and more 
+severe motor symptoms (rigidity and motor scores mediated by nondopaminergic 
+lesions) at visit 1 were significantly associated with a more rapid cognitive 
+decline in patients with PD.
+CONCLUSIONS: The mean annual decline on the Mini-Mental State Examination for PD 
+patients was 1 point. However, a marked variation was found. In patients with PD 
+and dementia, the mean annual decline was 2.3, which was similar to the decline 
+observed in patients with Alzheimer disease.
+
+DOI: 10.1001/archneur.61.12.1906
+PMID: 15596611 [Indexed for MEDLINE]
+
+
+1203. J Neurol Neurosurg Psychiatry. 2005 Jan;76(1):106-8. doi: 
+10.1136/jnnp.2003.035022.
+
+Disturbance of sensory filtering in dementia with Lewy bodies: comparison with 
+Parkinson's disease dementia and Alzheimer's disease.
+
+Perriol MP(1), Dujardin K, Derambure P, Marcq A, Bourriez JL, Laureau E, 
+Pasquier F, Defebvre L, Destée A.
+
+Author information:
+(1)Neurophysiologie clinique, Hôpital Salengro, Centre Hospitalier 
+Universitaire, F-59037 Lille Cedex, France. mperriol@yahoo.fr
+
+INTRODUCTION: Prepulse inhibition (PPI) is considered to mirror an organism's 
+ability to filter out irrelevant sensory or cognitive information. The 
+disruption of PPI has never been studied in individuals suffering from dementia 
+with Lewy bodies (DLB). As attention deficits largely contribute to cognitive 
+impairment in DLB, an investigation with a PPI paradigm is useful for 
+differential diagnosis of DLB versus Alzheimer's disease (AD) and Parkinson's 
+disease dementia (PDD).
+OBJECTIVE AND METHODS: PPI of the N1/P2 component of auditory evoked potentials 
+was used to investigate the early stages of attention selectivity in 10 DLB, 10 
+AD, and 10 PDD patients, as well as in 10 healthy controls. The PPI paradigm 
+consisted of the presentation of sound pulses (40 ms, 115 dB) preceded by a 
+prepulse (40 ms, 80 dB). Sound stimuli were presented in a total of 80 trials in 
+a pseudo-random order.
+RESULTS: Non-parametric analyses of variance revealed a significant group effect 
+on the 120 ms lead interval. Retrospective analyses revealed that PPI was 
+significantly reduced in DLB compared to healthy controls and AD. In the PDD 
+group, the disturbance was of intermediate intensity.
+CONCLUSION: The present study revealed a severe disturbance of PPI in DLB 
+patients. The DLB patients displayed a specific disruption profile in terms of 
+magnitude as well as time course.
+
+DOI: 10.1136/jnnp.2003.035022
+PMCID: PMC1739321
+PMID: 15608006 [Indexed for MEDLINE]
+
+
+1204. Scanning. 2004 Nov-Dec;26(6):319. doi: 10.1002/sca.4950260610.
+
+Proteomics and the early identification of disease.
+
+McGuinness PE.
+
+DOI: 10.1002/sca.4950260610
+PMID: 15612208 [Indexed for MEDLINE]
+
+
+1205. Biochim Biophys Acta. 2005 Jan 3;1739(2-3):240-50. doi: 
+10.1016/j.bbadis.2004.08.007.
+
+Mutations causing neurodegenerative tauopathies.
+
+Goedert M(1), Jakes R.
+
+Author information:
+(1)MRC Laboratory of Molecular Biology, Hills Road, Cambridge CB2 2QH, UK. 
+mg@mrc-lmb.ac.uk
+
+Tau is the major component of the intracellular filamentous deposits that define 
+a number of neurodegenerative diseases. They include the largely sporadic 
+Alzheimer's disease (AD), progressive supranuclear palsy, corticobasal 
+degeneration, Pick's disease and argyrophilic grain disease, as well as the 
+inherited frontotemporal dementia and parkinsonism linked to chromosome 17 
+(FTDP-17). For a long time, it was unclear whether the dysfunction of tau 
+protein follows disease or whether disease follows tau dysfunction. This was 
+resolved when mutations in Tau were found to cause FTDP-17. Currently, 32 
+different mutations have been identified in over 100 families. About half of the 
+known mutations have their primary effect at the protein level. They reduce the 
+ability of tau protein to interact with microtubules and increase its propensity 
+to assemble into abnormal filaments. The other mutations have their primary 
+effect at the RNA level and perturb the normal ratio of three-repeat to 
+four-repeat tau isoforms. Where studied, this resulted in a relative 
+overproduction of tau protein with four microtubule-binding domains in the 
+brain. Individual Tau mutations give rise to diseases that resemble progressive 
+supranuclear palsy, corticobasal degeneration or Pick's disease. Moreover, the 
+H1 haplotype of Tau has been identified as a significant risk factor for 
+progressive supranuclear palsy and corticobasal degeneration. At a practical 
+level, the new work is leading to the production of experimental animal models 
+that reproduce the essential molecular and cellular features of the human 
+tauopathies, including the formation of abundant filaments made of 
+hyperphosphorylated tau protein and nerve cell degeneration.
+
+DOI: 10.1016/j.bbadis.2004.08.007
+PMID: 15615642 [Indexed for MEDLINE]
+
+
+1206. FEBS Lett. 2005 Jan 3;579(1):1-5. doi: 10.1016/j.febslet.2004.11.018.
+
+Proteasome inhibition and Tau proteolysis: an unexpected regulation.
+
+Delobel P(1), Leroy O, Hamdane M, Sambo AV, Delacourte A, Buée L.
+
+Author information:
+(1)INSERM U422, Institut de Médecine Prédictive et Recherche Thérapeutique, 
+Place de Verdun, 59045, Lille, France. delobel@mrc-lmb.cam.ac.uk
+
+Increasing evidence suggests that an inhibition of the proteasome, as 
+demonstrated in Parkinson's disease, might be involved in Alzheimer's disease. 
+In this disease and other Tauopathies, Tau proteins are hyperphosphorylated and 
+aggregated within degenerating neurons. In this state, Tau is also 
+ubiquitinated, suggesting that the proteasome might be involved in Tau 
+proteolysis. Thus, to investigate if proteasome inhibition leads to 
+accumulation, hyperphosphorylation and aggregation of Tau, we used neuroblastoma 
+cells overexpressing Tau proteins. Surprisingly, we showed that the inhibition 
+of the proteasome led to a bidirectional degradation of Tau. Following this 
+result, the cellular mechanisms that may degrade Tau were investigated.
+
+DOI: 10.1016/j.febslet.2004.11.018
+PMCID: PMC7130380
+PMID: 15620682 [Indexed for MEDLINE]
+
+
+1207. J Neural Transm (Vienna). 2005 Sep;112(9):1249-54. doi: 
+10.1007/s00702-004-0263-3. Epub 2004 Dec 29.
+
+The role of alpha-synuclein gene multiplications in early-onset Parkinson's 
+disease and dementia with Lewy bodies.
+
+Hofer A(1), Berg D, Asmus F, Niwar M, Ransmayr G, Riemenschneider M, Bonelli SB, 
+Steffelbauer M, Ceballos-Baumann A, Haussermann P, Behnke S, Krüger R, Prestel 
+J, Sharma M, Zimprich A, Riess O, Gasser T.
+
+Author information:
+(1)Department of Neurodegenerative Diseases, Hertie-Institute for Clinical Brain 
+Research, University of Tübingen, Germany.
+
+BACKGROUND: A triplication of the alpha-synuclein gene was found to cause 
+autosomal dominant Lewy body disease in two distinct families.
+METHOD: We searched for alterations of alpha-synuclein gene dosage and analysed 
+the entire coding region for point mutations in 54 dementia with Lewy body 
+disease (DLB) and in 103 young onset Parkinson's disease (PD) patients from 
+Central Europe.
+RESULTS: We could not detect any quantitative alterations in the gene dosage of 
+alpha-synuclein. Mutational screening of the entire coding region of 
+alpha-synuclein revealed only one silent mutation V3V (adenine9guanine) in one 
+case.
+CONCLUSIONS: Thus, this phenomenon appears not to be a major cause in the 
+pathogenesis of sporadic DLB and young onset PD in this European population.
+
+DOI: 10.1007/s00702-004-0263-3
+PMID: 15622440 [Indexed for MEDLINE]
+
+
+1208. Eur Neurol. 2005;53(1):15-21. doi: 10.1159/000082956. Epub 2004 Dec 27.
+
+The tau gene haplotype h1 confers a susceptibility to Parkinson's disease.
+
+Zhang J(1), Song Y, Chen H, Fan D.
+
+Author information:
+(1)Department of Neurology, the Third Hospital of Beijing University, Beijing, 
+China. who626@163.com
+
+BACKGROUND: Polymorphisms in the tau gene may be associated with increased risk 
+for idiopathic Parkinson's disease (PD); however, most of previous association 
+studies have been underpowered to detect a potentially modest contribution of 
+the tau variants to PD risk.
+OBJECTIVE: To clarify the relationship between genetic variation in tau gene and 
+PD risk, we conducted a meta-analysis of all published association studies. We 
+identified 14 independent case-control studies including 2,093 PD cases and 
+2,258 controls. After excluding two studies contributing to most of 
+between-study heterogeneity, the pooled odds ratios (OR) and 95% confidence 
+intervals (CI) of PD were 1.42 (95% CI, 1.23-1.65) for those with H1/H1 genotype 
+compared with all others and 1.52 (95% CI, 1.12-2.04) for all individuals 
+carrying H1 haplotype versus all others. Based on the data available, the 
+results were not significantly different according to sex, family history of PD, 
+age at onset and dementia status.
+CONCLUSIONS: Our results support the notion that tau gene H1 haplotype may be an 
+important risk factor of PD.
+
+Copyright (c) 2005 S. Karger AG, Basel.
+
+DOI: 10.1159/000082956
+PMID: 15627775 [Indexed for MEDLINE]
+
+
+1209. Exp Neurol. 2005 Feb;191 Suppl 1:S95-S103. doi: 10.1016/j.expneurol.2004.06.017.
+
+Differentiation of Alzheimer's disease from dementia with Lewy bodies utilizing 
+positron emission tomography with [18F]fluorodeoxyglucose and neuropsychological 
+testing.
+
+Gilman S(1), Koeppe RA, Little R, An H, Junck L, Giordani B, Persad C, Heumann 
+M, Wernette K.
+
+Author information:
+(1)Department of Neurology, University of Michigan, Ann Arbor, MI 48109-0489, 
+USA. sgilman@umich.edu
+
+We compared the relative utility of neuropsychological testing and positron 
+emission tomography (PET) with [18F]fluorodeoxyglucose ([18F]FDG) in 
+differentiating Alzheimer's disease (AD) from dementia with Lewy bodies (DLB). 
+We studied 25 patients with AD, 20 with DLB, and 19 normal elderly controls. 
+There was no difference between patient groups for MMSE, confrontational naming, 
+or verbal learning. The DLB group was significantly more impaired than the AD 
+group for verbal fluency, and the AD group was significantly more impaired than 
+the DLB group for verbal delayed recall. The DLB group had greater difficulty 
+than the AD group on a visual discrimination task that does not require motor 
+functioning, but the difference did not reach significance. Family ratings of 
+motor functioning suggested significantly greater impairment in DLB patients 
+than in AD patients. PET studies revealed significantly lower local cerebral 
+metabolic rates for glucose (lCMRglc) for visual cortex (Brodmann areas 17, 18, 
+and 19) in the DLB than the AD group, but no differences for other regions 
+commonly affected in AD, including posterior cingulate, superior parietal lobe, 
+lateral temporal lobe, and the prefrontal region. Motor ratings were 
+significantly correlated with lCMRglc in all areas of cerebral cortex, including 
+Brodmann areas 17, 18, and 19. The results demonstrate a similar profile of 
+cerebral hypometabolism in the two patient groups except in the visual cortex, 
+where the DLB group shows markedly lower lCMRglc than the AD group. 
+Neuropsychological testing also differentiates the groups, and family ratings of 
+motor functioning are as robust as PET in these later stages of the disorders.
+
+DOI: 10.1016/j.expneurol.2004.06.017
+PMID: 15629765 [Indexed for MEDLINE]
+
+
+1210. Dement Geriatr Cogn Disord. 2005;19(2-3):164-70. doi: 10.1159/000083178. Epub 
+2005 Jan 5.
+
+Tau protein, Abeta42 and S-100B protein in cerebrospinal fluid of patients with 
+dementia with Lewy bodies.
+
+Mollenhauer B(1), Cepek L, Bibl M, Wiltfang J, Schulz-Schaeffer WJ, Ciesielczyk 
+B, Neumann M, Steinacker P, Kretzschmar HA, Poser S, Trenkwalder C, Otto M.
+
+Author information:
+(1)Department of Neurology, Georg August University Göttingen, Göttingen, 
+Germany. bmollenhauer@med.uni-goettingen.de
+
+The intra vitam diagnosis of dementia with Lewy bodies (DLB) is still based on 
+clinical grounds. So far no technical investigations have been available to 
+support this diagnosis. As for tau protein and beta-amyloid(1-42) (Abeta42), 
+promising results for the diagnosis of Alzheimer's disease (AD) have been 
+reported; we evaluated these markers and S-100B protein in cerebrospinal fluid 
+(CSF), using a set of commercially available assays, of 71 patients with DLB, 67 
+patients with AD and 41 nondemented controls (NDC) for their differential 
+diagnostic relevance. Patients with DLB showed significantly lower tau protein 
+values compared to AD but with a high overlap of values. More prominent 
+differences were observed in the comparison of DLB patients with all three 
+clinical core features and AD patients. Abeta42 levels were decreased in the DLB 
+and AD groups versus NDC, without significant subgroup differences. S-100B 
+levels were not significantly different between the groups. Tau protein levels 
+in CSF may contribute to the clinical distinction between DLB and AD, but the 
+value of the markers is still limited especially due to mixed pathology. We 
+conclude that more specific markers have to be established for the 
+differentiation of these diseases.
+
+DOI: 10.1159/000083178
+PMID: 15637452 [Indexed for MEDLINE]
+
+
+1211. Mov Disord. 2005 Apr;20(4):479-484. doi: 10.1002/mds.20335.
+
+Parkin disease in a Brazilian kindred: Manifesting heterozygotes and clinical 
+follow-up over 10 years.
+
+Khan NL(1), Horta W(2), Eunson L(1), Graham E(1), Johnson JO(3), Chang S(3), 
+Davis M(1), Singleton A(3), Wood NW(1), Lees AJ(1)(4).
+
+Author information:
+(1)Department of Molecular Neuroscience, Institute of Neurology, Queen Square, 
+London, United Kingdom.
+(2)Hospital Universitario Walter Cantidio, Neurology Service and Movement 
+Disorders Department, Federal University of Ceara, Fortaleza, Ceara, Brazil.
+(3)Laboratory of Neurogenetics, National Institute on Aging, National Institutes 
+of Health, Bethesda, Maryland, USA.
+(4)Reta Lila Weston Unit of Neurological Studies, Royal Free Hospital and 
+University College Medical School, London, United Kingdom.
+
+We report on a large Brazilian kindred with young-onset parkinsonism due to 
+either a homozygous or heterozygous mutation in parkin. A total of 6 members 
+were affected: 5 were homozygous and 1 heterozygous for a deletion in exon 4. 
+Two other heterozygotes also had extrapyramidal signs. All affected subjects 
+showed characteristic features of parkin disease with foot dystonia and an 
+excellent response to levodopa complicated by motor fluctuations and dyskinesia 
+within 3 years of therapy. Careful clinical follow-up over 10 years showed the 
+phenotype was similar in all the homozygotes with asymmetrical limb bradykinesia 
+and early walking difficulties. Some acceleration of disability was observed in 
+some of the cases as they entered the third decade of illness, but dementia was 
+absent.
+
+Copyright 2005 Movement Disorder Society.
+
+DOI: 10.1002/mds.20335
+PMID: 15641013 [Indexed for MEDLINE]
+
+
+1212. Rinsho Shinkeigaku. 2004 Nov;44(11):897-9.
+
+[Measurement of brain function by positron emission tomography--clinical 
+application of PET to neurological disorders].
+
+[Article in Japanese]
+
+Momose T(1).
+
+Author information:
+(1)Department of Radiology, Division of Nuclear Medicine, University of Tokyo.
+
+Positron emission tomography has enabled us to measure various fundamental 
+parameters of human brain physiology and chemistry, such as cerebral blood flow, 
+metabolism and synaptic function. Blood flow and oxygen metabolism is important 
+for the understanding of cerebrovascular Disease. Glucose metabolism is useful 
+for the determination of epileptic foci and for the evaluation of tumor 
+malignancy. Measurement of pre- and post-synaptic function is applicable to the 
+differential diagnosis of parkinsonism. Imaging analysis of functional 
+neuroanatomy of these parameters are very promising for the early diagnosis of 
+dementia, such as Alzheimer's disease. Developmennt of new radiotracers is 
+expected for detection of early specific pathological changes and more previous 
+changes underlying the deterioration of neurochemistry, such as genetic 
+abnormalities.
+
+PMID: 15651325 [Indexed for MEDLINE]
+
+
+1213. J Biol Chem. 2005 Apr 8;280(14):13520-8. doi: 10.1074/jbc.M413490200. Epub 2005 
+Jan 25.
+
+Three- and four-repeat tau regulate the dynamic instability of two distinct 
+microtubule subpopulations in qualitatively different manners. Implications for 
+neurodegeneration.
+
+Levy SF(1), Leboeuf AC, Massie MR, Jordan MA, Wilson L, Feinstein SC.
+
+Author information:
+(1)Neuroscience Research Institute and Department of Molecular, Cellular, and 
+Developmental Biology, University of California, Santa Barbara, California 
+93106, USA.
+
+The microtubule-associated protein tau is implicated in the pathogenesis of many 
+neurodegenerative diseases, including fronto-temporal dementia and parkinsonism 
+linked to chromosome 17 (FTDP-17), in which both RNA splicing and amino acid 
+substitution mutations in tau cause dominantly inherited early onset dementia. 
+RNA-splicing FTDP-17 mutations alter the wild-type approximately 50:50 3-repeat 
+(3R) to 4-repeat (4R) tau isoform ratio, usually resulting in an excess of 4R 
+tau. To examine further how splicing mutations might cause dysfunction by 
+misregulation of microtubule dynamics, we used video microscopy to determine the 
+in vitro behavior of individual microtubules stabilized by varying amounts of 
+human 4R and 3R tau. At low tau:tubulin ratios (1:55 and 1:45), all 3R isoforms 
+reduced microtubule growth rates relative to the no-tau control, whereas all 4R 
+isoforms increased them; however, at a high tau:tubulin ratio (1:20), both 4R 
+and 3R tau increased the growth rates. Further analysis revealed two distinct 
+subpopulations of growing microtubules in the absence of tau. Increasing 
+concentrations of both 4R and 3R tau resulted in an increase in the size of the 
+faster growing subpopulation of microtubules; however, 4R tau caused a 
+redistribution to the faster growing subpopulation at lower tau:tubulin ratios 
+than 3R tau. This modulation of discrete growth rate subpopulations by tau 
+suggests that tau causes a conformational shift in the microtubule resulting in 
+altered dynamics. Quantitative and qualitative differences observed between 4R 
+and 3R tau are consistent with a "microtubule misregulation" model in which 
+abnormal tau isoform expression results in the inability to properly regulate 
+microtubule dynamics, leading to neuronal death and dementia.
+
+DOI: 10.1074/jbc.M413490200
+PMID: 15671021 [Indexed for MEDLINE]
+
+
+1214. Psychol Neuropsychiatr Vieil. 2004 Dec;2(4):257-69.
+
+[Attention and aging].
+
+[Article in French]
+
+Siéroff E(1), Piquard A.
+
+Author information:
+(1)Laboratoire de psychologie expérimentale, Université Paris V / CNRS. 
+eric.sieroff@univ-paris5.fr
+
+Due to progress in the cognitive theories in the last twenty years, the 
+description of attentional deficits associated with normal or pathological aging 
+has substantially improved. In this article, attentional deficits are presented 
+according to Posner theory, which describes three sub-systems in a global 
+network of attention: vigilance, selective attention, command. This theory not 
+only characterizes the functions of these subsystems, but gives precise 
+indications about their anatomical and neurochemical substrates. Several 
+clinical tests can be described for each of these different subsystems. The main 
+attentional deficits are presented in the second part of this paper: if some 
+decline of the attentional command occurs in normal aging, a real deficit in 
+this subsystem is found in most degenerative processes (frontotemporal dementia, 
+Alzheimer and Parkinson diseases). Alzheimer disease is also frequently 
+associated with a deficit of selective spatial attention, early in the evolution 
+of the disease.
+
+PMID: 15683981 [Indexed for MEDLINE]
+
+
+1215. Neurobiol Aging. 2005 May;26(5):587-95. doi: 
+10.1016/j.neurobiolaging.2004.10.002.
+
+Searching for the role and the most suitable biomarkers of oxidative stress in 
+Alzheimer's disease and in other neurodegenerative diseases.
+
+Migliore L(1), Fontana I, Colognato R, Coppede F, Siciliano G, Murri L.
+
+Author information:
+(1)Department of Human and Environmental Sciences, University of Pisa, Via S. 
+Giuseppe 22, 56126 Pisa, Italy. I.migliore@geog.unipi.it
+
+Comment on
+    Neurobiol Aging. 2005 May;26(5):575-8.
+    Neurobiol Aging. 2005 May;26(5):579-80.
+    Neurobiol Aging. 2005 May;26(5):581-3.
+    Neurobiol Aging. 2005 May;26(5):585-6.
+
+The contribution of oxidative stress to neurodegeneration is not peculiar of a 
+specific neurodegenerative disease, oxidative stress has been found implicated 
+in a number of neurodegenerative disorders among which Alzheimer's disease (AD), 
+Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS). Even increasing 
+are studies dealing with the search for peripheral biomarkers of oxidative 
+stress in biological fluids or even in peripheral tissues themselves such as 
+fibroblasts or blood cells. The application of the modified version of the comet 
+assay for the detection of oxidised purines and pyrimidines in peripheral blood 
+leukocytes results particularly useful if the study requires repeated blood 
+drawn from the same individual, for instance if a clinical trial is performed 
+with a preventive therapy. Likely damage occurs to every category of biological 
+macromolecules and we consider, in the context of neurodegenerative diseases, 
+particularly critical the proteic level. The identification of subjects at risk 
+to develop AD or with pre-pathogenic conditions, the possibility to use "a 
+battery of assays" for the detection of oxidative damage at peripheral level, 
+together with recent advances in brain imaging, will allow to better address 
+studies aimed not only to therapeutic purposes but also mainly to primary 
+prevention.
+
+DOI: 10.1016/j.neurobiolaging.2004.10.002
+PMID: 15708433 [Indexed for MEDLINE]
+
+
+1216. Arch Neurol. 2005 Feb;62(2):297-302. doi: 10.1001/archneur.62.2.297.
+
+Functional correlates and prevalence of mild parkinsonian signs in a community 
+population of older people.
+
+Louis ED(1), Tang MX, Schupf N, Mayeux R.
+
+Author information:
+(1)The Gertrude H. Sergievsky Center, Taub Institute for Research on Alzheimer's 
+Disease and the Aging Brain, and Department of Neurology, College of Physicians 
+and Surgeons, Columbia University, New York, NY, USA. EDL2@columbia.edu
+
+BACKGROUND: Mild parkinsonian signs (MPS) are associated with incident dementia 
+and an increased risk of mortality. To our knowledge, the functional correlates 
+of MPS have not been studied.
+OBJECTIVES: To study the functional correlates of MPS, including self-reported 
+and performance-based measures of function, and to determine the prevalence of 
+MPS in a cohort of community-dwelling older people (aged >or=65 years).
+DESIGN: Participants (N = 1866) in the Washington Heights-Inwood Columbia Aging 
+Project underwent a neurological assessment that included a modified motor 
+portion of the Unified Parkinson's Disease Rating Scale, which yielded a 
+parkinsonian sign score (range, 0-40) and parkinsonian sign subscores (axial 
+function, rigidity, and tremor). A functional assessment included 3 
+self-reported measures of function and 2 performance-based tests. Participants 
+with Parkinson disease were excluded.
+RESULTS: Mild parkinsonian signs were present in 469 (25.1%) of the 1866 
+participants. The parkinsonian sign score was correlated with functional and 
+performance-based test scores (r = 0.24-0.32, P<.001). The axial function and 
+rigidity subscores correlated to a greater extent with functional and 
+performance-based test scores than did the tremor subscore. In analysis of 
+covariance models, excluding participants with dementia and adjusting for age, 
+sex, ethnicity, education, depressive symptoms, and medical illnesses (eg, 
+arthritis), the parkinsonian sign score and age were strongly and independently 
+associated with functional scores.
+CONCLUSIONS: Mild parkinsonian signs, and particularly axial dysfunction, were 
+associated with functional disability, including self-reported and 
+performance-based measures of functional difficulty. Given the high prevalence 
+of these signs in elderly persons, MPS may be a significant indicator of 
+disability in elderly persons.
+
+DOI: 10.1001/archneur.62.2.297
+PMID: 15710859 [Indexed for MEDLINE]
+
+
+1217. Rinsho Shinkeigaku. 2005 Jan;45(1):1-5.
+
+[Psychoses in patients with Parkinson's disease; their frequency, phenomenology, 
+and clinical correlates].
+
+[Article in Japanese]
+
+Kashihara K(1), Ohno M, Katsu Y.
+
+Author information:
+(1)Department of Neurology, Okayama Kyokuto Hospital.
+
+The frequency, phenomenology, and risk factors of hallucinations and delusions 
+were investigated in 64 consecutive inpatients with Parkinson's disease. Fifty 
+patients were admitted to our hospital with symptoms related to Parkinson's 
+disease: psychiatric problems 27 (psychosis 22; anxiety 2; depression 2; mania 
+1): motor symptoms, 20 (wearing-off 5; akinesia 4; freezing 4; postural 
+instability 4; dyskinesia 2; tremor 2; dystonia 1), and sensory symptoms, 3. 
+Fourteen patients were admitted with other medical problems (pneumonia 4; 
+cerebral infarction 3; bone fracture 3; lumbago 2; seizure 1; cat bite 1). 
+Totally 49 patients had psychiatric problems. Psychosis was present in 43 
+patients, dementia in 10, depression in 8, mania in 1, anxiety in 10, agitation 
+in 6, stereotypy in 2, and hypersexuality in 2. Of the 43 patients with 
+psychoses, 40 presented with visual hallucinations, 18 with auditory 
+hallucinations, and 23 with delusions. To determine what the clinical correlates 
+with the severity of psychosis were, we divided the patients into 3 groups: the 
+severe group, 22 patients admitted because of psychotic symptoms; the mild 
+group, 21 patients admitted because of problems other than psychosis but 
+presenting psychotic symptoms; and the control group, 21 patients who had no 
+psychotic symptoms. Incidences of auditory hallucinations and delusions were 
+higher in the severe group as compared to the mild group. Patients in the severe 
+group had higher Hoehn-Yahr stages, lower Mini-Mental State Examination scores, 
+decreased H/M ratios of cardiac 123I-MIBG uptake, and lower frequencies of 
+background activity on electroencephalograms. There were no differences in age 
+at admission, age at onset of Parkinson's disease, duration of illness, amounts 
+of levodopa and dopamine agonists received, Hamilton's depression rating scores, 
+and brain MR findings, including atrophy and ischemic changes. Emergence of 
+psychotic symptoms in parkinsonian patients appears to be clearly associated 
+with impaired cognitive function. Therefore, it may be associated with the 
+disease process itself. Terms such as dopaminomimetic or levodopa-induced 
+psychosis may not be appropriate when describing psychosis in Parkinson's 
+disease.
+
+PMID: 15714992 [Indexed for MEDLINE]
+
+
+1218. NeuroRx. 2004 Jan;1(1):111-6. doi: 10.1602/neurorx.1.1.111.
+
+Prophylactic activation of neuroprotective stress response pathways by dietary 
+and behavioral manipulations.
+
+Mattson MP(1), Duan W, Wan R, Guo Z.
+
+Author information:
+(1)Laboratory of Neurosciences, National Institute on Aging Gerontology Research 
+Center, Baltimore, Maryland 21224, USA. mattsonm@grc.nia.nih.gov
+
+It is well established that when most types of cells, including neurons, are 
+exposed to a mild stress they increase their ability to resist more severe 
+stress. This "preconditioning" phenomenon involves up-regulation of genes that 
+encode cytoprotective proteins such as heat-shock proteins and growth factors. 
+We found that a similar beneficial cellular stress response can be induced in 
+neurons throughout the brain by a "meal-skipping" dietary restriction (DR) 
+regimen in rats and mice. DR is effective in protecting neurons and improving 
+functional outcome in models of stroke, Alzheimer's, Parkinson's and 
+Huntington's diseases. DR induces an increase in the levels of brain-derived 
+neurotrophic factor (BDNF) and heat-shock proteins in neurons. DR also 
+stimulates neurogenesis in the hippocampus, and BDNF plays a role in this effect 
+of DR. Physical exercise and environmental enrichment are two other 
+manipulations that have been shown to induce BDNF expression in the brain, 
+presumably because it is a mild cellular stress. When taken together with 
+epidemiological and clinical studies in humans, the data from animal studies 
+suggest that it may be possible to reduce the risk for age-related 
+neurodegenerative disorders through dietary and behavioral modifications that 
+act by promoting neuronal plasticity and survival.
+
+DOI: 10.1602/neurorx.1.1.111
+PMCID: PMC534916
+PMID: 15717011 [Indexed for MEDLINE]
+
+
+1219. NeuroRx. 2004 Apr;1(2):213-25. doi: 10.1602/neurorx.1.2.213.
+
+Cerebrospinal fluid protein biomarkers for Alzheimer's disease.
+
+Blennow K(1).
+
+Author information:
+(1)Department of Clinical Neuroscience, Section of Experimental Neuroscience, 
+The Sahlgrenska Academy at Göteborg University, SE-43180 Göteborg, Sweden. 
+kaj.blennow@neuro.gu.se
+
+The introduction of acetylcholine esterase (AChE) inhibitors as a symptomatic 
+treatment of Alzheimer's disease (AD) has made patients seek medical advice at 
+an earlier stage of the disease. This has highlighted the importance of 
+diagnostic markers for early AD. However, there is no clinical method to 
+determine which of the patients with mild cognitive impairment (MCI) will 
+progress to AD with dementia, and which have a benign form of MCI without 
+progression. In this paper, the performance of cerebrospinal fluid (CSF) protein 
+biomarkers for AD is reviewed. The diagnostic performance of the three 
+biomarkers, total tau, phospho-tau, and the 42 amino acid form of beta-amyloid 
+have been evaluated in numerous studies and their ability to identify incipient 
+AD in MCI cases has also been studied. Some candidate AD biomarkers including 
+ubiquitin, neurofilament proteins, growth-associated protein 43 (neuromodulin), 
+and neuronal thread protein (AD7c) show interesting results but have been less 
+extensively studied. It is concluded that CSF biomarkers may have clinical 
+utility in the differentiation between AD and several important differential 
+diagnoses, including normal aging, depression, alcohol dementia, and Parkinson's 
+disease, and also in the identification of Creutzfeldt-Jakob disease in cases 
+with rapidly progressive dementia. Early diagnosis of AD is not only of 
+importance to be able to initiate symptomatic treatment with AChE inhibitors, 
+but will be the basis for initiation of treatment with drugs aimed at slowing 
+down or arresting the degenerative process, such as gamma-secretase inhibitors, 
+if these prove to affect AD pathology and to have a clinical effect.
+
+DOI: 10.1602/neurorx.1.2.213
+PMCID: PMC534929
+PMID: 15717022 [Indexed for MEDLINE]
+
+
+1220. Nucl Med Commun. 2005 Mar;26(3):189-96. doi: 10.1097/00006231-200503000-00003.
+
+Emission tomography in dementia.
+
+Pakrasi S(1), O'Brien JT.
+
+Author information:
+(1)Institute for Health and Ageing, Wolfson Research Centre, Newcastle General 
+Hospital, Newcastle upon Tyne, NE4 6BE, UK. sanjeet.pakrasi@ncl.ac.uk
+
+Dementia is a chronic brain syndrome with enormous impact on health care 
+provision. Emission tomography (single photon emission computed tomography 
+(SPECT) and positron emission tomography (PET)) provides a unique tool to 
+investigate functional and neurochemical changes, both in those with established 
+dementia and in those at risk of subsequent cognitive decline. Alzheimer's 
+disease is characterized by bilateral temporoparietal hypoperfusion on SPECT and 
+hypometabolism on PET, which may precede the onset of dementia as similar 
+changes can be demonstrated in those with mild cognitive impairment and in those 
+genetically at risk of developing Alzheimer's disease. In dementia with Lewy 
+bodies medial parietal and occipital perfusion deficits are seen together with 
+pre-synaptic and post-synaptic dopaminergic changes, most particularly a 
+reduction in the striatal pre-synaptic dopamine transporter which can be 
+visualized using appropriate ligands (e.g., (123)I-FP-CIT). Vascular dementia is 
+associated with multiple, asymmetric, perfusion deficits in multi-infarct 
+dementia. In contrast, subcortical vascular dementia is associated with reduced 
+perfusion but preserved oxygen extraction fraction on PET. Fronto-temporal 
+dementia is characterized by both hypometabolism and hypoperfusion in 
+fronto-temporal lobes, though hypometabolism appears more extensive, affecting 
+large areas of the cerebral hemispheres. Longitudinal studies of treatment 
+response in Alzheimer's disease with cholinergic drugs have found changes in 
+regional blood flow and nicotinic and muscarinic receptor function in those 
+patients who respond to treatment. Currently, emission tomography is widely used 
+for assisting with clinical differential diagnosis. Future developments will 
+entail the development and application of more specific neurochemical ligands 
+and those which bear a closer relationship to the underlying disease processes, 
+including markers of tau, amyloid and synuclein pathology.
+
+DOI: 10.1097/00006231-200503000-00003
+PMID: 15722899 [Indexed for MEDLINE]
+
+
+1221. Osteoporos Int. 2005 Oct;16(10):1239-46. doi: 10.1007/s00198-005-1835-2. Epub 
+2005 Feb 24.
+
+Assessment of risk factors for second hip fractures in Japanese elderly.
+
+Yamanashi A(1), Yamazaki K, Kanamori M, Mochizuki K, Okamoto S, Koide Y, Kin K, 
+Nagano A.
+
+Author information:
+(1)Department of Orthopaedic Surgery, Hamamatsu University School of Medicine, 
+1-20-1 Handayama, 431-3192 Hamamatsu, Japan. yamanasi@tm.hama-med.ac.jp
+
+In an attempt to identify a cohort with a high risk of suffering a fracture of 
+the contralateral hip (second hip fracture), we assessed patients who had 
+suffered hip fracture. A total of 714 patients (130 men and 584 women) were 
+prospectively followed to determine those who suffered a second hip fracture. 
+Pathologic hip fractures and fractures that emerged from high-energy trauma were 
+excluded from the analysis. Age, gender, Singh Index (SI), fracture type, 
+cognitive impairment, and comorbid medical conditions were investigated as 
+medical predictors. The 714 patients were observed for 1,579.5 person-years 
+(mean: 2.4+/-1.4 years per patient). During the observation period, 45 second 
+hip fractures were identified (bilateral group), giving an overall incidence of 
+0.029 per person-year. The annual incidence rate declined linearly from the 
+occasion of the initial fracture. Furthermore, the second hip fracture tended to 
+occur increasingly within 8 months after the initial hip fracture. The second 
+hip fracture was of the same type (trochanteric or cervical) in 79% of the 
+trochanteric and 71% of the cervical fractures. There was no significant 
+difference in the incidence of second hip fracture by gender or age. In 
+addition, there was no significant difference in the distribution of SI grades 
+of the unfractured hip at the initial hip fracture between the 669 patients who 
+had not suffered a second hip fracture (unilateral group) and the bilateral 
+group. Cox proportional hazard regression analysis revealed that increased risk 
+of a second hip fracture was associated with senile dementia and Parkinson's 
+disease. We concluded that careful follow-up of hip fracture patients associated 
+with senile dementia and Parkinson's disease might effectively prevent the 
+incidence of a second hip fracture.
+
+DOI: 10.1007/s00198-005-1835-2
+PMID: 15729479 [Indexed for MEDLINE]
+
+
+1222. Ann Neurol. 2005 Mar;57(3):429-34. doi: 10.1002/ana.20393.
+
+A mutant PSEN1 causes dementia with Lewy bodies and variant Alzheimer's disease.
+
+Ishikawa A(1), Piao YS, Miyashita A, Kuwano R, Onodera O, Ohtake H, Suzuki M, 
+Nishizawa M, Takahashi H.
+
+Author information:
+(1)Department of Neurology, Nishi-Ojiya National Hospital, Ojiya, Japan. 
+ishikawa@agano.ne.jp
+
+We report early-onset parkinsonism and dementia of 18 years' duration in a 
+52-year-old man whose grandfather and father had suffered from a similar 
+neurological disease. In this patient, we found neuronal loss in various brain 
+regions including the substantia nigra and cerebral cortex, Lewy bodies, cotton 
+wool plaques, corticospinal tract degeneration, cerebral amyloid angiopathy, and 
+a novel three-base pair deletion in exon 12 of the presenilin-1 (PSEN1) gene. We 
+considered that the mutant PSEN1 might play an important role in the 
+pathogenetic process of both aggregation of alpha-synuclein into Lewy bodies and 
+deposition of beta-amyloid into cotton wool plaques.
+
+DOI: 10.1002/ana.20393
+PMID: 15732120 [Indexed for MEDLINE]
+
+
+1223. Nihon Ronen Igakkai Zasshi. 2005 Jan;42(1):21-4. doi: 10.3143/geriatrics.42.21.
+
+[Iatrogenic neurological disorders in old people: a review].
+
+[Article in Japanese]
+
+Kuzuhara S(1).
+
+Author information:
+(1)Department of Neurology, Mie University School of Medicine.
+
+Aged people are frequently the victims of iatrogenic diseases, especially 
+adverse effects of drugs since they are affected by many age-related diseases 
+and are given many drugs. Geriatric medicine in Japan has a bitter history of 
+having produced many victims by adverse effects of cerebral vasodilators and 
+cerebral stimulants; they included parkinsonism and depression induced by 
+flunarizine and cinnarizine, and Reye-like encephalopathy induced by calcium 
+hopantenate. Parkinsonism induced by sulpiride, tiapride, metoclopramide or 
+atypical anti-psychotics, dyskinesia induced by anti-parkinsonian drugs or 
+anti-psychotics, and psychotic symptoms induced by anti-parkinsonian drugs, 
+anti-cholinergic drugs, anti-depressants or histamine H2 antagonists are still 
+very common. Wernicke encephalopathy caused by intravenous glucose infusion 
+without thiamine, central pontine myelinolysis by too rapid correction of 
+hyponatremia are important though infrequent. Iatrogenic Creutzfeldt-Jakob 
+disease by dura grafts is a warning against the easy use of medical materials 
+produced with human organs or blood. Iatrogenic diseases are preventable, and 
+geriatricians have to pay attention to the information on adverse effects of 
+drugs and medical materials and carefully observe the early signs of iatrogenic 
+diseases.
+
+DOI: 10.3143/geriatrics.42.21
+PMID: 15732350 [Indexed for MEDLINE]
+
+
+1224. Pharmacol Ther. 2005 Mar;105(3):311-31. doi: 10.1016/j.pharmthera.2004.10.010. 
+Epub 2004 Dec 8.
+
+The role of alpha-synuclein in neurodegenerative diseases.
+
+Bennett MC(1).
+
+Author information:
+(1)Blanchette Rockefeller Neurosciences Institute, Rockville, MD, USA. 
+cbennett@brni-jhu.org
+
+Alpha-synuclein is a 140 amino acid neuronal protein that has been associated 
+with several neurodegenerative diseases. A point mutation in the gene coding for 
+the alpha-synuclein protein was the first discovery linking this protein to a 
+rare familial form of Parkinson's disease (PD). Subsequently, other mutations in 
+the alpha-synuclein gene have been identified in familial PD. The aggregated 
+proteinaceous inclusions called Lewy bodies found in PD and cortical Lewy body 
+dementia (LBD) were discovered to be predominantly alpha-synuclein. Aberrant 
+aggregation of alpha-synuclein has been detected in an increasing number of 
+neurodegenerative diseases, collectively known as synucleopathies. 
+Alpha-synuclein exists physiologically in both soluble and membrane-bound 
+states, in unstructured and alpha-helical conformations, respectively. The 
+physiological function of alpha-synuclein appears to require its translocation 
+between these subcellular compartments and interconversion between the 2 
+conformations. Abnormal processing of alpha-synuclein is predicted to lead to 
+pathological changes in its binding properties and function. In this review, 
+genetic and environmental risk factors for alpha-synuclein pathology are 
+described. Various mechanisms for in vitro and in vivo alpha-synuclein 
+aggregation and neurotoxicity are summarized, and their relevance to 
+neuropathology is explored.
+
+DOI: 10.1016/j.pharmthera.2004.10.010
+PMID: 15737408 [Indexed for MEDLINE]
+
+
+1225. Rev Esp Med Nucl. 2005 Mar-Apr;24(2):93-100. doi: 10.1157/13071684.
+
+[Early alteration of adrenergic cardiac function in parkinsonisms with Lewy 
+bodies].
+
+[Article in Spanish]
+
+Jiménez-Hoyuela García JM(1), Campos Arillo V, Rebollo Aguirre AC, Gómez Doblas 
+JJ, Gutiérrez Hurtado A.
+
+Author information:
+(1)Servicio de Medicina Nuclear, Hospital Universitario Virgen de la Victoria, 
+Málaga. josem.jimenezhoyela.sspa@juntadeandalucia.es
+
+BACKGROUND: 123I-metaiodobenzylguanidine (123I-MIBG) myocardial scintigraphy is 
+clinically used to estimate myocardial sympathetic damage in some forms of heart 
+disease, autonomic nerve disturbance in diabetic neuropathy, and disturbance of 
+the autonomic nervous system in neurodegenerative disease. In the present study, 
+examinations were performed to clarify the rate and characteristics of cardiac 
+sympathetic disturbance in Parkinson's disease (PD) and usefulness of 123I-MIBG 
+myocardial scintigraphy to differentiate PD from the Lewy Body Disease (LBD).
+MATERIAL AND METHODS: 108 subjects were studied. There were 70 patients with PD, 
+21 patients with LBD, and 17 age-matched normal subjects without neurological 
+disease. The clinical parameters evaluated were severity of the process 
+(measured by Hoehn and Yahr Scale), vegetative manifestations, development time 
+and use of medication taken. Myocardial adrenergic function was analyzed by 
+imaging with 123I-MIBG. Early (15 min) and delayed (4 h) images of the thorax in 
+the anterior view were obtained after injection of 123I-MIBG (111 MBq). The 
+qualitative and semiquantitative 123I-MIBG uptake was quantified by calculating 
+a heart-to-mediastinum ratio (HMR) and analyzed in a blind manner.
+RESULTS: The mean H/M ratio in patients with PD and LBD was significantly lower 
+than in controls (p < 0.05). This is independent of development time, process 
+severity, use of medication or vegetative manifestations. The HMR obtained in 
+LBD patients is less clear than in PD.
+CONCLUSION: 123I-MIBG myocardial scintigraphy might detect early disturbances of 
+the sympathetic nervous system in PD and LBD.
+
+DOI: 10.1157/13071684
+PMID: 15745679 [Indexed for MEDLINE]
+
+
+1226. N Engl J Med. 2005 Mar 3;352(9):884-94. doi: 10.1056/NEJMoa042765.
+
+Family-based association between Alzheimer's disease and variants in UBQLN1.
+
+Bertram L(1), Hiltunen M, Parkinson M, Ingelsson M, Lange C, Ramasamy K, Mullin 
+K, Menon R, Sampson AJ, Hsiao MY, Elliott KJ, Velicelebi G, Moscarillo T, Hyman 
+BT, Wagner SL, Becker KD, Blacker D, Tanzi RE.
+
+Author information:
+(1)Genetics and Aging Research Unit, MassGeneral Institute for Neurodegenerative 
+Disease, Department of Neurology, Massachusetts General Hospital, Charlestown 
+02129, USA.
+
+Comment in
+    N Engl J Med. 2005 Mar 3;352(9):862-4.
+    N Engl J Med. 2005 Jun 30;352(26):2752-3; author reply 2752-3.
+
+BACKGROUND: Recent analyses suggest that the known Alzheimer's disease genes 
+account for less than half the genetic variance in this disease. The gene 
+encoding ubiquilin 1 (UBQLN1) is one of several candidate genes for Alzheimer's 
+disease located near a well-established linkage peak on chromosome 9q22.
+METHODS: We evaluated 19 single-nucleotide polymorphisms in three genes within 
+the chromosome 9q linkage region in 437 multiplex families with Alzheimer's 
+disease from the National Institute of Mental Health (NIMH) sample (1439 
+subjects). We then tested the single-nucleotide polymorphisms showing a positive 
+result in an independently identified set of 217 sibships discordant for 
+Alzheimer's disease (Consortium on Alzheimer's Genetics [CAG] sample; 489 
+subjects) and assessed the functional effect of an implicated single-nucleotide 
+polymorphism in brain tissue from 25 patients with Alzheimer's disease and 17 
+controls.
+RESULTS: In the NIMH sample, we observed a significant association between 
+Alzheimer's disease and various single-nucleotide polymorphisms in UBQLN1. We 
+confirmed these associations in the CAG sample. The risk-conferring haplotype in 
+both samples was defined by a single intronic single-nucleotide polymorphism 
+located downstream of exon 8. The risk allele was associated with a 
+dose-dependent increase in an alternatively spliced UBQLN1 (lacking exon 8) 
+transcript in RNA extracted from brain samples of patients with Alzheimer's 
+disease.
+CONCLUSIONS: Our findings suggest that genetic variants in UBQLN1 on chromosome 
+9q22 substantially increase the risk of Alzheimer's disease, possibly by 
+influencing alternative splicing of this gene in the brain.
+
+Copyright 2005 Massachusetts Medical Society.
+
+DOI: 10.1056/NEJMoa042765
+PMID: 15745979 [Indexed for MEDLINE]
+
+
+1227. J Alzheimers Dis. 2005 Feb;7(1):3-13. doi: 10.3233/jad-2005-7102.
+
+Apoptotic effect of caspase-3 cleaved tau in hippocampal neurons and its 
+potentiation by tau FTDP-mutation N279K.
+
+Fasulo L(1), Ugolini G, Cattaneo A.
+
+Author information:
+(1)Laboratory Molecular Neurobiology (LMN), International School for Advanced 
+Studies (S.I.S.S.A.), Area Science Park, Padriciano 99, 34013 Trieste, Italy.
+
+Pathological changes in the microtubule associated protein tau are a major 
+hallmark of many human dementias collectively defined as tauopathies. In 
+familiar frontotemporal dementia and parkinsonism linked to chromosome 17 
+(FTDP-17), several mutations in the tau gene have been identified showing that 
+primary malfunction of tau can lead to neurodegeneration. In addition to 
+mutation at genetic level, a number of post-translational modifications of tau 
+occur in tauopathies, including abnormal phosphorylation and aberrant 
+proteolysis described in Alzheimer's Disease (AD). The presence of cleaved tau 
+in AD neurons is associated with expression of markers for neuronal death. 
+According to our previous work, tau is a substrate for the apoptotic protease 
+caspase-3 that turns tau itself into an effector of apoptosis (tau cleaved at 
+D-421), generating a positive-feedback loop that is self-propagating. Cleavage 
+of tau by caspase-3 was recently confirmed to occur in AD brain as an early 
+event. Here we show the apoptotic properties of tau fragment tau151-421 in 
+primary cultures of rat hippocampal neurons; such cellular model is of special 
+interest considering the selective vulnerability of hippocampal neurones in AD. 
+The apoptotic capacity of tau151-421 is markedly enhanced by both treatment with 
+amyloid peptide Abeta25-35, and the FTDP-17 tau mutation N279K.
+
+DOI: 10.3233/jad-2005-7102
+PMID: 15750210 [Indexed for MEDLINE]
+
+
+1228. Neurology. 2005 Mar 8;64(5):780-6. doi: 10.1212/01.WNL.0000152878.79429.00.
+
+Idiopathic REM sleep behavior disorder: toward a better nosologic definition.
+
+Fantini ML(1), Ferini-Strambi L, Montplaisir J.
+
+Author information:
+(1)Centre d'étude du sommeil et des rythmes biologiques, Hôpital du Sacré-Coeur, 
+Montréal, Canada.
+
+REM sleep behavior disorder (RBD) is a parasomnia characterized by a lack of 
+motor inhibition during REM sleep leading to potentially harmful dream-enacting 
+behaviors. RBD affects mainly older men and its prevalence in the general 
+population is estimated to be around 0.5%. RBD may be idiopathic or associated 
+with other neurologic disorders. A strong association between RBD and 
+alpha-synucleinopathies has been recently observed, with the parasomnia often 
+heralding the clinical onset of the neurodegenerative disease. The idiopathic 
+form accounts for up to 60% of the cases reported in the three largest series of 
+patients with RBD. Small clinical follow-up studies revealed that a proportion 
+of these patients will eventually develop a parkinsonian syndrome or a dementia 
+of Lewy bodies type in the years following the RBD diagnosis, while some 
+patients will never show other neurologic signs within several decades from the 
+RBD onset. Recent studies have looked at neurophysiologic and neuropsychological 
+functions in idiopathic RBD and have found evidences of CNS dysfunction during 
+both wakefulness and sleep. An impairment of the cortical activity, specific 
+neuropsychological deficits, and signs of autonomic dysfunction have been 
+observed in a variable proportion of these patients, challenging the concept of 
+idiopathic RBD. Identifying subjects with a high risk of developing a 
+neurodegenerative process may be crucial in order to develop early intervention 
+strategies.
+
+DOI: 10.1212/01.WNL.0000152878.79429.00
+PMID: 15753409 [Indexed for MEDLINE]
+
+
+1229. Neurology. 2005 Mar 8;64(5):861-5. doi: 10.1212/01.WNL.0000153070.82309.D4.
+
+Temporal lobe atrophy on MRI in Parkinson disease with dementia: a comparison 
+with Alzheimer disease and dementia with Lewy bodies.
+
+Tam CW(1), Burton EJ, McKeith IG, Burn DJ, O'Brien JT.
+
+Author information:
+(1)Department of Psychiatry, Tai Po Hospital, Hong Kong.
+
+OBJECTIVE: To investigate the extent of medial temporal lobe atrophy (MTA) on 
+MRI in Parkinson disease (PD) with and without dementia compared with Alzheimer 
+disease (AD) and dementia with Lewy bodies (DLB) and to determine whether MTA 
+correlates with cognitive impairment in PD and PD dementia (PDD).
+METHODS: Coronal T1-weighted MRI scans were acquired from control subjects (n = 
+39) and patients with PD (n = 33), PDD (n = 31), DLB (n = 25), and AD (n = 31), 
+diagnosed according to standardized clinical diagnostic criteria. Cognitive 
+function was assessed using the Cambridge Cognitive Examination (CAMCOG), and 
+MTA was rated visually using a standardized (Scheltens) scale.
+RESULTS: More severe MTA was seen in PDD (p = 0.007), DLB (p < 0.001), and AD (p 
+< 0.001) vs control subjects. PD subjects had greater hippocampal atrophy than 
+control subjects (p = 0.015) but less than subjects with DLB and AD, though not 
+with PDD. MTA correlated with CAMCOG score and memory scores in the DLB group 
+and with age in control, PDD, and AD groups. There were no correlations between 
+MTA and cognitive impairment in PD, PDD, and AD. PDD and DLB had a similar 
+profile of cognitive impairment and MTA.
+CONCLUSIONS: Medial temporal lobe atrophy (MTA) was seen in cognitively intact 
+older subjects with Parkinson disease (PD) and was not more pronounced in 
+Parkinson disease dementia (PDD). Alzheimer disease (AD) and, to a lesser 
+extent, dementia with Lewy bodies (DLB) showed more pronounced MTA. Results 
+suggest early hippocampal involvement in PD and that when dementia develops in 
+PD, anatomic structures apart from the hippocampus are predominantly implicated. 
+Greater hippocampal involvement in AD vs PDD and DLB is consistent with 
+clinical, cognitive, and pathologic differences between the disorders.
+
+DOI: 10.1212/01.WNL.0000153070.82309.D4
+PMID: 15753423 [Indexed for MEDLINE]
+
+
+1230. J Neurol Sci. 2005 Mar 15;229-230:121-9. doi: 10.1016/j.jns.2004.11.012. Epub 
+2004 Dec 15.
+
+MRI identifies MCI subtypes: vascular versus neurodegenerative.
+
+Meyer JS(1), Quach M, Thornby J, Chowdhury M, Huang J.
+
+Author information:
+(1)Department of Neurology, Baylor College of Medicine, Houston, Texas 77030, 
+USA. jmeyer@bcm.tmc.edu
+
+As life expectancy increases worldwide, pandemics of cognitive impairment and 
+dementia are emerging as major public health problems. Mild cognitive impairment 
+(MCI), prodromal for dementia, is a descriptive term used for those clinical 
+states showing early and subtle cognitive decline among the elderly, preceding 
+the dementias. Psychometric screening combining Mini-Mental Status (MMSE) and 
+Cognitive Capacity Screening (CCSE) Examinations, when combined now called CMC 
+with C standing for Combined, M for MMSE, and C for CCSE, confirms diagnosis of 
+MCI. Individuals identified with MCI are at increased risk for dementia of 
+Alzheimer's type (DAT), vascular dementia (VAD) and other rare neurodegenerative 
+dementias, including Lewy body dementia (LBD), fronto-temporal dementia (FTD) 
+and Parkinson's disease dementia (PDD). Depending on different clinical 
+compositions of cohorts studied, and MCI criteria used, between 19% and 50% of 
+MCI progress to dementia within 3-5 years, two thirds to Alzheimer's (DAT) and 
+one third to vascular types (VAD) in the United States. Not all Parkinsonians 
+become demented, but PDD develops in 20-30%, however, PDD subjects were excluded 
+from the present study, as were LBD and FTD. The incidence of MCI in those over 
+age 70, with confirmed cognitive declines when tested 2 years later, is around 
+23%, but some spontaneously improve.
+
+DOI: 10.1016/j.jns.2004.11.012
+PMID: 15760630 [Indexed for MEDLINE]
+
+
+1231. Neurogenetics. 2005 May;6(2):91-5. doi: 10.1007/s10048-005-0210-y. Epub 2005 Mar 
+12.
+
+Novel G335V mutation in the tau gene associated with early onset familial 
+frontotemporal dementia.
+
+Neumann M(1), Diekmann S, Bertsch U, Vanmassenhove B, Bogerts B, Kretzschmar HA.
+
+Author information:
+(1)Center for Neuropathology and Prion Research, Ludwig Maximilians University, 
+Munich, Germany.
+
+Mutations in the tau gene cause familial frontotemporal dementia and 
+parkinsonism linked to chromosome 17. Here we describe a novel missense mutation 
+in exon 12 of the tau gene, G335V, in a German family with frontotemporal 
+dementia of early age at onset, in the third decade of life. Functional analysis 
+of recombinant tau protein with the G335V mutation showed a dramatically reduced 
+ability to promote microtubule assembly and a more rapid and accelerated tau 
+filament formation, suggesting that the primary effect of the mutation might be 
+the provision of a pool of unbound tau making it available for aberrant tau 
+aggregation.
+
+DOI: 10.1007/s10048-005-0210-y
+PMID: 15765246 [Indexed for MEDLINE]
+
+
+1232. Mol Psychiatry. 2005 Jun;10(6):522-4. doi: 10.1038/sj.mp.4001646.
+
+ACAT1 is not associated with Alzheimer's disease in two independent family-based 
+samples.
+
+Bertram L, Hsiao M, Mullin K, Parkinson M, Menon R, Moscarillo TJ, Blacker D, 
+Tanzi RE.
+
+DOI: 10.1038/sj.mp.4001646
+PMID: 15768051 [Indexed for MEDLINE]
+
+
+1233. Brain. 2005 Jun;128(Pt 6):1267-76. doi: 10.1093/brain/awh484. Epub 2005 Mar 17.
+
+Saccadic eye movement changes in Parkinson's disease dementia and dementia with 
+Lewy bodies.
+
+Mosimann UP(1), Müri RM, Burn DJ, Felblinger J, O'Brien JT, McKeith IG.
+
+Author information:
+(1)Institute for Ageing and Health, Wolfson Research Centre, Newcastle General 
+Hospital, Newcastle upon Tyne, UK. u.p.mosimann@ncl.ac.uk
+
+Neurodegeneration in Parkinson's disease dementia (PDD) and dementia with Lewy 
+bodies (DLB) affect cortical and subcortical networks involved in saccade 
+generation. We therefore expected impairments in saccade performance in both 
+disorders. In order to improve the pathophysiological understanding and to 
+investigate the usefulness of saccades for differential diagnosis, saccades were 
+tested in age- and education-matched patients with PDD (n = 20) and DLB (n = 
+20), Alzheimer's disease (n = 22) and Parkinson's disease (n = 24), and controls 
+(n = 24). Reflexive (gap, overlap) and complex saccades (prediction, decision 
+and antisaccade) were tested with electro-oculography. PDD and DLB patients had 
+similar impairment in all tasks (P > 0.05, not significant). Compared with 
+controls, they were impaired in both reflexive saccade execution (gap and 
+overlap latencies, P < 0.0001; gains, P < 0.004) and complex saccade performance 
+(target prediction, P < 0.0001; error decisions, P < 0.003; error antisaccades: 
+P < 0.0001). Patients with Alzheimer's disease were only impaired in complex 
+saccade performance (Alzheimer's disease versus controls, target prediction P < 
+0.001, error decisions P < 0.0001, error antisaccades P < 0.0001), but not 
+reflexive saccade execution (for all, P > 0.05). Patients with Parkinson's 
+disease had, compared with controls, similar complex saccade performance (for 
+all, P > 0.05) and only minimal impairment in reflexive tasks, i.e. hypometric 
+gain in the gap task (P = 0.04). Impaired saccade execution in reflexive tasks 
+allowed discrimination between DLB versus Alzheimer's disease (sensitivity > or 
+=60%, specificity > or =77%) and between PDD versus Parkinson's disease 
+(sensitivity > or =60%, specificity > or =88%) when +/-1.5 standard deviations 
+was used for group discrimination. We conclude that impairments in reflexive 
+saccades may be helpful for differential diagnosis and are minimal when either 
+cortical (Alzheimer's disease) or nigrostriatal neurodegeneration (Parkinson's 
+disease) exists solely; however, they become prominent with combined cortical 
+and subcortical neurodegeneration in PDD and DLB. The similarities in saccade 
+performance in PDD and DLB underline the overlap between these conditions and 
+underscore differences from Alzheimer's disease and Parkinson's disease.
+
+DOI: 10.1093/brain/awh484
+PMID: 15774501 [Indexed for MEDLINE]
+
+
+1234. Australas Psychiatry. 2005 Mar;13(1):54-9. doi: 
+10.1080/j.1440-1665.2004.02150.x.
+
+Diagnosis of dementia with Lewy bodies in clinical practice: a literature 
+review.
+
+Singh D(1).
+
+Author information:
+(1)Aged Person's Mental Health Service, Southern Health, Melbourne, Vic., 
+Australia. dhiren.singh@southernhealth.org.au
+
+OBJECTIVE: To review the research data about dementia with Lewy bodies (DLB) and 
+describe those clinical features and investigations that will enhance more 
+accurate diagnosis in day-to-day practice.
+METHODS: A literature search using MEDLINE, Psychlit, Psychinfo and Cochrane 
+databases was performed.
+CONCLUSIONS: The diagnosis of DLB is important now that treatment is available 
+using cognitive enhancers and because of the risk to patients with DLB who are 
+prescribed neuroleptics. The use of consensus criteria, despite their 
+limitations, and judicious use of ancillary investigations, especially 
+neuroimaging and neuropsychological tests, will enhance diagnostic accuracy.
+
+DOI: 10.1080/j.1440-1665.2004.02150.x
+PMID: 15777413 [Indexed for MEDLINE]
+
+
+1235. Ann Neurol. 2005 Apr;57(4):564-7. doi: 10.1002/ana.20417.
+
+Mitochondrial DNA haplogroup cluster UKJT reduces the risk of PD.
+
+Pyle A(1), Foltynie T, Tiangyou W, Lambert C, Keers SM, Allcock LM, Davison J, 
+Lewis SJ, Perry RH, Barker R, Burn DJ, Chinnery PF.
+
+Author information:
+(1)Mitochondrial Research Group, The University of Newcastle upon Tyne, 
+Newcastle upon Tyne, United Kingdom.
+
+There is increasing evidence that genetic variants of mitochondrial DNA have an 
+important role in the cause of idiopathic Parkinson's disease. We determined the 
+mitochondrial DNA haplogroup of 455 Parkinson's disease cases, 185 Alzheimer's 
+disease cases, and 447 healthy English control subjects. The UKJT haplogroup 
+cluster was associated with a 22% reduction in population-attributable risk for 
+Parkinson's disease. There was no association between individual haplogroups or 
+the UKJT cluster and Alzheimer's disease, confirming that the association with 
+Parkinson's disease was disease specific and not a general effect seen in all 
+neurodegenerative diseases.
+
+DOI: 10.1002/ana.20417
+PMID: 15786469 [Indexed for MEDLINE]
+
+
+1236. Brain. 2005 Jun;128(Pt 6):1247-58. doi: 10.1093/brain/awh488. Epub 2005 Mar 23.
+
+Characteristics of two distinct clinical phenotypes in pathologically proven 
+progressive supranuclear palsy: Richardson's syndrome and PSP-parkinsonism.
+
+Williams DR(1), de Silva R, Paviour DC, Pittman A, Watt HC, Kilford L, Holton 
+JL, Revesz T, Lees AJ.
+
+Author information:
+(1)The Queen Square Brain Bank for Neurological Disorders, University College 
+London, UK.
+
+Comment in
+    Brain. 2005 Jun;128(Pt 6):1235-6.
+
+The clinical diagnosis of progressive supranuclear palsy (PSP) relies on the 
+identification of characteristic signs and symptoms. A proportion of 
+pathologically diagnosed cases do not develop these classic features, prove 
+difficult to diagnose during life and are considered as atypical PSP. The aim of 
+this study was to examine the apparent clinical dichotomy between typical and 
+atypical PSP, and to compare the biochemical and genetic characteristics of 
+these groups. In 103 consecutive cases of pathologically confirmed PSP, we have 
+identified two clinical phenotypes by factor analysis which we have named 
+Richardson's syndrome (RS) and PSP-parkinsonism (PSP-P). Cases of RS syndrome 
+made up 54% of all cases, and were characterized by the early onset of postural 
+instability and falls, supranuclear vertical gaze palsy and cognitive 
+dysfunction. A second group of 33 (32%) were characterized by asymmetric onset, 
+tremor, a moderate initial therapeutic response to levodopa and were frequently 
+confused with Parkinson's disease (PSP-P). Fourteen cases (14%) could not be 
+separated according to these criteria. In RS, two-thirds of cases were men, 
+whereas the sex distribution in PSP-P was even. Disease duration in RS was 
+significantly shorter (5.9 versus 9.1 years, P < 0.001) and age at death earlier 
+(72.1 versus 75.5 years, P = 0.01) than in PSP-P. The isoform composition of 
+insoluble tangle-tau isolated from the basal pons also differed significantly. 
+In RS, the mean four-repeat:three-repeat tau ratio was 2.84 and in PSP-P it was 
+1.63 (P < 0.003). The effect of the H1,H1 PSP susceptibility genotype appeared 
+stronger in RS than in PSP-P (odds ratio 13.2 versus 4.5). The difference in 
+genotype frequencies between the clinical subgroups was not significant. There 
+were no differences in apolipoprotein E genotypes. The classic clinical 
+description of PSP, which includes supranuclear gaze palsy, early falls and 
+dementia, does not adequately describe one-third of cases in this series of 
+pathologically confirmed cases. We propose that PSP-P represents a second 
+discrete clinical phenotype that needs to be clinically distinguished from 
+classical PSP (RS). The different tau isoform deposition in the basal pons 
+suggests that this may ultimately prove to be a discrete nosological entity.
+
+DOI: 10.1093/brain/awh488
+PMID: 15788542 [Indexed for MEDLINE]
+
+
+1237. J Neurol Sci. 2005 Apr 15;231(1-2):3-11. doi: 10.1016/j.jns.2004.08.016. Epub 
+2004 Dec 29.
+
+Alzheimer's disease with and without cerebral infarcts.
+
+Del Ser T(1), Hachinski V, Merskey H, Munoz DG.
+
+Author information:
+(1)Sección de Neurología, Hospital Severo Ochoa, Avda. Orellana s/n, Leganés, 
+28911 Madrid, Spain. tdeserq@meditex.es
+
+OBJECTIVE: To compare the clinical and pathological features of Alzheimer's 
+disease (AD) patients with and without associated cerebral infarcts (CI).
+METHODS: The consecutive records of 57 prospectively studied demented patients 
+fulfilling the CERAD criteria for the pathological diagnosis of AD were 
+reviewed. Cases with cortical Lewy bodies were excluded. CI were found in 22 
+cases (39%) (AD+CI group): large infarcts (5), lacunes (13) and/or hippocampal 
+sclerosis (4), and were absent in 35 cases (AD group). Microscopic infarcts, 
+cribiform change, amyloid angiopathy, and white matter rarefaction were not 
+considered in this classification, but were quantified. Cortical atrophy, 
+neurofibrillary tangle and senile plaque (diffuse and neuritic) load were also 
+measured. Pathological evaluation was independent of clinical information. 
+Clinical and pathological data were compared between both groups.
+RESULTS: AD+CI cases were significantly older, more commonly female, less 
+educated, and more often had blue collar occupations, sleep disturbances, 
+frontal release signs, and EEG spikes than AD cases. Other differences found 
+(acute/subacute onset, behavioral disturbances, and leukoaraiosis on CT scan) 
+disappeared after controlling for age. The frequency of known vascular risk 
+factors and focal motor and sensory signs did not differ between the groups, 
+which showed remarkable clinical similarity overall. The only significant 
+differences on pathological exam were hippocampal microinfarcts and white matter 
+lesions, although there was a trend for lower neurodegenerative lesion load in 
+the AD+CI group. The ischemic lesions were located in temporal lobe in 50% of 
+AD+CI patients; these cases had a significantly lower neocortical 
+neurodegenerative lesion load than those with CI in other sites.
+CONCLUSIONS: The presence of CI in AD increases significantly with age, but has 
+scarce influence on the clinical features, and cannot be predicted from common 
+vascular risk factors. In spite of a trend, there are no major differences in 
+neurodegenerative lesion load between AD and AD+CI groups, except when CI are 
+located in the temporal lobe (including hippocampus), suggesting that this 
+location may be important in the physiopathology of mixed vascular and AD 
+dementia.
+
+DOI: 10.1016/j.jns.2004.08.016
+PMID: 15792814 [Indexed for MEDLINE]
+
+
+1238. J Clin Neurol. 2005 Apr;1(1):97-100. doi: 10.3988/jcn.2005.1.1.97. Epub 2005 Apr 
+30.
+
+A Case of Biopsy-proven Early-onset Alzheimer's Disease with Hemiparkinsonism.
+
+Choi EJ(1), Bang H, Im JH, Chung SJ, Lee JH.
+
+Author information:
+(1)Department of Neurology, Korea University College of Medicine, Guro Hospital, 
+Seoul, Korea.
+
+Patients with dementia and concomitant parkinsonism are frequently encountered 
+in the elderly population. When it comes to young adults, however, coexistence 
+of Alzheimer's disease (AD) and Parkinson's disease (PD) is rare. We described a 
+case of 47-year old man with presenile onset dementia associated with 
+hemiparkinsonism involving the right extremities. Brain biopsy showed 
+neurofibrillary tangles and neuritic plaques, compatible with Alzheimer's 
+disease. Iodine-123 labelled 
+N-(3-iodopropen-2-yl)-2beta-carbomethoxy-3beta-(4-chlorophenyl) tropane 
+([(123)I]IPT) SPECT, dopamine transporter imaging, revealed a decreased uptake 
+in both basal ganglia, more severe on the left side, particularly the caudal 
+putamen, which is consistent with the finding of idiopathic Parkinson's disease. 
+This case is unique in that damage on the nigrostriatal dopaminergic system in a 
+patient with Alzheimer's disease was demonstrated by a functional neuroimaging 
+study and that early-onset AD and early-onset PD, two rare conditions, coexist 
+in the same individual.
+
+DOI: 10.3988/jcn.2005.1.1.97
+PMCID: PMC2854937
+PMID: 20396477
+
+
+1239. Eur J Neurol. 2005 May;12(5):365-8. doi: 10.1111/j.1468-1331.2004.00973.x.
+
+Hyperhomocysteinemia in L-dopa treated Parkinson's disease patients: effect of 
+cobalamin and folate administration.
+
+Lamberti P(1), Zoccolella S, Armenise E, Lamberti SV, Fraddosio A, de Mari M, 
+Iliceto G, Livrea P.
+
+Author information:
+(1)Department of Neurological Sciences, University of Bari, Ospedale 
+Policlinico, Bari, Italy. lamberti@neurol.uniba.it
+
+Homocysteine (Hcy) is a risk factor for vascular diseases, cognitive impairment 
+and dementia. L-dopa treatment may represent an acquired cause of 
+hyperhomocysteinemia (HHcy), as evidenced by studies in rats as well as in 
+Parkinson's disease (PD) patients. Folate and cobalamin status also seems to 
+influence the effects of L-dopa on plasma Hcy levels; therefore B-vitamins 
+supplementation has been proposed to reduce the HHcy in L-dopa treated PD 
+patients. Plasma Hcy, folate, and cobalamin levels were evaluated in 20 PD 
+patients treated with L-dopa in the baseline condition and following a 5-week 
+period of treatment with cobalamin and folate; results were compared with 35 
+controls. Analysis of data revealed that Hcy levels were higher in L-dopa 
+treated PD patients when compared with age- and sex-matched controls and that 
+supplementation of the diet with cobalamin and folate is effective in reducing 
+Hcy concentrations; these findings may have important implications in the 
+treatment of PD patients who are potentially at risk for vascular diseases and 
+cognitive impairment or dementia.
+
+DOI: 10.1111/j.1468-1331.2004.00973.x
+PMID: 15804266 [Indexed for MEDLINE]
+
+
+1240. J Neurol. 2005 Oct;252(10):1186-93. doi: 10.1007/s00415-005-0830-z. Epub 2005 
+Apr 13.
+
+Olanzapine as a possible treatment of behavioral symptoms in vascular dementia: 
+risks of cerebrovascular events. A controlled, open-label study.
+
+Moretti R(1), Torre P, Antonello RM, Cattaruzza T, Cazzato G.
+
+Author information:
+(1)Dip. di Medicina Clinica e Neurologia, UCO di Neurologia, Università degli 
+Studi di Trieste, Ospedale di Cattinara, 34149 Trieste, Italy. 
+moretti@univ.trieste.it
+
+Behavioral problems produce excess disability, potentially devastating in 
+cognitively impaired patients. These behavioral symptoms can be a major cause of 
+stress, anxiety and concern for caregivers. While psychotropic drugs are 
+frequently used to control these symptoms, they have the potential for 
+significant side effects, which include sedation, disinhibition, depression, 
+falls, incontinence, parkinsonism and akathisia. We followed up (for 12 months) 
+a group of 346 consecutive outpatients, with a diagnosis of subcortical vascular 
+dementia or multi-infarctual dementia. Patients eligible for this open-label 
+study were required to have behavioral problems (BPSD). Patients were divided 
+into two groups, Group A received olanzapine 2.5-7.5 mg/day while Group B 
+received typical antipsychotics. Patients in both groups were allowed to 
+continue any previous therapy. Patients in both groups were significantly 
+improved in their BPSD. Our patients had a host of medical conditions and 
+received numerous concomitant medications. Given the potential complications 
+associated with these therapeutic agents, these patients tolerated olanzapine 
+quite well. On examination of consequences of adverse events, particularly 
+somnolence, postural instability, and postural hypotension, it appeared that 
+cerebrovascular events were not present. Moreover, no anticholinergic effect was 
+recorded. These findings suggest that olanzapine could be a safe and effective 
+treatment even for elderly population in suitable doses and receiving the 
+adequate follow-up.
+
+DOI: 10.1007/s00415-005-0830-z
+PMID: 15809822 [Indexed for MEDLINE]
+
+
+1241. Fundam Clin Pharmacol. 2005 Apr;19(2):133-46. doi: 
+10.1111/j.1472-8206.2005.00317.x.
+
+Treatment of behavioural symptoms and dementia in Parkinson's disease.
+
+Hanagasi HA(1), Emre M.
+
+Author information:
+(1)Behavioral Neurology and Movement Disorders Unit, Department of Neurology, 
+Istanbul Faculty of Medicine, Istanbul University, 34390 Capa/Istanbul, Turkey. 
+hasmet@yahoo.com
+
+Behavioural symptoms such as anxiety, depression and psychosis are common in 
+Parkinson's disease (PD), and dementia occurs in about 90% of the patients. 
+These symptoms can be more disabling than the motor dysfunction and they 
+negatively impact quality of life, increase caregiver distress and are more 
+frequently associated with nursing home placement. Depression can be treated 
+with counselling and pharmacotherapy. Tricyclic antidepressants or selective 
+serotonin reuptake inhibitors are widely used, but there is still need for 
+controlled clinical trials. Management of psychosis in PD is complex and 
+includes elimination of identifiable risk factors, reduction of polypharmacy and 
+administration of atypical neuroleptics, which can alleviate psychotic symptoms 
+without worsening motor functions. Clozapine is the best documented atypical 
+neuroleptic shown to be effective against psychosis in PD patients. 
+Cholinesterase inhibitors may prove additional benefit in psychotic PD patients. 
+Recent evidence from small double-blind and open-label trials suggests that 
+cholinesterase inhibitors may be effective in the treatment of dementia 
+associated with PD.
+
+DOI: 10.1111/j.1472-8206.2005.00317.x
+PMID: 15810893 [Indexed for MEDLINE]
+
+
+1242. Brain. 2005 Jul;128(Pt 7):1595-604. doi: 10.1093/brain/awh493. Epub 2005 Apr 7.
+
+Brain tissue damage in dementia with Lewy bodies: an in vivo diffusion tensor 
+MRI study.
+
+Bozzali M(1), Falini A, Cercignani M, Baglio F, Farina E, Alberoni M, Vezzulli 
+P, Olivotto F, Mantovani F, Shallice T, Scotti G, Canal N, Nemni R.
+
+Author information:
+(1)Don Carlo Gnocchi Foundation, Scientific Institute and University, IRCCS, 
+Milan, Italy. m.bozzali@fil.ion.ucl.ac.uk
+
+The aim of the present study was to apply diffusion tensor MRI (DT-MRI), a 
+quantitative MRI measure which reflects tissue organization, to dementia with 
+Lewy bodies (DLB). DT-MRI scans were obtained from 15 patients with probable DLB 
+and 10 sex- and age-matched healthy controls. Abnormalities were found in the 
+corpus callosum, pericallosal areas and the frontal, parietal, occipital and, 
+less prominently, temporal white matter of patients compared with controls. 
+Abnormalities were also found in the caudate nucleus and the putamen. The 
+average grey matter volume was lower in patients than in controls. These 
+findings of concomitant grey matter atrophy and white matter abnormalities (as 
+detected by DT-MRI) in regions with a high prevalence of long connecting fibre 
+tracts might suggest the presence of neurodegeneration involving associative 
+cortices. The modest involvement of the temporal lobe fits with the relative 
+preservation of global neuropsychological measures and memory tasks in the early 
+stage of DLB. The selective involvement of parietal, frontal and occipital lobes 
+might explain some of the clinical and neuropsychological features of DLB, 
+providing a possible distinctive marker for this disease. The abnormalities 
+found in the subcortical grey matter may indicate that DLB and Parkinson's 
+disease share a similar nigrostriatal involvement caused by common 
+pathophysiological mechanisms.
+
+DOI: 10.1093/brain/awh493
+PMID: 15817515 [Indexed for MEDLINE]
+
+
+1243. Clin Neurol Neurosurg. 2005 Apr;107(3):165-73. doi: 
+10.1016/j.clineuro.2004.10.011.
+
+CSF biomarkers for mild cognitive impairment and early Alzheimer's disease.
+
+Andreasen N(1), Blennow K.
+
+Author information:
+(1)Karolinska Institutet, Department of NEUROTEC, Section of Geriatric Medicine, 
+M51, Karolinska University Hospital, Huddinge, SE-141 86 Stockholm, Sweden. 
+niels.andreasen@neurotec.ki.se
+
+A correct clinical diagnosis, early in the course of Alzheimer's disease (AD), 
+is of importance given the currently available symptomatic treatment with 
+acetylcholine esterase inhibitors. The development of disease-modifying drugs 
+like beta-sheet breakers or gamma- and beta-secretase inhibitors, emphasizes the 
+need of improved diagnostic accuracy, especially in patients with mild cognitive 
+impairment (MCI) that have incipient AD. Therefore, diagnostic markers in the 
+cerebrospinal fluid (CSF) have become a rapidly growing research field. Three 
+cerebrospinal fluid biomarkers (the 42 amino acid form of beta-amyloid (A beta), 
+total tau, and phospho tau) have been evaluated in numerous scientific papers. 
+These CSF markers have high sensitivity to differentiate early and incipient AD 
+from normal aging, depression, alcohol dementia and Parkinson's disease, but 
+lower specificity against other dementias, such as frontotemporal and Lewy body 
+dementia. If these biomarkers are used in combination with a careful medical 
+history, clinical examination, standard laboratory tests and imaging techniques 
+of the brain, the diagnostic accuracy may be appropriate for the clinical 
+evaluation of MCI cases.
+
+DOI: 10.1016/j.clineuro.2004.10.011
+PMID: 15823670 [Indexed for MEDLINE]
+
+
+1244. Neurology. 2005 Apr 12;64(7):1157-61. doi: 10.1212/01.WNL.0000156157.97411.5E.
+
+Association between mild parkinsonian signs and mild cognitive impairment in a 
+community.
+
+Louis ED(1), Schupf N, Manly J, Marder K, Tang MX, Mayeux R.
+
+Author information:
+(1)The Gertrude H. Sergievsky Center, Taub Institute for Research on Alzheimer's 
+Disease, New York, NY, USA. EDL2@columbia.edu
+
+BACKGROUND: Mild parkinsonian signs (MPS) are associated with prevalent and 
+incident dementia but it is not known whether they are associated with mild 
+cognitive impairment (MCI).
+OBJECTIVE: To determine whether MPS and specific MPS (changes in axial function, 
+rigidity, tremor) are associated with MCI in nondemented community-dwelling 
+older people in northern Manhattan, NY.
+METHODS: Participants underwent neurologic assessment, including a modified 
+motor portion of the Unified Parkinson Disease Rating Scale. MCI was diagnosed 
+in nondemented participants who had cognitive impairment based on 
+neuropsychological testing and no functional impairment. Participants with MCI 
+were classified as having MCI with memory impairment (MCI+M) vs MCI without 
+memory impairment (MCI-M).
+RESULTS: MCI was present in 608 (27.3%) of 2,230 participants, including 255 
+participants with MCI+M and 353 with MCI-M; 1,622 participants did not have MCI. 
+MPS were present in 369 (16.5%) of 2,230 participants. In a univariate logistic 
+regression model, odds of MCI+M (vs no MCI) were 51% higher in participants with 
+MPS compared to those with no MPS (OR = 1.51, 95% CI = 1.09 to 2.09, p = 0.01). 
+Multivariate models yielded similar results (OR = 1.45, 95% CI = 1.03 to 2.05, p 
+= 0.03). Rigidity was present in a higher proportion of participants with MCI+M 
+compared to participants without MCI.
+CONCLUSIONS: Mild parkinsonian signs, especially rigidity, are associated with 
+amnestic mild cognitive impairment. Mild parkinsonian signs and mild cognitive 
+impairment may share similar pathogeneses. Whether this involves Alzheimer-type 
+pathology, Lewy bodies, or vascular changes in the basal ganglia or basal 
+ganglia circuitry deserves further investigation in postmortem studies.
+
+DOI: 10.1212/01.WNL.0000156157.97411.5E
+PMID: 15824340 [Indexed for MEDLINE]
+
+
+1245. J Neurol. 2005 Oct;252(10):1223-8. doi: 10.1007/s00415-005-0840-x. Epub 2005 Apr 
+18.
+
+Factors associated with drug-induced visual hallucinations in Parkinson's 
+disease.
+
+Papapetropoulos S(1), Argyriou AA, Ellul J.
+
+Author information:
+(1)Dept. of Neurology, University of Miami, School of Medicine, Room 4004, 1501 
+NW 9th Avenue, Miami, FL 33136, USA. spapapetropoulos@med.miami.edu
+
+AIMS: Visual hallucinations are common in medication-treated Parkinson's disease 
+(PD) patients. Although their etiology is unknown several factors seem to be 
+involved in their pathogenesis. The aim of this study was to identify possible 
+risk factors and determine clinical characteristics associated with the 
+development of visual hallucinations in PD.
+METHODS: 166 consecutive patients fulfilling clinical criteria for PD were 
+studied. During a semi-structured interview, demographic characteristics and 
+clinical variables were recorded. Motor, cognitive and psychiatric status was 
+also assessed. Patients with and without visual hallucinations were compared 
+using non-parametric tests, and logistic regression was applied to significant 
+data.
+RESULTS: During the month before evaluation 20.4% of our patients experienced 
+visual hallucinations (11.4% benign, 9% malignant). Logistic regression analysis 
+identified three factors independently associated with visual hallucinations: 
+long duration of Parkinson's disease, dementia, and disease severity as measured 
+by the UPDRS total score.
+CONCLUSIONS: Our findings indicate that apart from well established risk factors 
+such as cognitive impairment and disease duration, disease severity is also 
+important for the development of visual hallucinations in PD. Furthermore, the 
+presence of bradykinesia and instability, the absence of tremor and the severity 
+of rigidity and bradykinesia (limb and axial) may act as cofactors.
+
+DOI: 10.1007/s00415-005-0840-x
+PMID: 15834642 [Indexed for MEDLINE]
+
+
+1246. Brain. 2005 Jul;128(Pt 7):1707-15. doi: 10.1093/brain/awh501. Epub 2005 Apr 20.
+
+A multigenerational pedigree of late-onset Alzheimer's disease implies new 
+genetic causes.
+
+Jimenez-Escrig A(1), Gomez-Tortosa E, Baron M, Rabano A, Arcos-Burgos M, 
+Palacios LG, Yusta A, Anta P, Perez I, Hierro M, Munoz DG, Barquero S.
+
+Author information:
+(1)Hospital Ramon y Cajal, Universidad de Alcala, Madrid, Spain. 
+adriano.jimenez@hrc.es
+
+We describe the clinical phenotype and pathology of a new autosomal dominant 
+late-onset familial form of Alzheimer's disease in four extensive kindred 
+originated in a genetically isolated population. Twelve affected and 16 
+unaffected members of these kindred were examined clinically, and a brain 
+post-mortem study was carried out in one case. The preliminary genetic 
+assessment included complex segregation analysis, evaluation of the power to 
+detect linkage, and exclusion of candidate genes. Dementia has been recorded for 
+six generations in ancestors of examined cases. Review of death certificates 
+allowed linking of all subjects in four extensive pedigrees. Affected 
+individuals examined had progressive memory loss with onset between 57 and 74 
+years of age, along with seizures, myoclonus and parkinsonism in advanced 
+stages. The brain of the case examined post-mortem showed widespread neocortical 
+neuritic plaques and neurofibrillary tangles (stage VI of Braak), amyloid 
+angiopathy, and Lewy bodies restricted to limbic areas. Sequencing exons 16 and 
+17 of amyloid precursor protein, and exons 4-12 of presenilin 1 and presenilin 2 
+genes did not disclose any mutations. Genotyping with markers D21S265, D14S71, 
+D14S77, D1S2850 and D1S479 located 1-3 cM from the previously reported genes 
+further excluded linkage to these genes. Seven out of 12 cases were 
+apolipoprotein E (APOE) epsilon3/3, although the presence of an APOE epsilon4 
+allele was associated with an increased risk of dementia (odd ratio 6.17; 95% 
+confidence interval: 1.15-33.15), but not to an earlier age of onset. Complex 
+segregation analysis showed that the best model fitting the data was that of a 
+major gene (dominant) with a gene frequency close to 3% in this population. 
+Simulation analysis predicted an average logarithm of odds (LOD) of 2.2 at = 
+0.05. These four families, which seem to be part of a common extended pedigree 
+originated by a founder arriving in this region in the 18th century, represent 
+an autosomal dominant late-onset familial Alzheimer's disease not linked to 
+previously known genetic loci. The simulation analysis suggests that it will be 
+feasible to locate a novel responsible gene in these kindred.
+
+DOI: 10.1093/brain/awh501
+PMID: 15843424 [Indexed for MEDLINE]
+
+
+1247. Neurology. 2005 Apr 26;64(8):1404-10. doi: 10.1212/01.WNL.0000158422.41380.82.
+
+Cognitive status correlates with neuropathologic stage in Parkinson disease.
+
+Braak H(1), Rüb U, Jansen Steur EN, Del Tredici K, de Vos RA.
+
+Author information:
+(1)Institute for Clinical Neuroanatomy, J.W. Goethe University, Frankfurt/Main, 
+Germany. Braak@em.uni-frankfurt.de
+
+OBJECTIVE: To study the association of cognitive status with the stages of a 
+published neuropathologic staging procedure for sporadic Parkinson disease (PD) 
+in a cohort of 88 patients with PD from a single neurologic unit. None had 
+received the clinical diagnosis of dementia with Lewy bodies (DLB).
+METHODS: The authors assessed Lewy neurites/bodies (LNs/LBs) immunoreactive for 
+alpha-synuclein semiquantitatively in sections from 18 brain regions. In 
+silver-stained sections and sections immunostained for tau and beta-amyloid 
+protein, the authors semiquantitatively evaluated comorbidities potentially 
+contributing to cognitive decline, e.g., Alzheimer disease (AD), argyrophilic 
+grain disease (AGD), and cerebral vascular disease. The authors analyzed four 
+Mini-Mental State Examination (MMSE) subgroups ranging from marginally impaired 
+cognition to severe dementia using nonparametric tests.
+RESULTS: It was possible to assign all patients to one of the PD stages. MMSE 
+scores correlated with neuropathologic stages (p < 0.005) and this association 
+showed a linear trend (p < 0.025). Median MMSE test scores for women were lower 
+than those for men. Cognitively impaired individuals displayed higher stages of 
+AD-related neurofibrillary pathology (p < 0.05) and beta-amyloid deposition (p < 
+0.05) than cognitively unimpaired persons. MMSE scores did not correlate 
+significantly with AGD, disease duration, age at disease onset, or age at death. 
+Hoehn and Yahr scores, however, correlated with PD stages (p < 0.0005) and MMSE 
+scores (p < 0.0005).
+CONCLUSIONS: The decrease in median Mini-Mental State Examination scores between 
+PD stages 3 to 6 indicates that the risk of developing dementia increases with 
+disease progression. In some individuals, however, cognitive decline can develop 
+in the presence of mild Parkinson disease-related cortical pathology and, 
+conversely, widespread cortical lesions do not necessarily lead to cognitive 
+decline.
+
+DOI: 10.1212/01.WNL.0000158422.41380.82
+PMID: 15851731 [Indexed for MEDLINE]
+
+
+1248. Mov Disord. 2005 Aug;20(8):989-94. doi: 10.1002/mds.20481.
+
+Apolipoprotein E epsilon4 and catechol-O-methyltransferase alleles in 
+autopsy-proven Parkinson's disease: relationship to dementia and hallucinations.
+
+Camicioli R(1), Rajput A, Rajput M, Reece C, Payami H, Hao C, Rajput A.
+
+Author information:
+(1)University of Alberta, Edmonton, Alberta, Canada. rcamicio@ualberta.ca
+
+We determined whether apolipoprotein E epsilon4 (ApoE4) or 
+catechol-O-methyltransferase (COMT) genotypes were associated with dementia, 
+hallucinations, Alzheimer's disease pathological findings (AP), or cortical Lewy 
+bodies (CLBs) in autopsy-confirmed cases of Parkinson's disease (PD). Outcomes 
+were obtained from medical records. Pathology reports identified AP and CLBs. 
+Brain tissue was genotyped. A total of 47 subjects (33 men, 14 women) had PD 
+onset at 62.4 +/- 8.7 years of age and died at 77.8 +/- 5.6 years of age. 
+Demented and hallucinating patients did not differ in age at onset (AO) of PD or 
+age at death, or the proportion ApoE4+, AP+, or CLB+ compared to nondemented 
+patients or non-hallucinating patients. ApoE4 and COMT (low metabolizer [LH], 
+intermediate metabolizer [HL], or high metabolizer [HH]) did not influence AO, 
+death, or dementia- or hallucination-free survival, based on age or duration of 
+treatment. All seven subjects with AP were demented and had hallucinations. CLBs 
+were associated with dementia but not hallucinations. In Cox regression models 
+adjusting for AO and duration of treatment, increased risk of dementia was 
+associated with male sex but not significantly with ApoE4; inclusion of AP in 
+the model did not affect the results; COMT was not a risk factor for dementia. 
+Psychosis risk was not associated with ApoE4, COMT, or sex. The observation that 
+males have increased dementia risk and the trend for ApoE4 requires confirmation 
+in larger prospective autopsy studies.
+
+Copyright 2005 Movement Disorder Society
+
+DOI: 10.1002/mds.20481
+PMID: 15852364 [Indexed for MEDLINE]
+
+
+1249. Int J Geriatr Psychiatry. 2005 May;20(5):418-22. doi: 10.1002/gps.1297.
+
+Dementia in Parkinson's disease: a post-mortem study in a population of brain 
+donors.
+
+Papapetropoulos S(1), Gonzalez J, Lieberman A, Villar JM, Mash DC.
+
+Author information:
+(1)Department of Neurology University of Miami, School of Medicine, FL 33136, 
+USA. spapapetropoulous@med.miami.edu
+
+OBJECTIVE: To identify factors associated with dementia in a cohort of 
+Parkinson's disease (PD) brain donors and determine whether its presence may 
+influence the clinical phenotype of the disease.
+METHODS: We included 67 consecutive patients with a clinical and pathological 
+diagnosis of PD, who while alive, consented to donate their brains to the 
+University of Miami Brain Endowment Bank(TM). Dementia and psychiatric 
+complications of PD were diagnosed according to established criteria. Case 
+histories were abstracted and reviewed and comparisons between PD patients with 
+(PD-D, n = 34) and without (PD, n = 33) dementia were made.
+RESULTS: Age at death, age at disease onset and disease duration did not differ 
+significantly between PD-D and PD patients. Other symptoms were similar in both 
+groups. Visual hallucinations and bilateral symptoms at diagnosis were 
+significantly higher in PD-D patients. No association between dementia and 
+overall survival duration was found. Although the frequency of depression and 
+psychosis was higher in the PD patients with dementia no statistical 
+significance was reached. The overall lifetime prevalence of dementia in our 
+group was 50.7%.
+CONCLUSIONS: Visual hallucinations and bilateral symptoms were associated with 
+dementia in our cohort of PD brain donors. No association between dementia and 
+survival duration was found. Understanding the influence of dementia on the 
+clinical phenotype of the disease and predicting its development is essential 
+for the successful management of PD.
+
+Copyright 2005 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/gps.1297
+PMID: 15852454 [Indexed for MEDLINE]
+
+
+1250. Neurosci Lett. 2005 May 20-27;380(1-2):166-9. doi: 10.1016/j.neulet.2005.01.088.
+
+Differences in magnetization transfer ratios of the hippocampus between dementia 
+with Lewy bodies and Alzheimer's disease.
+
+Hanyu H(1), Shimizu S, Tanaka Y, Kanetaka H, Iwamoto T, Abe K.
+
+Author information:
+(1)Department of Geriatric Medicine, Tokyo Medical University, 6-7-1 
+Nishishinjuku Shinjuku-ku, Tokyo 160-0023, Japan. hanyu@mb.kcom.ne.jp
+
+We compared magnetization transfer ratios (MTRs) in the brains of patients with 
+dementia with Lewy bodies (DLB) and Alzheimer's disease (AD) to determine 
+whether regional differences in the brain structures between DLB and AD are 
+detectable with magnetization transfer imaging. Seventeen patients with DLB, 31 
+patients with AD and 18 elderly normal controls were included. Although no 
+significant differences were found in MTRs in the frontal white matter between 
+the three groups, MTRs in the hippocampus, parahippocampus, and posterior 
+cingulate white matter in both patients with DLB and AD were significantly lower 
+than those in age-matched control subjects. However, MTRs in the hippocampus of 
+patients with DLB were significantly higher than those in patients with AD. 
+Logistic regression analysis revealed that hippocampal MTR yielded a sensitivity 
+of 76% and a specificity of 71% in discriminating DLB from AD. These results may 
+reflect underlying histopathological differences with less severe neuronal 
+degeneration in the hippocampus of DLB. MTR measurement of the hippocampus may 
+contribute to the clinical differentiation between DLB and AD.
+
+DOI: 10.1016/j.neulet.2005.01.088
+PMID: 15854771 [Indexed for MEDLINE]
+
+
+1251. Neuropathology. 2005 Jun;25(2):153-8. doi: 10.1111/j.1440-1789.2005.00595.x.
+
+Miliary brain metastases presenting as rapidly progressive dementia.
+
+Rivas E(1), Sanchez-Herrero J, Alonso M, Alvarez MJ, Teijeira S, Ballestín C, 
+Tardio A, Navarro C.
+
+Author information:
+(1)Department of Pathology and Neuropathology, Meixoeiro Hospital, Vigo, Spain.
+
+We report the case of a 79-year-old woman who developed a rapidly progressive 
+dementia (RPD) with severe memory impairment, early visual hallucinations and 
+extrapyramidal signs. Symptoms started suddenly after hip replacement surgery 
+following an accidental fall. Motor epileptic seizures appeared at the end of 
+the illness. Dementia worsened gradually leading to akinetic mutism. She died 
+five and a half months after the onset of symptoms. MRI showed cerebral atrophy 
+but failed to detect any other lesion. Results of all laboratory tests performed 
+were negative. After the most frequent treatable diseases were excluded, the 
+diagnosis of dementia with Lewy bodies was initially considered. CJD was also 
+suggested based on the rapid evolution of the disease and the positivity of 
+14-3-3 protein in CSF. Neuropathological examination revealed an extensive 
+miliary metastatic dissemination from an unknown primary adenocarcinoma. 
+Pulmonary origin was suggested according to the immunohistochemical profile. 
+Histopathological changes of Alzheimer's disease were also observed in the 
+cerebral cortex and hippocampus. Neither Lewy bodies nor PrP deposits were 
+found. The sudden onset of the dementia just after the hip replacement surgery 
+raises the possibility of a pathological fracture with secondary tumoral 
+microembolic dissemination. Despite its rarity, this entity should be included 
+in the differential diagnosis of RPD. This case illustrates the definite 
+importance of neuropathological post-mortem examination in order to elucidate 
+the different types of dementia.
+
+DOI: 10.1111/j.1440-1789.2005.00595.x
+PMID: 15875909 [Indexed for MEDLINE]
+
+
+1252. Parkinsonism Relat Disord. 2005 Jun;11(4):205-8. doi: 
+10.1016/j.parkreldis.2005.01.003.
+
+The effect of tau genotype on clinical features in FTDP-17.
+
+Baba Y(1), Tsuboi Y, Baker MC, Uitti RJ, Hutton ML, Dickson DW, Farrer M, Putzke 
+JD, Woodruff BK, Ghetti B, Murrell JR, Boeve BF, Petersen RC, Verpillat P, Brice 
+A, Delisle MB, Rascol O, Arima K, Dysken MW, Yasuda M, Kobayashi T, Sunohara N, 
+Komure O, Kuno S, Sperfeld AD, Stoppe G, Kohlhase J, Pickering-Brown S, Neary D, 
+Bugiani O, Wszolek ZK.
+
+Author information:
+(1)Department of Neurology, Mayo Clinic, 4500 San Pablo Road, Jacksonville, FL 
+32224, USA.
+
+The clinical phenotype of frontotemporal dementia with parkinsonism linked to 
+chromosome 17 (FTDP-17) varies. This variability is seen not only between 
+kindreds with different mutations but also in families sharing the same 
+mutation. Inheritance of tau haplotype (H1) and genotype (H1/H1) has been 
+established as a risk factor for some neurodegenerative disorders with 
+parkinsonism. We assessed the effect of tau polymorphism on the clinical 
+features of FTDP-17 in 61 cases from 30 separately ascertained families with 
+four different tau mutations, including P301L, +16, N279K, and P301S. There were 
+no significant differences of age at symptomatic onset and disease duration 
+between H1/H1 and H1/H2 genotypes. The comparison between tau genotype and type 
+of initial clinical sign showed an association between the H1/H1 genotype and 
+parkinsonian phenotype and between the H1/H2 genotype and frontotemporal 
+dementia phenotype (OR=11.7; 95% confidence interval, 1.4-98.7; P=0.008). Our 
+results suggest that tau genotype does not influence the disease course. 
+However, it may predispose to a specific clinical sign in the early stage of 
+FTDP-17.
+
+DOI: 10.1016/j.parkreldis.2005.01.003
+PMID: 15878580 [Indexed for MEDLINE]
+
+
+1253. Parkinsonism Relat Disord. 2005 Jun;11(4):253-6. doi: 
+10.1016/j.parkreldis.2005.01.007. Epub 2005 Apr 20.
+
+Reduced plasma homocysteine levels in levodopa/entacapone treated Parkinson 
+patients.
+
+Valkovic P(1), Benetin J, Blazícek P, Valkovicová L, Gmitterová K, Kukumberg P.
+
+Author information:
+(1)Department of Neurology, Derer's University Hospital, Limbová 5, Bratislava 
+83305, Slovak Republic. valkovicpeter@hotmail.com
+
+Hyperhomocysteinemia is not only a major risk factor for atherothrombotic 
+disease, but is also strongly associated with an increased risk of dementia and 
+cognitive impairment, both of which are common in the course of Parkinson's 
+disease (PD). Previous work has found that levodopa increases plasma 
+homocysteine concentrations. Animal studies have indicated that the 
+catechol-O-methyltransferase (COMT) inhibitors can prevent levodopa-induced 
+elevation of homocysteine concentrations by reducing the O-methylation of 
+levodopa. The objective of our study was to assess the impact of entacapone, a 
+COMT inhibitor, on plasma levels of homocysteine, serum folate, and vitamin B12 
+in levodopa-treated PD patients. Nineteen PD patients receiving only levodopa 
+and 21 PD patients on a combination of levodopa and entacapone participated in 
+the cross-sectional study. The control group consisted of 17 subjects on 
+dopamine agonists. The mean plasma homocysteine concentration in the subjects on 
+only levodopa was higher than that in the subjects on a combination of levodopa 
+and entacapone (P=0.001) or in the control group (P=0.0001). Concentrations of 
+serum vitamin B12 and serum folate were on average normal in all groups, but 
+levodopa-treated subjects (with or without entacapone therapy) were more prone 
+to have hypovitaminosis B12 (45%) than controls on dopamine agonists (6%). We 
+suggest that the COMT inhibition may play a promising role in successfully 
+controlling levodopa-induced hyperhomocysteinemia and in reducing the risk of 
+pathologies probably linked to it. These preliminary findings and postulated 
+hypotheses must now be confirmed in prospective studies.
+
+DOI: 10.1016/j.parkreldis.2005.01.007
+PMID: 15878587 [Indexed for MEDLINE]
+
+
+1254. Neurology. 2005 May 10;64(9):1658-9. doi: 10.1212/01.WNL.0000160328.17975.9C.
+
+Screening for neurofilament inclusion disease using alpha-internexin 
+immunohistochemistry.
+
+Uchikado H(1), Shaw G, Wang DS, Dickson DW.
+
+Author information:
+(1)Department of Neuroscience, Mayo Clinic, Jacksonville, FL 32224, USA.
+
+DOI: 10.1212/01.WNL.0000160328.17975.9C
+PMID: 15883343 [Indexed for MEDLINE]
+
+
+1255. Ideggyogy Sz. 2005 Jan 20;58(1-2):45-51.
+
+[Clinical features of corticobasal degeneration].
+
+[Article in Hungarian]
+
+Farsang M(1), Takáts A, Szirmai I, Kovács T.
+
+Author information:
+(1)Semmelweis Egyetem, Altalános Orvostudományi Kar, Neurológiai Klinika, 
+Budapest.
+
+Corticobasal degeneration was described in 1968 by Rebeiz, Kolodny and 
+Richardson, who characterized the disease as a syndrome of asymmetric akinesis 
+and rigidity, dystonia of the upper limb, apraxia, myoclonus and dementia. 
+Atrophy of the frontal and parietal lobe, neuronal loss, gliosis and achromatic 
+neurones (and nowadays astrocytic plaques) are the characteristic pathological 
+features of the disease. Corticobasal degeneration is a rare or a rarely 
+recognized disease and it is frequently misdiagnosed as Parkinson's disease. 
+According to the Lang's criteria, corticobasal degeneration can be diagnosed in 
+the presence of rigidity and one cortical symptom (apraxia, cortical sensory 
+loss, alien hand) or in a patient with rigidity, dystonia and focal reflex 
+myoclonus. Exclusion criteria are early dementia (as in primary degenerative 
+dementias), early vertical gaze problems (as in progressive supranuclear palsy), 
+resting tremor and good, sustained therapeutic response to levodopa (as in 
+Parkinson's disease), severe autonomic problems (as in multiple system atrophy) 
+and any pathology on imaging studies which might explain the clinical symptoms. 
+It should be mentioned, that recently early dementia is recognized as an initial 
+symptom of corticobasal degeneration. The authors present a case and review the 
+literature to call attention to this disorder.
+
+PMID: 15884398 [Indexed for MEDLINE]
+
+
+1256. Hum Mol Genet. 2005 Jul 1;14(13):1753-62. doi: 10.1093/hmg/ddi182. Epub 2005 May 
+11.
+
+Genomic architecture of human 17q21 linked to frontotemporal dementia uncovers a 
+highly homologous family of low-copy repeats in the tau region.
+
+Cruts M(1), Rademakers R, Gijselinck I, van der Zee J, Dermaut B, de Pooter T, 
+de Rijk P, Del-Favero J, van Broeckhoven C.
+
+Author information:
+(1)Department of Molecular Genetics, Flanders Interuniversity Institute for 
+Biotechnology, University of Antwerp, Antwerpen, Belgium.
+
+Familial frontotemporal dementia (FTD), characterized by tau-negative, 
+ubiquitin-positive inclusions at autopsy, is linked to a chromosomal region at 
+17q21 (FTDU-17), encompassing the gene encoding the microtubule associated 
+protein tau, MAPT. Mutations in MAPT were previously identified in familial FTD 
+with parkinsonism (FTDP-17); however, in FTDU-17 patients, no pathogenic 
+mutations were found in exonic regions consistent with the lack of tauopathy in 
+FTDU-17 brains. Here, we excluded mutations in MAPT by genomic sequencing of 
+138.5 kb in FTDU-17 patients. Next, to facilitate the identification of the 
+actual underlying genetic defect, we assembled the 6.5 Mb FTDU-17 sequence. 
+Annotation demonstrated that MAPT is surrounded by three highly homologous 
+low-copy repeats (LCRs) in a region of 1.7 Mb. Using evolutionary studies, short 
+tandem repeat-based linkage disequilibrium (LD) and macro-restriction mapping, 
+we demonstrated that these LCRs are at the basis of a series of rearrangements 
+in the MAPT genomic region. One is an inversion that occurred 3 million years 
+ago and resulted in a common polymorphism in humans to date. This inversion plus 
+flanking LCRs spanned approximately 1.3 Mb and was shown to underlie the 
+extended LD and haplotypes H1 and H2 across MAPT. However, in the FTDU-17 
+families, we ascertained segregation analysis precluding a relationship between 
+the FTDU-17 and the H1/H2 inversion. The presence of multiple homologous LCRs in 
+the region predicts that other potentially more complex genomic rearrangements 
+might be underlying FTDU-17.
+
+DOI: 10.1093/hmg/ddi182
+PMID: 15888485 [Indexed for MEDLINE]
+
+
+1257. Sleep Med Rev. 2005 Jun;9(3):185-200. doi: 10.1016/j.smrv.2005.01.001. Epub 2005 
+Apr 26.
+
+Excessive daytime sleepiness in parkinsonism.
+
+Arnulf I(1).
+
+Author information:
+(1)Fédération des Pathologies du Sommeil, Hôpital Pitié-Salpêtrière, 47-83 
+Boulevard de l'Hôpital, 75651 Paris Cedex 13, France. 
+isabelle.arnulf@psl.ap-hop-paris.fr
+
+Excessive daytime sleepiness (EDS) can affect 20-50% of patients with 
+Parkinson's disease (PD), whereas sleep attacks (SA), which are sleep episodes 
+without prodroma, seem infrequent. EDS is associated with more advanced disease, 
+higher doses of levodopa-equivalent, and sometimes the use of dopamine agonists. 
+Patients at risk for SA have higher Epworth sleepiness scores (ESS) (although an 
+important subset of patients under-score on this scale) and a more frequent use 
+of ergot or non-ergot dopamine agonists. Polysomnography is a valuable tool in 
+patients with PD, because sleep apnea may occur in 20% of patients, whereas a 
+specific narcolepsy-like phenotype, identified on multiple-sleep latency tests, 
+occurs in patients with most severe EDS; this suggests a lesion in sleep-wake 
+systems. Removal or replacement of a recently introduced dopamine agonist may 
+offer some relief for EDS. If not, the adjunction of modafinil has a good 
+benefit-risk ratio in patients with PD. EDS (and sometimes the narcolepsy-like 
+phenotype) may also affect patients with atypical parkinsonism, such as dementia 
+with Lewy bodies, multiple-system atrophy, and progressive supranuclear palsy.
+
+DOI: 10.1016/j.smrv.2005.01.001
+PMID: 15893249 [Indexed for MEDLINE]
+
+
+1258. Neurobiol Aging. 2006 Feb;27(2):245-51. doi: 
+10.1016/j.neurobiolaging.2005.02.009.
+
+Alteration of protein kinase C conformation in red blood cells: a potential 
+marker for Alzheimer's disease but not for Parkinson's disease.
+
+Janoshazi A(1), Sellal F, Marescaux C, Danion JM, Warter JM, de Barry J.
+
+Author information:
+(1)Neurotransmission et Sécretion Neuroendocrine UPR2356 CNRS, Strasbourg, 
+France. agnesj@igbmc.-strasbg.fr
+
+There is a growing evidence of early changes of blood cells in Alzheimer's 
+disease (AD). We have developed an original novel method for quantifying the 
+alteration of protein kinase C (PKC) by its fluorescence spectrum: by using 
+Fim-1, a specific fluorescent probe made for protein kinase C that detects the 
+conformational changes of this. We show that the PKC conformation is altered in 
+red blood cells (RBC) from AD patients as compared to RBC from healthy controls. 
+This alteration is independent of the patient's age and of the stage of the 
+disease. It is not observed in the RBC of non-demented patients suffering from 
+Parkinson's disease (PD). If PKC alteration is proven to be specific to AD as 
+compared with other dementia, this method could be for a simple, low cost 
+screening test among patients suspected of having AD and may have a strong 
+predictive value.
+
+DOI: 10.1016/j.neurobiolaging.2005.02.009
+PMID: 15893856 [Indexed for MEDLINE]
+
+
+1259. Ned Tijdschr Geneeskd. 2005 May 7;149(19):1027-32.
+
+[Guideline 'Delirium'].
+
+[Article in Dutch]
+
+van der Mast RC(1), Huyse FJ, Rosier PF.
+
+Author information:
+(1)Leids Universitair Medisch Centrum, afd. Psychiatrie BIP, Postbus 96oo, 2300 
+RC, Leiden. r.c.van-der-mast@lumc.nl
+
+The Dutch Association of Psychiatry, together with the Dutch Association of 
+Clinical Geriatrics and with methodological support from the Dutch Institute for 
+Healthcare Improvement (CBO) has developed a guideline for the optimal 
+diagnosis, treatment and prevention of delirium. Delirium is caused by somatic 
+illness or the use of medication, drugs or alcohol. Delirium is common among the 
+somatically ill admitted to a general hospital and is associated with increased 
+morbidity and mortality. Important predisposing factors for delirium are: age > 
+or =70 years, cognitive disturbances, sensory impairments, problems in daily 
+activities, and the use of alcohol and opiates. Precipitating factors that may 
+provoke delirium are: infection, fever, dehydration, serum electrolyte 
+imbalance, polypharmacy, and the use of psychotropic medication, particularly 
+anticholinergic drugs. Detection, diagnosis, and assessment of the severity of 
+delirium are based on clinical examination, case history, observation, mental 
+status examination including tests of cognitive function, and diagnosis of 
+underlying somatic diseases. For daily practice, measurement tools are not 
+necessary, nor are laboratory or imaging tests, such as electroencephalography. 
+Haloperidol is the treatment of first choice for delirium due to somatic 
+illness, except in patients with delirium due to drug use or medication, 
+Parkinson's disease or Lewy body dementia. In cases of concurrent alcohol 
+withdrawal syndrome, delirium may be treated with haloperidol and a 
+benzodiazepine and B-vitamins. Medical and environmental interventions have been 
+shown to reduce the incidence and duration of delirium.
+
+PMID: 15909390 [Indexed for MEDLINE]
+
+
+1260. Neurology. 2005 May 24;64(10):1712-5. doi: 10.1212/01.WNL.0000161872.85903.8E.
+
+Association between family history of dementia and hallucinations in Parkinson 
+disease.
+
+Paleacu D(1), Schechtman E, Inzelberg R.
+
+Author information:
+(1)Neurology Service and Memory Clinic, Yehuda Abarbanel Mental Health Center 
+and Sackler Faculty of Medicine, Tel-Aviv University, Israel.
+
+OBJECTIVE: To identify familial risk factors for hallucinations in patients with 
+Parkinson disease (PD).
+METHODS: Two hundred seventy-six outpatients with PD participated in the study. 
+The presence of hallucinations was determined using a validated questionnaire, 
+including items regarding the occurrence of visual, auditory, or other types of 
+hallucinations. Family history of PD and dementia was determined by a structured 
+interview and examination of medical records and affected family members. 
+Patients with young-onset PD (<50 years) who reported another PD patient among 
+their siblings were tested for parkin mutations. Stepwise logistic regression 
+was applied for the detection of risk factors. The regression model included a 
+set of family history-related variables (family history of PD and of dementia) 
+and a set of disease-related variables (age, age at onset of PD, stage, duration 
+of PD and of l-dopa therapy, l-dopa dose, and number of antiparkinsonian drugs).
+RESULTS: Hallucinations were present in 32% of the 276 patients. Risk factors 
+for hallucinations included Mini-Mental State Examination score (p < 0.0001) and 
+positive family history of dementia (p = 0.0005).
+CONCLUSION: Family history of dementia and lower Mini-Mental State Examination 
+scores are risk factors for hallucinations in Parkinson disease.
+
+DOI: 10.1212/01.WNL.0000161872.85903.8E
+PMID: 15911796 [Indexed for MEDLINE]
+
+
+1261. Neurology. 2005 May 24;64(10):1819-20. doi: 10.1212/01.WNL.0000162030.60827.C2.
+
+A link between ALS and short residence on Guam.
+
+Majoor-Krakauer D(1), Mulder PG, Rowland LP, Ottman R.
+
+Author information:
+(1)Department of Clinical Genetics, Erasmus Medical Center, Rotterdam, The 
+Netherlands. majkrak@knmg.nl
+
+DOI: 10.1212/01.WNL.0000162030.60827.C2
+PMID: 15911829 [Indexed for MEDLINE]
+
+
+1262. Neurobiol Aging. 2005 Aug-Sep;26(8):1161-5. doi: 
+10.1016/j.neurobiolaging.2004.11.001. Epub 2004 Dec 18.
+
+Three SNPs in the GSTO1, GSTO2 and PRSS11 genes on chromosome 10 are not 
+associated with age-at-onset of Alzheimer's disease.
+
+Ozturk A(1), Desai PP, Minster RL, Dekosky ST, Kamboh MI.
+
+Author information:
+(1)Department of Human Genetics, Graduate School of Public Health, University of 
+Pittsburgh, PA 15261, USA.
+
+Linkage studies suggest the presence of putative risk and/or age-at-onset genes 
+for Alzheimer's disease on Chromosome 10. Recently, a genomic converging 
+approach using a combination of linkage, expression and association studies has 
+reported significant associations of the glutathione S-transferase omega 1 and 2 
+(GSTO1 and GSTO2) genes and possibly the protease serine 11 (PRSS11) gene on 
+chromosome 10 with age-at-onset, but not risk, for Alzheimer's disease (AD) and 
+Parkinson disease. We investigated the association of the reported three 
+polymorphisms in 990 sporadic late-onset AD cases (26% autopsy confirmed) and 
+735 controls. In our sample, we found no association either with age-at-onset in 
+AD cases or with disease risk in the case-control cohort. However, haplotype 
+analysis revealed a modest association of one haplotype with AD risk (p = 0.04). 
+Additional markers in these genes need to be screened to explore their role in 
+the etiology of AD.
+
+DOI: 10.1016/j.neurobiolaging.2004.11.001
+PMID: 15917099 [Indexed for MEDLINE]
+
+
+1263. Tijdschr Gerontol Geriatr. 2005 Jun;36(3):130-136. doi: 10.1007/BF03074717.
+
+Chronische pijn bij dementie en bij aandoeningen met een verhoogd risico op 
+cognitieve achteruitgang.
+
+[Article in Dutch]
+
+Scherder EJ, Oosterman JM, Ooms ME, Ribbe MW, Swaab DF.
+
+Chronic pain in dementia and in disorders with a high risk for cognitive 
+impairment. Ageing increases the risk for the etiology of chronic pain ánd 
+dementia. Hence, the increase in the number of elderly people implies that the 
+number of elderly with dementia suffering from chronic pain will increase as 
+well. A key question relates to if and how patients with dementia perceive pain. 
+The inadequateness of pain assessment, particularly in a more advanced stage, is 
+also reflected in a decreased use of analgesics by elderly people with dementia. 
+Insight into possible changes in pain experience as have been observed in the 
+few available clinical studies, could be enhanced by knowledge about the 
+neuropathology which may differ per subtype of dementia. It is striking that 
+pain has not been examined in degenerative diseases of the central nervous 
+system with a high risk for cognitive impairment such as Parkinson's disease and 
+multiple sclerosis. In these disorders, pain is a prominent clinical symptom and 
+to date it is not known whether the experience of pain will change in a stage in 
+which patients become cognitively impaired. Finally, a number of instruments 
+which are most appropriate to assess pain in communicative and non-communicative 
+patients are discussed.
+
+DOI: 10.1007/BF03074717
+PMID: 23203490
+
+
+1264. J Nucl Med. 2005 Jun;46(6):936-44.
+
+11C-DTBZ and 18F-FDG PET measures in differentiating dementias.
+
+Koeppe RA(1), Gilman S, Joshi A, Liu S, Little R, Junck L, Heumann M, Frey KA, 
+Albin RL.
+
+Author information:
+(1)Division of Nuclear Medicine, Department of Radiology, University of Michigan 
+School of Medicine, 3480 Kresge III, Box 0552, Ann Arbor, MI 48109, USA. 
+koeppe@umich.edu
+
+Accurate, early differentiation of dementias will become increasingly important 
+as new therapies are introduced. Differential diagnosis by standard clinical 
+criteria has limited accuracy. PET offers the potential to increase diagnostic 
+accuracy. (18)F-FDG studies detect metabolic abnormalities in demented patients, 
+but with limited specificity. PET also offers the ability to quantify other 
+biochemical markers that can yield additional useful diagnostic information. We 
+demonstrate that (+)-(11)C-dihydrotetrabenazine ((11)C-DTBZ) studies, which 
+provide an index of nigrostriatal terminal density (distribution volume; DV), 
+also provide a measure of transport (K(1)) that produces information comparable 
+to the metabolic measure of (18)F-FDG.
+METHODS: Fifty-two patients and 19 control subjects underwent both (11)C-DTBZ 
+and (18)F-FDG PET scans. Seven had the clinical diagnosis of frontotemporal 
+dementia (FTD), 25 had Alzheimer's disease (AD), and 20 had dementia with Lewy 
+bodies (DLB). DTBZ scans provided maps of K(1) and DV, whereas (18)F-FDG scans 
+provided maps of glucose metabolism. Correlation analyses were performed between 
+the different PET measures both within and across subjects. Discriminant 
+analysis using logistic regression compared the performance of (11)C-DTBZ K(1) 
+and (18)F-FDG in differentiating subject groups. Three experienced PET 
+researchers participated in an interrater reliability study using both 
+(11)C-DTBZ K(1) and (18)F-FDG images.
+RESULTS: Within-subject correspondence between (11)C-DTBZ K(1) and (18)F-FDG 
+measures was high, with correlations averaging 0.92. Correlations between the 
+(11)C-DTBZ DV and either K(1) or (18)F-FDG were far lower, averaging 0.37 and 
+0.31, respectively, indicating the much higher degree of similarity in 
+information provided by K(1) and (18)F-FDG compared with the very different 
+information provided by (11)C-DTBZ DV. Discriminant analysis demonstrated that 
+(11)C-DTBZ K(1) and (18)F-FDG yielded similar levels of sensitivity and 
+specificity for differentiating the subjects in this study. Including (11)C-DTBZ 
+DV in addition to either K(1) or (18)F-FDG improved discrimination between 
+groups. The raters classified PET scans nearly equivalently using K(1) and 
+(18)F-FDG.
+CONCLUSION: Multiple PET measures, whether 2 parameters from a single PET study 
+such as (11)C-DTBZ K(1) and DV, or 2 parameters from different studies such as 
+(18)F-FDG and (11)C-DTBZ DV, offer complementary information useful for 
+diagnosing dementias. K(1) and DV images generated from a single (11)C-DTBZ scan 
+provide as much diagnostic information as 2-scan studies using both (11)C-DTBZ 
+and (18)F-FDG.
+
+PMID: 15937303 [Indexed for MEDLINE]
+
+
+1265. Arch Gen Psychiatry. 2005 Jun;62(6):685-91. doi: 10.1001/archpsyc.62.6.685.
+
+Sex differences in the clinical manifestations of Alzheimer disease pathology.
+
+Barnes LL(1), Wilson RS, Bienias JL, Schneider JA, Evans DA, Bennett DA.
+
+Author information:
+(1)Rush Alzheimer's Disease Center, Department of Neurological Sciences, Rush 
+University Medical Center, Chicago, Illinois 60612, USA. Lisa_L_Barnes@rush.edu
+
+CONTEXT: Sex differences in risk of clinically diagnosed Alzheimer disease (AD) 
+have been studied extensively, but little is known about the relation of the 
+pathologic indices of AD to the clinical manifestations of the disease in men 
+compared with women.
+OBJECTIVE: To test whether the relation of AD pathology to the clinical 
+manifestations of the disease differs in men and women.
+DESIGN: Longitudinal, clinicopathologic cohort study.
+PARTICIPANTS AND SETTING: Analyses were conducted on 141 older Catholic clergy 
+members who underwent detailed annual clinical evaluations and brain autopsy at 
+death. The number of neuritic plaques, diffuse plaques, and neurofibrillary 
+tangles in a 1-mm2 area sampled from 4 cortical regions was counted, and a 
+global measure of AD pathology (range, 0-2.98 U) and specific measures of each 
+pathology were derived.
+MAIN OUTCOME MEASURES: Clinical diagnosis of probable AD and level of global 
+cognitive function at the last evaluation before death.
+RESULTS: Women had more global AD pathology than did men (P = .04), due 
+primarily to more neurofibrillary tangles (P = .02). At the last evaluation 
+before death, 57 persons met clinical criteria for probable AD (34 [60%] of them 
+women). In logistic regression models, sex was not related to odds of clinical 
+AD (odds ratio [OR], 1.35; 95% confidence interval [CI], 0.56-3.25), but the 
+relation of global AD pathology to clinical diagnosis differed for men and 
+women. Each additional unit of AD pathology was associated with a nearly 3-fold 
+increase in the odds of clinical AD in men (OR, 2.82; 95% CI, 1.03-7.65) 
+compared with a more than 20-fold increase in the odds of clinical AD in women 
+(OR, 22.67; 95% CI, 5.11-100.53). Results were unchanged after controlling for 
+potential confounders or using level of cognition as the outcome.
+CONCLUSION: These data suggest that AD pathology is more likely to be clinically 
+expressed as dementia in women than in men.
+
+DOI: 10.1001/archpsyc.62.6.685
+PMID: 15939846 [Indexed for MEDLINE]
+
+
+1266. Am J Ind Med. 2005 Jul;48(1):63-77. doi: 10.1002/ajim.20178.
+
+Potential occupational risks for neurodegenerative diseases.
+
+Park RM(1), Schulte PA, Bowman JD, Walker JT, Bondy SC, Yost MG, Touchstone JA, 
+Dosemeci M.
+
+Author information:
+(1)Education and Information Division, National Institute for Occupational 
+Safety and Health, MS C-15, 4676 Columbia Parkway, Cincinnati, OH 45226, USA. 
+rhp9@cdc.gov
+
+BACKGROUND: Associations between occupations and neurodegenerative diseases 
+(NDD) may be discernable in death certificate data.
+METHODS: Hypotheses generated from 1982 to 1991 study were tested in data from 
+22 states for the years 1992-1998. Specific occupations and exposures to 
+pesticides, solvents, oxidative stressors, magnetic fields, and welding fumes 
+were evaluated.
+RESULTS: About one third (26/87) of the occupations hypothesized with 
+neurodegenerative associations had statistically significant elevated mortality 
+odds ratios (MOR) for the same outcome. Occupations with the largest MORs were 
+(a) for presenile dementia (PSD)-dentists, graders/sorters (non-agricultural), 
+and clergy; (b) for Alzheimer's disease (AD)-bank tellers, clergy, aircraft 
+mechanics, and hairdressers; (c) for Parkinson's disease (PD)-biological 
+scientists, clergy, religious workers, and post-secondary teachers; and (d) for 
+motor neuron disease (MND)-veterinarians, hairdressers, and graders and sorters 
+(non-agricultural). Teachers had significantly elevated MORs for all four 
+diseases, and hairdressers for three of the four. Non-horticultural farmers 
+below age 65 had elevated PD (MOR = 2.23, 95% CI = 1.47-3.26), PSD (MOR = 2.22, 
+95% CI = 1.10-4.05), and AD (MOR = 1.76, 95% CI = 1.04-2.81). Sixty hertz 
+magnetic fields exhibited significant exposure-response for AD and, below age 
+65, for PD (MOR = 1.87, 95% CI = 1.14-2.98) and MND (MOR = 1.63, 95% CI = 
+1.10-2.39). Welding had elevated PD mortality below age 65 (MOR = 1.77, 95% CI = 
+1.08-2.75).
+CONCLUSIONS: Support was observed for hypothesized excess neurodegenerative 
+disease associated with a variety of occupations, 60 Hz magnetic fields and 
+welding.
+
+Published 2005 Wiley-Liss, Inc.
+
+DOI: 10.1002/ajim.20178
+PMID: 15940722 [Indexed for MEDLINE]
+
+
+1267. Neurobiol Dis. 2005 Dec;20(3):685-93. doi: 10.1016/j.nbd.2005.05.001. Epub 2005 
+Jun 8.
+
+Impaired metabotropic glutamate receptor/phospholipase C signaling pathway in 
+the cerebral cortex in Alzheimer's disease and dementia with Lewy bodies 
+correlates with stage of Alzheimer's-disease-related changes.
+
+Albasanz JL(1), Dalfó E, Ferrer I, Martín M.
+
+Author information:
+(1)Departamento de Química Inorgánica, Orgánica y Bioquímica, Facultad de 
+Ciencias Químicas, Area de Bioquímica, Centro Regional de Investigaciones 
+Biomédicas, Universidad de Castilla-La Mancha, Avenida Camilo José Cela, 10, 
+13071 Ciudad Real, Spain.
+
+The aim of the present work was to analyze the status of metabotropic glutamate 
+receptors (mGluRs) in the frontal cortex (area 8) from ten cases with common 
+form DLB (cDLB) and eleven cases with pure AD in comparison with five 
+age-matched controls. mGluRs, determined by radioligand binding assays, were 
+significantly decreased in cerebral cortex in cDLB. This decrease was already 
+present in cases with early AD changes not involving the frontal cortex, but 
+dramatically correlated with AD neuropathological changes, at its greatest in 
+isocortical stages, which was associated with a decrease in the expression 
+levels of mGluR1 detected by Western blotting. Moreover, mGluRs analyzed in pure 
+AD were lower than those obtained in cDLB and also correlated with progression 
+of illness. On the other hand, the expression levels of phospholipase Cbeta1 
+(PLCbeta1) isoform, which is the effector of group I mGluRs, was decreased in 
+parallel in cDLB cases. Finally, the PLCbeta1 decrease was associated with 
+reduced GTP- and l-glutamate-stimulated PLC activity in both cDLB and AD cases. 
+These results show that group I mGluRs/PLC signaling are down-regulated and 
+desensitized in the frontal cortex in cDLB and AD cases and that these 
+modifications worsen with progression of AD changes in the cerebral neocortex. 
+Therefore, group I mGluR dysfunction may be implicated in the pathogenesis of 
+cognitive impairment and dementia in common form of DLB and pure AD.
+
+DOI: 10.1016/j.nbd.2005.05.001
+PMID: 15949941 [Indexed for MEDLINE]
+
+
+1268. Rev Med Chil. 2005 Apr;133(4):477-82. doi: 10.4067/s0034-98872005000400013. Epub 
+2005 Jun 8.
+
+[Clinical variants of Alzheimer disease].
+
+[Article in Spanish]
+
+Donoso S A(1), Behrens P MI.
+
+Author information:
+(1)Departamento de Neurología y Neurocirugía, Hospital Clínico, Universidad de 
+Chile, Santiago, Chile. adonoso@redclinica.uchile.cl
+
+The heterogeneity and variants of Alzheimer disease (AD) are reviewed. There are 
+cases with a slow or fast evolution and with early or late onset. Most cases are 
+sporadic but there are also hereditary forms. About 50% of patients show 
+neuropsychiatric disorders (depression and psychoses). Some cases have a greater 
+deficit of right or left hemispheric functions. Among the variants, there are 
+forms that start as pure aphasias, predominantly prefrontal cases and posterior 
+cortical forms. Occasionally AD may simulate other disorders such as 
+supranuclear palsy, corticobasal ganglionar degeneration and Jacob-Creutzfeldt 
+disease. Finally, there are mixed forms, in which AD is associated with 
+cerebrovascular disease (very commonly) and with other diseases such as dementia 
+with Lewy bodies. We conclude that AD is a heterogeneous disorder and, 
+therefore, clinical diagnosis may be insufficient. Biological markers and 
+specific imaging studies are needed for a correct clinical diagnosis.
+
+DOI: 10.4067/s0034-98872005000400013
+PMID: 15953957 [Indexed for MEDLINE]
+
+
+1269. Mov Disord. 2005 Sep;20(9):1213-9. doi: 10.1002/mds.20571.
+
+Heat-related morbidity in patients with orthostatic hypotension and primary 
+autonomic failure.
+
+Pathak A(1), Lapeyre-Mestre M, Montastruc JL, Senard JM.
+
+Author information:
+(1)Laboratoire de Pharmacologie Médicale et Clinique, Faculté de Médecine, 
+Toulouse, France.
+
+We investigated the effects of high-external-temperature exposure on neurogenic 
+orthostatic hypotension (OH). Thirty-one patients with autonomic failure (AF) 
+and pharmacologically treated OH related to probable multiple-system atrophy 
+(n=7), Parkinson's disease (n=10), pure autonomic failure (n=7), and diffuse 
+Lewy body disease (n=7) and 26 parkinsonians without AF were included. 
+Prevalence and severity of clinical events were studied during the August 2003 
+heat wave and the 2004 summer. The prevalence of OH-related events was 
+significantly higher in 2003 [45.1 vs. 11.5%; P=0.0052; OR=6.31 (1.35--33.53)] 
+and 2004 [42.3 vs. 12.0%; P=0.014; OR=5.40 (1.28--22.68)] in AF than in 
+controls. The mean severity score for clinical events was significantly higher 
+in AF than in controls during 2003 heat wave (1.2+/-1.4 vs. 0.2+/-0.5) but 
+similar in summer 2004 (0.7+/-1.0 vs. 0.1+/-0.3). Severe events (unusual home 
+care, assistance, or hospitalization) were only observed in AF patients. A 
+nonstatistically significant higher prevalence of clinical events was observed 
+in AF patients prescribed fludrocortisone (66.7%) by comparison to heptaminol 
+(42.9%), midodrine (45.5%), or midodrine plus fludrocortisone (28.6%). This 
+study shows that AF patients have a poor clinical outcome when exposed to high 
+temperatures and that heat exposure is a risk factor for OH worsening.
+
+(c) 2005 Movement Disorder Society.
+
+DOI: 10.1002/mds.20571
+PMID: 15954131 [Indexed for MEDLINE]
+
+
+1270. Mov Disord. 2005 Sep;20(9):1133-42. doi: 10.1002/mds.20513.
+
+Clinical characteristics in early Parkinson's disease in a central California 
+population-based study.
+
+Kang GA(1), Bronstein JM, Masterman DL, Redelings M, Crum JA, Ritz B.
+
+Author information:
+(1)Department of Neurology, David Geffen School of Medicine at UCLA, Los 
+Angeles, CA 90095-1772, USA.
+
+There is considerable variation in the phenotypic appearance of individuals with 
+idiopathic Parkinson's disease (PD), which may translate into differences in 
+disease progression in addition to underlying disease etiology. In this 
+publication, we report on the demographic and clinical characteristics of 162 
+individuals diagnosed with clinically probable PD from January 1998 to June 2003 
+who resided in predominantly rural communities in central California. The 
+majority of the subjects were Caucasian, male, and between 60 and 79 years of 
+age. The akinetic-rigid and tremor-dominant subtypes were more common than the 
+mixed subtype. The majority of subjects displayed motor signs of rigidity 
+(92.0%), bradykinesia (95.7%), and gait problems (87.0%), whereas less than half 
+(43.3%) of the subjects displayed a tremor. Three fourths of patients received a 
+Hoehn and Yahr Scale score of Stage 2 or higher. One third of the patients were 
+treated with levodopa, and patients under 60 years of age were more likely to be 
+treated with dopamine agonists. Within 3 years after first diagnosis, 13% of 
+subjects showed some signs of depression and 17% of subjects met criteria for 
+mild dementia. Among our subjects, 17.3% reported a family history of PD in 
+first- or second-degree relatives,15.4% a family history of essential tremor, 
+and 14.2% of Alzheimer's disease. This study represents the most extensive 
+phenotypic description of rural U.S. residents in the initial stages of PD who 
+were recruited in a population-based manner; future follow-up may provide 
+valuable information regarding the prognostic indication of these symptoms/signs 
+and improve our understanding of the underlying etiology of PD.
+
+(c) 2005 Movement Disorder Society.
+
+DOI: 10.1002/mds.20513
+PMCID: PMC3643967
+PMID: 15954133 [Indexed for MEDLINE]
+
+
+1271. Neurology. 2005 Jun 14;64(11):1955-7. doi: 10.1212/01.WNL.0000164009.36740.4E.
+
+Clinicogenetic study of PINK1 mutations in autosomal recessive early-onset 
+parkinsonism.
+
+Li Y(1), Tomiyama H, Sato K, Hatano Y, Yoshino H, Atsumi M, Kitaguchi M, Sasaki 
+S, Kawaguchi S, Miyajima H, Toda T, Mizuno Y, Hattori N.
+
+Author information:
+(1)Department of Neurology, Juntendo University School of Medicine, 2-1-1 Hongo, 
+Bunkyo, Tokyo 113-0033, Japan.
+
+The authors performed PINK1 mutation analysis of 51 families with autosomal 
+recessive Parkinson disease (ARPD). They found two novel PINK1 mutations: one 
+was a homozygous deletion (13516-18118del) and the other a homozygous missense 
+mutation (C388R). Clinically, the patients with the deletion had dementia. Thus, 
+early-onset PD with dementia may be considered PINK1-linked parkinsonism. 
+Furthermore, patients with PINK1 mutations form 8.9% of parkin- and 
+DJ-1-negative ARPD families.
+
+DOI: 10.1212/01.WNL.0000164009.36740.4E
+PMID: 15955953 [Indexed for MEDLINE]
+
+
+1272. Mol Ther. 2005 Sep;12(3):394-401. doi: 10.1016/j.ymthe.2005.04.003.
+
+Intrabody applications in neurological disorders: progress and future prospects.
+
+Miller TW(1), Messer A.
+
+Author information:
+(1)Wadsworth Center, New York State Department of Health, and Department of 
+Biomedical Sciences, University at Albany, Albany, NY 12201, USA.
+
+Single-chain Fv and single-domain antibodies retain the binding specificity of 
+full-length antibodies, but they can be expressed as single genes in phage or 
+yeast surface-display libraries, thus allowing efficient in vitro selection from 
+a naive human repertoire. Selected genes can then be expressed intracellularly 
+in mammalian cells as intrabodies, with the potential for alteration of the 
+folding, interactions, modifications, or subcellular localization of their 
+targets. These reagents have been developed as therapeutics against cancer and 
+HIV. Since misfolded and accumulated intracellular proteins characterize a wide 
+range of neurodegenerative disorders, they are also potentially useful intrabody 
+targets. Here, we review the extension of intrabody technology to the nervous 
+system, in which studies of Huntington's disease have been used to develop the 
+approach, and anti-synuclein and -beta-amyloid strategies are in the early 
+stages of development. Research on several other neurodegenerations, including 
+Parkinson's, Alzheimer's, and prion diseases, provides support for the 
+development of intrabodies directed against specific targets, or possibly 
+against more common downstream targets, as novel therapeutics and as drug 
+discovery tools.
+
+DOI: 10.1016/j.ymthe.2005.04.003
+PMID: 15964243 [Indexed for MEDLINE]
+
+
+1273. Curr Alzheimer Res. 2004 Feb;1(1):55-61. doi: 10.2174/1567205043480564.
+
+Cross-cultural comparison of mild cognitive impairment between China and USA.
+
+Xu G(1), Meyer JS, Huang Y, Chen G, Chowdhury M, Quach M.
+
+Author information:
+(1)Department of Neurology, Nanjing General Hospital of PLA, Nanjing, PR China.
+
+Individuals with mild cognitive impairment (MCI) are at increased risk for 
+dementia of Alzheimer's type (DAT), vascular dementia (VaD), Lewy Body (LBD) and 
+Fronto-temporal dementias (FTD). Risk factors and conversion rates of MCI to 
+dementia have not been thoroughly investigated in developing countries. Chinese 
+and English versions of Mini-Mental State Examination were administered serially 
+among well-matched subjects from two clinics located in Xi'an, China and 
+Houston, USA. Subtle cognitive impairments were weighed according to MCI 
+criteria as defined previously. Subjects with MCI were followed for an 
+additional 3 years after their identification. Diagnoses of VaD and DAT were 
+made according to established criteria. During screening period, 73 American and 
+65 Chinese individuals were identified with MCI. After 3 years of MCI follow-up, 
+of the 73 American MCI subjects, 35 (47.9%) developed DAT and 15 (20.5%) 
+developed VaD. Of the 65 Chinese MCI subjects, 12 (18.5%) developed DAT and 19 
+(29.2%) developed VaD. According to Kaplan-Meier analysis, Chinese MCI subjects, 
+despite their lower educational level, are 1.7 times less likely to progress to 
+DAT and 2.3 times more likely to progress to VaD than American subjects within 3 
+years of MCI being identified (p<0.01). Data suggest that progression rates of 
+MCI vary considerably among subjects from two countries. American MCI subjects 
+are more prone to DAT, while Chinese subjects are more prone to VaD. Differences 
+in genetic factors, cultures, educational levels, and preventive treatments of 
+vascular risk factors are proposed as responsible for this uneven geographic 
+distribution for different types of dementia.
+
+DOI: 10.2174/1567205043480564
+PMID: 15975086 [Indexed for MEDLINE]
+
+
+1274. Dement Geriatr Cogn Disord. 2005;20(2-3):89-94. doi: 10.1159/000086472. Epub 
+2005 Jun 23.
+
+The Alzheimer variant of lewy body disease: a pathologically confirmed 
+case-control study.
+
+Perneczky R(1), Mösch D, Neumann M, Kretzschmar H, Müller U, Busch R, Förstl H, 
+Kurz A.
+
+Author information:
+(1)Klinik und Poliklinik für Psychiatrie und Psychotherapie der Technischen 
+Universität München, München, Deutschland. robert.perneckzy@lrz.tum.de
+
+The objective of the study was to identify clinical features that distinguish 
+patients with dementia with Lewy bodies (DLB), who were classified as 
+Alzheimer's disease (AD) patients, from patients with AD. We examined a group of 
+27 patients from our memory clinic, originally diagnosed with AD, of whom 6 were 
+postmortem found to have DLB. For the present study, we compared cognitive, 
+noncognitive and neurological symptoms between the two groups. We found that 
+there were no differences on ratings of dementia and scales for activities of 
+daily living. Patients with DLB performed better on the MMSE and the memory 
+subtest of the CAMCOG, but there was no difference in any other cognitive 
+domain. Furthermore, genetic risk factors, including family history of dementia 
+or allele frequency of the apolipoprotein epsilon4, did not discriminate between 
+the two groups, and there were no differences on CCT scans. Taken together, our 
+findings suggest that Lewy body pathology may be present in patients who do not 
+show the typical clinical features which distinguish DLB from AD.
+
+Copyright (c) 2005 S. Karger AG, Basel.
+
+DOI: 10.1159/000086472
+PMID: 15976504 [Indexed for MEDLINE]
+
+
+1275. MMW Fortschr Med. 2005 Jun 2;147(22):11.
+
+[Depressive syndrome, psychoses, dementia: frequent manifestations in Parkinson 
+disease].
+
+[Article in German]
+
+Wedekind S.
+
+PMID: 15977623 [Indexed for MEDLINE]
+
+
+1276. Methods Mol Biol. 2005;299:19-33. doi: 10.1385/1-59259-874-9:019.
+
+In vitro preparation of prefibrillar intermediates of amyloid-beta and 
+alpha-synuclein.
+
+Lashuel HA(1), Grillo-Bosch D.
+
+Author information:
+(1)Center for Neurologic Diseases, Brigham and Women's Hospital and Department 
+of Neurology, Harvard Medical School, Boston, MA, USA.
+
+Elucidating the structural properties of early intermediates (protofibrils) on 
+the fibril formation pathway of Abeta and alpha-synuclein, the structural 
+relationship among the different intermediates and their relationship to the 
+structure of the amyloid fibrils is critical for understanding the roles of 
+amyloid fibril formation in the pathogenesis of Alzheimer's and Parkinson's 
+diseases. In this chapter we discuss several methods, developed by different 
+laboratories, that enable the preparation and stabilization of amyloid-beta and 
+alpha-synuclein protofibrillar species of defined morphologies for biochemical, 
+biophysical and toxicity studies.
+
+DOI: 10.1385/1-59259-874-9:019
+PMID: 15980593 [Indexed for MEDLINE]
+
+
+1277. Neurobiol Aging. 2006 Aug;27(8):1087-93. doi: 
+10.1016/j.neurobiolaging.2005.05.013. Epub 2005 Jun 27.
+
+Revealing the role of glutathione S-transferase omega in age-at-onset of 
+Alzheimer and Parkinson diseases.
+
+Li YJ(1), Scott WK, Zhang L, Lin PI, Oliveira SA, Skelly T, Doraiswamy MP, 
+Welsh-Bohmer KA, Martin ER, Haines JL, Pericak-Vance MA, Vance JM.
+
+Author information:
+(1)Department of Medicine and Center for Human Genetics, Duke University Medical 
+Center, Box 3445, Durham, NC 27710, USA. yiju.li@duke.edu
+
+We previously reported a linkage region on chromosome 10q for age-at-onset (AAO) 
+of Alzheimer (AD) and Parkinson (PD) diseases. Glutathione S-transferase, 
+omega-1 (GSTO1) and the adjacent gene GSTO2, located in this linkage region, 
+were then reported to associate with AAO of AD and PD. To examine whether GSTO1 
+and GSTO2 (hereafter referred to as GSTO1h) are responsible for the linkage 
+evidence, we identified 39 families in AD that lead to our previous linkage and 
+association findings. The evidence of linkage and association was markedly 
+diminished after removing these 39 families from the analyses, thus providing 
+support that GSTO1h drives the original linkage results. The maximum average AAO 
+delayed by GSTO1h SNP 7-1 (rs4825, A nucleotide) was 6.8 (+/-4.41) years for AD 
+and 8.6(+/-5.71) for PD, respectively. This is comparable to the magnitude of 
+AAO difference by APOE-4 in these same AD and PD families. These findings 
+suggest the presence of genetic heterogeneity for GSTO1h's effect on AAO, and 
+support GSTO1h's role in modifying AAO in these two disorders.
+
+DOI: 10.1016/j.neurobiolaging.2005.05.013
+PMCID: PMC1482739
+PMID: 15985314 [Indexed for MEDLINE]
+
+
+1278. Neurology. 2005 Jun 28;64(12):2040-5. doi: 10.1212/01.WNL.0000166038.67153.9F.
+
+Dietary fatty acids and the risk of Parkinson disease: the Rotterdam study.
+
+de Lau LM(1), Bornebroek M, Witteman JC, Hofman A, Koudstaal PJ, Breteler MM.
+
+Author information:
+(1)Department of Epidemiology and Biostatistics, Erasmus Medical Center, 
+Rotterdam, The Netherlands.
+
+BACKGROUND: Unsaturated fatty acids are important constituents of neuronal cell 
+membranes and have neuroprotective, antioxidant, and anti-inflammatory 
+properties.
+OBJECTIVE: To determine if a high intake of unsaturated fatty acids might be 
+associated with a lower risk of Parkinson disease (PD).
+METHODS: In the Rotterdam Study, a prospective population-based cohort study of 
+people ages > or =55, the association between intake of unsaturated fatty acids 
+and the risk of incident PD was evaluated among 5,289 subjects who were free of 
+dementia and parkinsonism and underwent complete dietary assessment at baseline. 
+PD was assessed through repeated in-person examination, and the cohort was 
+continuously monitored by computer linkage to medical records. The data were 
+analyzed using Cox proportional hazards regression models.
+RESULTS: After a mean follow-up of 6.0 years, 51 participants with incident PD 
+were identified. Intakes of total fat, monounsaturated fatty acids (MUFAs), and 
+polyunsaturated fatty acids (PUFAs) were significantly associated with a lower 
+risk of PD, with an adjusted hazard ratio per SD increase of energy-adjusted 
+intake of 0.69 (95% CI 0.52 to 0.91) for total fat, of 0.68 (95% CI 0.50 to 
+0.94) for MUFAs, and 0.66 (95% CI 0.46 to 0.96) for PUFAs. No associations were 
+found for dietary saturated fat, cholesterol, or trans-fat.
+CONCLUSION: These findings suggest that high intake of unsaturated fatty acids 
+might protect against Parkinson disease.
+
+DOI: 10.1212/01.WNL.0000166038.67153.9F
+PMID: 15985568 [Indexed for MEDLINE]
+
+
+1279. Neurology. 2005 Jun 28;64(12):2132-3. doi: 10.1212/01.WNL.0000165977.38272.15.
+
+"Applause sign" helps to discriminate PSP from FTD and PD.
+
+Dubois B(1), Slachevsky A, Pillon B, Beato R, Villalponda JM, Litvan I.
+
+Author information:
+(1)INSERM U 610, Fédération de Neurologie, Hôpital de la Salpêtrière, Paris, 
+France. b.dubois@psl.ap-hop-paris.fr
+
+The "applause sign" is a simple test of motor control that helps to 
+differentiate PSP from frontal or striatofrontal degenerative diseases. It was 
+found in 0/39 controls, 0 of 24 patients with frontotemporal dementia (FTD), 0 
+of 17 patients with Parkinson disease (PD), and 30/42 patients with progressive 
+supranuclear palsy (PSP). It discriminated PSP from FTD (p < 0.001) and PD (p < 
+0.00). The "three clap test" correctly identified 81.8% of the patients in the 
+comparison PSP and FTD and 75% of the patients in the comparison of PSP and PD.
+
+DOI: 10.1212/01.WNL.0000165977.38272.15
+PMID: 15985587 [Indexed for MEDLINE]
+
+
+1280. Acta Neuropathol. 2005 Aug;110(2):135-44. doi: 10.1007/s00401-005-1027-3. Epub 
+2005 Jun 29.
+
+Caspase-cleaved tau accumulation in neurodegenerative diseases associated with 
+tau and alpha-synuclein pathology.
+
+Newman J(1), Rissman RA, Sarsoza F, Kim RC, Dick M, Bennett DA, Cotman CW, Rohn 
+TT, Head E.
+
+Author information:
+(1)Department of Biology, Boise State University, Boise, Idaho, USA.
+
+Alzheimer's disease (AD), Pick's disease (PiD), progressive supranuclear palsy 
+(PSP), corticobasal degeneration (CBD) and dementia with Lewy bodies (DLB) are 
+diseases associated with the accumulation of tau or alpha-synuclein. In AD, 
+beta-amyloid (Abeta)-associated caspase activation and cleavage of tau at Asp421 
+(DeltaTau) may be an early step in neurofibrillary tangle (NFT) formation. To 
+examine whether DeltaTau accumulates in other diseases not characterized by 
+extracellular Abeta accumulation, we examined PiD, PSP, and CBD cases in 
+comparison to those without extensive tau accumulation including frontotemporal 
+lobar degeneration without Pick bodies (FTLD) and control cases. Additionally, 
+we studied DeltaTau accumulation in DLB cases associated with intracellular 
+alpha-synuclein. DeltaTau was observed in all disease cases except non-PiD FTLD 
+and controls. These results demonstrate that the accumulation of DeltaTau may 
+represent a common pathway associated with abnormal accumulation of 
+intracellular tau or alpha-synuclein and may be relatively less dependent on the 
+extracellular accumulation of Abeta in non-AD dementias.
+
+DOI: 10.1007/s00401-005-1027-3
+PMID: 15986225 [Indexed for MEDLINE]
+
+
+1281. Expert Opin Ther Targets. 2001 Feb;5(1):125-32. doi: 10.1517/14728222.5.1.125.
+
+The emerging utility of animal models of chronic neurodegenerative diseases.
+
+Kahle PJ(1), Haass C.
+
+Author information:
+(1)Laboratory for Alzheimer's and Parkinson's Disease Research, Department of 
+Biochemistry, Ludwig Maximilians University, Schillerstrasse 44, D-80336 Munich, 
+Germany. pkahle@pbm.med.uni-muenchen.de
+
+The two most common neurodegenerative diseases are Alzheimer's disease (AD) and 
+Parkinson's disease (PD). The symptoms are caused by the initially selective 
+degeneration of neuronal subpopulations involved in memory (AD) or movement 
+control (PD). The cause of both diseases is unknown, but ageing is an inevitable 
+risk factor. The identification of disease-associated genes was a breakthrough 
+for the understanding of molecular mechanisms of neurodegeneration and has 
+provided the basis for the establishment of cell culture and animal model 
+systems, instrumental for target validation and drug screening. Familial AD is 
+caused by mutations in the beta-amyloid precursor protein (betaAPP) and in the 
+gene products responsible for its proteolytic processing, namely the 
+presenilins. Transgenic mice expressing these mutant genes develop 
+characteristic AD plaques in an age-dependent manner. A reduction of plaque 
+burden and amelioration of cognitive decline in these animals was recently 
+achieved by vaccination with amyloid beta-protein fibrils. The other hallmark 
+lesion of AD, the neurofibrillary tangle, has been modelled recently in 
+transgenic mice expressing mutant tau protein linked to frontotemporal dementia. 
+PD is characterised by intraneuronal cytoplasmic deposits (Lewy bodies) of the 
+PD-associated gene product alpha-synuclein. Transgenic expression of 
+alpha-synuclein recreated hallmark features of PD in mice and fruit flies, 
+establishing alpha-synuclein as PD-causing drug target. Moreover, environmental 
+risk factors such as the pesticide rotenone have been used successfully to 
+generate rodent models of PD. Lesion models of PD are being exploited for the 
+development of experimental gene therapy and transplantation approaches.
+
+DOI: 10.1517/14728222.5.1.125
+PMID: 15992171
+
+
+1282. J Neural Transm (Vienna). 2006 Mar;113(3):331-7. doi: 10.1007/s00702-005-0329-x. 
+Epub 2005 Jul 6.
+
+Analysis of the polymorphic prion protein gene codon 129 in idiopathic 
+Parkinson's disease.
+
+Gossrau G(1), Herting B, Möckel S, Kempe A, Koch R, Reichmann H, Lampe JB.
+
+Author information:
+(1)Department of Neurology, University of Technology, Dresden, Germany. 
+ggossrau@uni-bonn.de
+
+Idiopathic Parkinson's disease (IPD) is a neurodegenerative disorder of unknown 
+aetiology. Histopathological similarities between IPD and Creutzfeldt-Jakob 
+prion disease (CJD) have been suggested. Homozygosity at polymorphic prion 
+protein gene codon 129 (PRNP129) is a risk factor for developing CJD. Therefore 
+we investigated a putative genetic link between CJD and IPD by studying PRNP129 
+genotype segregation in 81 patients with IPD. We did not ascertain a different 
+PRNP129 genotype distribution in IPD patients compared to healthy Germans. We 
+found a significant difference in PRNP129 genotype in dependence of the clinical 
+predominance type of IPD. Patients with tremor-dominant IPD presented less 
+frequent a methionine homozygosis at PRNP129 than hypokinetic-rigid IPD patients 
+(30% versus 62.5%; p<0.033). In conclusion, genotype distribution at codon 129 
+is obviously not essential in determining IPD. But our results may provide first 
+evidence of an association between certain PRNP129 polymorphisms and the 
+clinical presentation of IPD.
+
+DOI: 10.1007/s00702-005-0329-x
+PMID: 15997418 [Indexed for MEDLINE]
+
+
+1283. Mov Disord. 2005 Oct;20(10):1310-5. doi: 10.1002/mds.20581.
+
+Abnormal sleep architecture is an early feature in the E46K familial 
+synucleinopathy.
+
+Zarranz JJ(1), Fernández-Bedoya A, Lambarri I, Gómez-Esteban JC, Lezcano E, 
+Zamacona J, Madoz P.
+
+Author information:
+(1)Neurology Service, Hospital of Cruces, Department of Neurosciences, 
+University of the Basque Country, Baracaldo, Vizcaya, Spain. 
+jjzarranz@hcru.osakidetza.net
+
+We examined 7 patients from a family harboring a novel mutation in the 
+alpha-synuclein gene (E46K) that segregated with a phenotype of parkinsonism and 
+dementia with Lewy bodies. An abnormal restless sleep was the presenting symptom 
+in 2 of them. Polysomnographic (PSG) studies were performed in 4 of the 7 
+patients and in 2 asymptomatic carriers of the mutation. A severe loss of both 
+rapid eye movement (REM) and non-REM sleep was observed in 2 patients 
+complaining of insomnia and in a third parkinsonian member of the family who did 
+not complain of trouble with sleeping. Another parkinsonian family member had a 
+mild disorganization of the sleep architecture. The 2 asymptomatic carriers also 
+had minor changes in the PSG findings. Episodes of bizarre behavior at night 
+were reported historically in the 2 symptomatic patients, but we did not 
+observed the behaviors during the PSG studies. REM sleep behavior disorder could 
+not be recorded in any case. Our findings expand the spectrum of sleep disorders 
+reported in synucleinopathies whether sporadic or familial.
+
+Copyright (c) 2005 Movement Disorder Society.
+
+DOI: 10.1002/mds.20581
+PMID: 16001411 [Indexed for MEDLINE]
+
+
+1284. Neurocase. 2005 Jun;11(3):204-11. doi: 10.1080/13554790590944753.
+
+Late-onset frontotemporal dementia associated with progressive supranuclear 
+palsy/argyrophilic grain disease/Alzheimer's disease pathology.
+
+Rippon GA(1), Boeve BF, Parisi JE, Dickson DW, Ivnik RI, Jack CR, Hutton M, 
+Baker M, Josephs KA, Knopman DS, Petersen RC.
+
+Author information:
+(1)Department of Neurology, Mayo Clinic, Rochester, Minnesota 55905, USA.
+
+Progressive supranuclear palsy (PSP) is typically manifested by vertical 
+supranuclear gaze palsy, frequent falls early in the disease course, axial 
+rigidity and poor response to levodopa. Prominent anterograde memory dysfunction 
+with subsequent impairment in other cognitive domains is characteristic of 
+Alzheimer's disease (AD). No clear clinical syndrome has been identified in 
+argyrophilic grain disease (AGD). Frontotemporal dementia (FTD) is characterized 
+by apathy, emotional blunting, disinhibition, and impairment in executive 
+functioning despite relatively preserved memory and visuospatial abilities. 
+Cognitive deficits are known to occur in PSP; however, overt clinical FTD 
+without parkinsonism or supranuclear gaze palsy associated with PSP pathology 
+has rarely been documented. We report an elderly patient with the typical 
+clinical, neuropsychometric, and neuroimaging features of FTD who had autopsy 
+findings most consistent with PSP plus AGD and AD in limbic structures. We 
+suggest that PSP with or without coexisting AD and AGD be included in the 
+differential diagnosis of patients presenting with FTD.
+
+DOI: 10.1080/13554790590944753
+PMID: 16006341 [Indexed for MEDLINE]
+
+
+1285. Eur J Clin Invest. 2005 Jul;35(7):421-4. doi: 10.1111/j.1365-2362.2005.01516.x.
+
+International conference on the healthy effect of virgin olive oil.
+
+Perez-Jimenez F(1), Alvarez de Cienfuegos G, Badimon L, Barja G, Battino M, 
+Blanco A, Bonanome A, Colomer R, Corella-Piquer D, Covas I, Chamorro-Quiros J, 
+Escrich E, Gaforio JJ, Garcia Luna PP, Hidalgo L, Kafatos A, Kris-Etherton PM, 
+Lairon D, Lamuela-Raventos R, Lopez-Miranda J, Lopez-Segura F, Martinez-Gonzalez 
+MA, Mata P, Mataix J, Ordovas J, Osada J, Pacheco-Reyes R, Perucho M, 
+Pineda-Priego M, Quiles JL, Ramirez-Tortosa MC, Ruiz-Gutierrez V, Sanchez-Rovira 
+P, Solfrizzi V, Soriguer-Escofet F, de la Torre-Fornell R, Trichopoulos A, 
+Villalba-Montoro JM, Villar-Ortiz JR, Visioli F.
+
+Author information:
+(1)Lipid and Atherosclerosis Unit, Reina Sofia University Hospital, Cordoba, 
+Spain. franperezjimenez@yahoo.com
+
+1. Ageing represents a great concern in developed countries because the number 
+of people involved and the pathologies related with it, like atherosclerosis, 
+morbus Parkinson, Alzheimer's disease, vascular dementia, cognitive decline, 
+diabetes and cancer. 2. Epidemiological studies suggest that a Mediterranean 
+diet (which is rich in virgin olive oil) decreases the risk of cardiovascular 
+disease. 3. The Mediterranean diet, rich in virgin olive oil, improves the major 
+risk factors for cardiovascular disease, such as the lipoprotein profile, blood 
+pressure, glucose metabolism and antithrombotic profile. Endothelial function, 
+inflammation and oxidative stress are also positively modulated. Some of these 
+effects are attributed to minor components of virgin olive oil. Therefore, the 
+definition of the Mediterranean diet should include virgin olive oil. 4. 
+Different observational studies conducted in humans have shown that the intake 
+of monounsaturated fat may be protective against age-related cognitive decline 
+and Alzheimer's disease. 5. Microconstituents from virgin olive oil are 
+bioavailable in humans and have shown antioxidant properties and capacity to 
+improve endothelial function. Furthermore they are also able to modify the 
+haemostasis, showing antithrombotic properties. 6. In countries where the 
+populations fulfilled a typical Mediterranean diet, such as Spain, Greece and 
+Italy, where virgin olive oil is the principal source of fat, cancer incidence 
+rates are lower than in northern European countries. 7. The protective effect of 
+virgin olive oil can be most important in the first decades of life, which 
+suggests that the dietetic benefit of virgin olive oil intake should be 
+initiated before puberty, and maintained through life. 8. The more recent 
+studies consistently support that the Mediterranean diet, based in virgin olive 
+oil, is compatible with a healthier ageing and increased longevity. However, 
+despite the significant advances of the recent years, the final proof about the 
+specific mechanisms and contributing role of the different components of virgin 
+olive oil to its beneficial effects requires further investigations.
+
+DOI: 10.1111/j.1365-2362.2005.01516.x
+PMID: 16008542 [Indexed for MEDLINE]
+
+
+1286. Neuropathol Appl Neurobiol. 2005 Aug;31(4):345-53. doi: 
+10.1111/j.1365-2990.2005.00686.x.
+
+Return of the cycad hypothesis - does the amyotrophic lateral 
+sclerosis/parkinsonism dementia complex (ALS/PDC) of Guam have new implications 
+for global health?
+
+Ince PG(1), Codd GA.
+
+Author information:
+(1)Academic Unit of Pathology, Division of Genomic Medicine, University of 
+Sheffield, Sheffield, UK. p.g.ince@shef.ac.uk
+
+Comment in
+    Neuropathol Appl Neurobiol. 2006 Jun;32(3):341-3.
+    Neuropathol Appl Neurobiol. 2006 Dec;32(6):679-82.
+
+Recently published work provides evidence in support of the cycad hypothesis for 
+Lytico--Bodig, the Guamanian amyotrophic lateral sclerosis/parkinsonism dementia 
+complex (ALS/PDC), based on a new understanding of Chamorro food practices, a 
+cyanobacterial origin of beta-methylaminoalanine (BMAA) in cycad tissue, and a 
+possible mechanism of biomagnification of this neurotoxic amino acid in the food 
+chain. BMAA is one of two cycad chemicals with known neurotoxic properties (the 
+other is cycasin, a proven developmental neurotoxin) among the many substances 
+that exist in these highly poisonous plants, the seeds of which are used by 
+Chamorros for food and medicine. The traditional diet includes the fruit bat, a 
+species that feeds on cycad seed components and reportedly bioaccumulates BMAA. 
+Plant and animal proteins provide a previously unrecognized reservoir for the 
+slow release of this toxin. BMAA is reported in the brain tissue of Guam 
+patients and early data suggest that some Northern American patients dying of 
+Alzheimer's disease (AD) have detectable brain levels of BMAA. The possible role 
+of cyanobacterial toxicity in sporadic neurodegenerative disease is therefore 
+worthy of consideration. Recent neuropathology studies of ALS/PDC confirm 
+understanding of this disorder as a 'tangle' disease, based on variable 
+anatomical burden, and showing biochemical characteristics of 'AD-like' combined 
+3R and 4R tau species. This model mirrors the emerging view that other 
+neurodegenerative disease spectra comprise clusters of related syndromes, owing 
+to common molecular pathology, with variable anatomical distribution in the 
+nervous system giving rise to different clinical phenotypes. Evidence for 
+'ubiquitin-only' inclusions in ALS/PDC is weak. Similarly, although there is 
+evidence for alpha-synucleinopathy in ALS/PDC, the parkinsonian component of the 
+disease is not caused by Lewy body disease. The spectrum of sporadic AD includes 
+involvement of the substantia nigra and a high prevalence of 
+'incidental'alpha-synucleinopathy in sporadic AD is reported. Therefore the 
+pathogenesis of Lytico-Bodig appears still to have most pertinence to the 
+ongoing investigation of the pathogenesis of AD and other tauopathies.
+
+DOI: 10.1111/j.1365-2990.2005.00686.x
+PMID: 16008818 [Indexed for MEDLINE]
+
+
+1287. Mutat Res. 2005 Dec 30;592(1-2):89-101. doi: 10.1016/j.mrfmmm.2005.06.006. Epub 
+2005 Jul 11.
+
+In search of genes involved in neurodegenerative disorders.
+
+Pardo LM(1), van Duijn CM.
+
+Author information:
+(1)Genetic Epidemiology Unit, Department of Epidemiology & Biostatistics, 
+Erasmus Medical Center Rotterdam, P.O. Box 1738, 3000 DR Rotterdam, The 
+Netherlands.
+
+Dissecting the genetics of Alzheimer's disease (AD) and Parkinson's disease (PD) 
+has contributed significantly to our understanding of the pathogenesis of 
+neurodegeneration in these two complex disorders. For AD, three highly penetrant 
+genes (amyloid precursor protein (APP, PSEN1 and PSEN2) and one susceptibility 
+gene (APOE) have been identified. For PD, seven genes (SNCA, Parkin, UCHL1, 
+NR4A2, DJ1, PINK1 and LRRK2) have been found. These genes explain only a small 
+proportion of AD and PD patients and are mostly associated with an early onset 
+presentation of the disease. APOE remains the only common gene, which increases 
+the risk of both rare early and late onset AD. The ongoing challenge is to 
+unravel the genetics of the most frequent forms of these complex disorders. In 
+the present paper, we briefly review the state of the art in the genetics of AD 
+and PD. We also discuss the prospects of finding new genes associated with 
+common forms of these diseases in light of two hypotheses concerning the genetic 
+variation of complex diseases: common disease/common variants and common 
+disease/rare variants.
+
+DOI: 10.1016/j.mrfmmm.2005.06.006
+PMID: 16009383 [Indexed for MEDLINE]
+
+
+1288. Int J Geriatr Psychiatry. 2005 Jul;20(7):645-50. doi: 10.1002/gps.1333.
+
+The clinical utility of structural neuroimaging with MRI for diagnosis and 
+differential diagnosis of dementia: a memory clinic study.
+
+Hentschel F(1), Kreis M, Damian M, Krumm B, Frölich L.
+
+Author information:
+(1)Division for Neuroradiology, Central Institute for Mental Health, Faculty for 
+Clinical Medicine Mannheim, University of Heidelberg, Germany. 
+hentsche@zi-mannheim.de
+
+OBJECTIVES: The individual contribution to the final comprehensive clinical 
+diagnosis of neuropsychology (NP) and magnetic resonance imaging (MRI), 
+respectively, was quantified in a specialized tertiary care setting to 
+investigate the added clinical value of routine MRI.
+METHODS: In 106 patients referred to a university memory clinic for the work-up 
+of cognitive disturbances the primary care diagnosis, the initial clinical 
+neuropsychiatric diagnosis, the neuropsychological and MRI diagnoses, and the 
+final comprehensive clinical diagnosis were documented. The neuropsychological 
+investigation was performed using the CERAD test battery. MRI was performed 
+using T1, double echo and FLAIR sequences without contrast medium. The change of 
+the final comprehensive clinical diagnosis in relation to the initial 
+neuropsychiatric diagnosis was used to determine the diagnostic contribution of 
+both, MRI and NP.
+RESULTS: NP and MRI led to a significant change of the final comprehensive 
+diagnosis in 26% of patients (CI: 0.26 +/- 0.09; p < 0.05). In addition, three 
+cases of secondary dementias, and six cases of vascular encephalopathy without 
+dementia were recognized by MRI. Sensitivity, specificity, and the positive 
+predictive value were higher for NP and MRI, respectively, than for the initial 
+clinical diagnosis alone.
+CONCLUSION: MRI as well as neuropsychological testing improves early detection 
+and differential diagnosis of dementia and additionally supplies clinically 
+relevant findings. MRI carries added clinical value in the investigation of 
+dementias.
+
+Copyright 2005 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/gps.1333
+PMID: 16021656 [Indexed for MEDLINE]
+
+
+1289. Int J Geriatr Psychiatry. 2005 Jul;20(7):668-73. doi: 10.1002/gps.1339.
+
+Frontal dysfunction contributes to the genesis of hallucinations in non-demented 
+Parkinsonian patients.
+
+Grossi D(1), Trojano L, Pellecchia MT, Amboni M, Fragassi NA, Barone P.
+
+Author information:
+(1)Department of Psychology, Second University, Naples, Italy.
+
+BACKGROUND: Hallucinations occur in patients with Parkinson's disease (PD) with 
+reported prevalence ranging from 8% to 40%. Hallucinations are significantly 
+associated with dementia in PD, but little is known about possible distinctive 
+cognitive features of non-demented PD patients who develop hallucinations.
+OBJECTIVE: The aim of the study was to assess selected cognitive abilities in 
+non-demented PD patients with and without hallucinations in order to identify 
+specific neuropsychological correlates of such phenomena.
+METHODS: Forty-eight consecutive patients with PD and Mini Mental State 
+Examination (MMSE) > or = 23 were examined for the presence of hallucinations 
+and assessed on standardized neuropsychological tasks for semantic and 
+phonological fluency, verbal learning and logical abstract thinking; disease 
+severity was staged according to Hoehn and Yahr scale.
+RESULTS: Fourteen (29.2%) of 48 patients experienced hallucinations. There was 
+no difference between hallucinators and non-hallucinators on demographic 
+variables, disease severity and dose of any pharmacological treatment. Disease 
+duration was significantly longer in hallucinator vs non-hallucinator patients 
+(p = 0.02). Patients with hallucinations scored significantly lower than 
+patients without hallucinations only on verbal learning-immediate recall task (p 
+= 0.0324), and semantic and phonological fluency tasks (p = 0.0005 and p = 
+0.0036, respectively).
+CONCLUSIONS: Our results suggest that PD patients with hallucinations show 
+reduced performance on tasks that explore executive functioning as compared with 
+non-hallucinators. Therefore, executive dysfunction may be considered as a risk 
+factor for the development of hallucinations in non-demented PD patients.
+
+Copyright 2005 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/gps.1339
+PMID: 16021658 [Indexed for MEDLINE]
+
+
+1290. Brain. 2005 Sep;128(Pt 9):1996-2005. doi: 10.1093/brain/awh598. Epub 2005 Jul 
+20.
+
+The evolution and pathology of frontotemporal dementia.
+
+Kertesz A(1), McMonagle P, Blair M, Davidson W, Munoz DG.
+
+Author information:
+(1)Department of Cognitive Neurology, St Joseph's Hospital, London, Ontario N6A 
+4V2, Canada. Andrew.Kertesz@sjhc.london.on.ca
+
+This is a clinicopathologic study of a prospective, clinic-based cohort of 
+patients with frontotemporal dementia (FTD)/Pick complex, who were followed to 
+autopsy. A total of 60 patients with the clinical syndromes of the behavioural 
+variant of FTD (FTD-bv) (n = 32), primary progressive aphasia (PPA) (n = 22), 
+corticobasal degeneration syndrome (CBDS) (n = 4) and progressive supranuclear 
+palsy (PSP) (n = 2) at onset, referred to a cognitive neurology clinic who had 
+subsequent post-mortem examination were included. The most common histological 
+variety was motor neurone disease type inclusion (MNDI) (n = 18), followed by 
+corticobasal degeneration (CBD) (n = 12), then Pick's disease (n = 6), dementia 
+lacking distinctive histology (DLDH) (n = 6) and PSP (n = 3). Others fulfilled 
+the histological criteria for Alzheimer's disease combined with glial pathology 
+(n = 6), Alzheimer's disease only (n = 4), Lewy body variant (n = 2), prion 
+disease (n = 1), vascular dementia (n = 1) and undetermined (n = 1). The most 
+common first syndrome among the MNDI and DLDH (tau negative) pathologies was 
+FTD-bv, but subsequently progressive aphasia (PA), occasionally CBDS and 
+semantic dementia also developed. Tau positive histologies of CBD, PSP and Pick 
+bodies were most frequently associated with PPA onset or CBDS/PSP, but 
+behavioural symptoms were also common. Age of onset was earlier in tau negative 
+cases, but the duration of illness and gender distribution were about the same 
+in all histological variants. Although the tau negative and positive histologies 
+are predicted to some extent by the clinical onset, the extent of the overlap 
+and the convergence of the syndromes in the course of the disease argue in 
+favour of maintaining the clinical and pathological varieties under a single 
+umbrella.
+
+DOI: 10.1093/brain/awh598
+PMID: 16033782 [Indexed for MEDLINE]
+
+
+1291. Int J Geriatr Psychiatry. 2005 Aug;20(8):776-82. doi: 10.1002/gps.1359.
+
+Longitudinal study of cerebral blood flow SPECT in Parkinson's disease with 
+dementia, and dementia with Lewy bodies.
+
+Firbank MJ(1), Burn DJ, McKeith IG, O'Brien JT.
+
+Author information:
+(1)The Institute for Ageing and Health, University of Newcastle upon Tyne, UK. 
+m.j.firbank@ncl.ac.uk
+
+BACKGROUND: People with Parkinson's disease (PD) have an increased risk of 
+developing dementia (PDD), which often has clinical features similar to dementia 
+with Lewy bodies (DLB). Whilst perfusion studies have shown parieto-occipital 
+hypoperfusion in DLB and PDD relative to controls, there have not been any 
+longitudinal studies of perfusion changes in PDD and DLB.
+METHODS: In this study, we measured brain perfusion using Tc99m HMPAO SPECT over 
+one year in 17 PDD, 18 DLB and 34 healthy subjects. We used SPM99 to compare 
+perfusion changes in the two dementia groups against the control group.
+RESULTS: We did not see any reductions in perfusion in either of the dementia 
+groups. However, in the DLB, but not PDD group, there was a significant increase 
+in putamen perfusion relative to controls over the year. In both DLB and PDD 
+groups, there was a correlation between striatal perfusion increase over the 
+year, and worsening of parkinsonism. Perfusion changes were not secondary to 
+changes in antiparkinsonian medication.
+CONCLUSION: The increase in striatal perfusion may be a compensatory change 
+related to decreasing striatal dopaminergic input from the substantia nigra in 
+PDD and DLB, consistent with the increased predominance of rigidity over tremor 
+symptoms in these groups compared with non-demented PD.
+
+(c) 2005 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/gps.1359
+PMID: 16035122 [Indexed for MEDLINE]
+
+
+1292. Pharmacol Res. 2005 Nov;52(5):367-75. doi: 10.1016/j.phrs.2005.05.013. Epub 2005 
+Jul 20.
+
+Increase in plasma homocysteine levels induced by drug treatments in neurologic 
+patients.
+
+Siniscalchi A(1), Mancuso F, Gallelli L, Ferreri Ibbadu G, Biagio Mercuri N, De 
+Sarro G.
+
+Author information:
+(1)Department of Neuroscience, Annunziata Hospital, Cosenza, Italy.
+
+Homocysteine (Hcy) is a thyol amino acid resulting from de-methylation of 
+methionine, an essential amino acid derived from dietary proteins. It is 
+metabolized through two pathways: re-methylation and transsulfuration, which use 
+as cofactors folate, vitamin B6 and vitamin B12. Hyperhomocysteinemia has been 
+identified as a risk factor for cerebrovascular disease, dementia, impaired 
+cognitive function and depression. Several drugs may interfere with metabolic 
+pathways of Hcy, leading to an alteration of plasma Hcy levels. Lipid-lowering 
+agents, used to reduce the risk of cerebral venous thrombosis or occlusive 
+vascular disease in patients with high levels of plasmatic lipids, can increase 
+plasma Hcy levels. Hyperhomocysteinemia has been also documented in Parkinson 
+disease patients treated with levodopa and in epileptic patients after chronic 
+treatment with antiepileptic drugs. In contrast, vitamins supplementations may 
+be warranted in patients treated with lipid-lowering agents, levodopa and 
+antiepileptic drugs in order to maintain normal plasma Hcy values. In contrast, 
+higher doses of vitamins can induce dysfunctions in central and peripheral 
+nervous system; therefore excessive supplements should be avoided.
+
+DOI: 10.1016/j.phrs.2005.05.013
+PMID: 16039138 [Indexed for MEDLINE]
+
+
+1293. Top Magn Reson Imaging. 2004 Dec;15(6):369-89. doi: 
+10.1097/01.rmr.0000168070.90113.dc.
+
+Pathological aging of the brain: an overview.
+
+Bastos Leite AJ(1), Scheltens P, Barkhof F.
+
+Author information:
+(1)Department of Radiology, Vrije Universiteit (VU) Medical Center, Amsterdam, 
+the Netherlands. A.bastosleite@vumc.nl
+
+The number of elderly people is increasing rapidly and, therefore, an increase 
+in neurodegenerative and cerebrovascular disorders causing dementia is expected. 
+Alzheimer disease (AD) is the most common cause of dementia. Vascular dementia, 
+dementia with Lewy bodies, and frontotemporal dementia are the most frequent 
+causes after AD, but a large proportion of patients have a combination of 
+degenerative and vascular brain pathology. Characteristic magnetic resonance 
+(MR) imaging findings can contribute to the identification of different diseases 
+causing dementia. The MR imaging protocol should include axial T2-weighted 
+images (T2-WI), axial fluid-attenuated inversion recovery (FLAIR) or proton 
+density-weighted images, and axial gradient-echo T2*-weighted images, for the 
+detection of cerebrovascular pathology. Structural neuroimaging in dementia is 
+focused on detection of brain atrophy, especially in the medial temporal lobe, 
+for which coronal high resolution T1-weighted images perpendicular to the long 
+axis of the temporal lobe are extremely important. Single photon emission 
+computed tomography and positron emission tomography may have added value in the 
+diagnosis of dementia and may become more important in the future, due to the 
+development of radioligands for in vivo detection of AD pathology. New 
+functional MR techniques and serial volumetric imaging studies to identify 
+subtle brain abnormalities may also provide surrogate markers for pathologic 
+processes that occur in diseases causing dementia and, in conjunction with 
+clinical evaluation, may enable a more rigorous and early diagnosis, approaching 
+the accuracy of neuropathology.
+
+DOI: 10.1097/01.rmr.0000168070.90113.dc
+PMID: 16041289 [Indexed for MEDLINE]
+
+
+1294. Biochem Soc Trans. 2005 Aug;33(Pt 4):578-81. doi: 10.1042/BST0330578.
+
+Expression of normal sequence pathogenic proteins for neurodegenerative disease 
+contributes to disease risk: 'permissive templating' as a general mechanism 
+underlying neurodegeneration.
+
+Hardy J(1).
+
+Author information:
+(1)Laboratory of Neurogenetics, National Institute on Aging, Porter Neuroscience 
+Building, 35, Convent Drive, Bethesda, MD 20892, USA. hardyj@mail.nih.gov
+
+Loci underlying autosomal dominant forms of most neurodegenerative disease have 
+been identified: prion mutations cause Gerstmann Straussler syndrome and 
+hereditary Creutzfeldt-Jakob disease, tau mutations cause autosomal dominant 
+frontal temporal dementia and alpha-synuclein mutations cause autosomal dominant 
+Parkinson's disease. In these cases, the pathogenic mutation is in the protein 
+that is deposited in the diseased tissue and the whole protein is deposited. In 
+Alzheimer's disease, mutations in amyloid precursor protein or in the 
+presenilins cause autosomal dominant disease. These are the substrate and 
+proteases responsible for the production of the deposited peptide Abeta. Thus, 
+in all the cases, the mutations lead to the disease by a mechanism that involves 
+the deposition process. Furthermore, sporadic forms of all these diseases are 
+predisposed by genetic variability at the same loci, implying that the quantity 
+of the normal protein influences the risk of this form of disease. These results 
+show that the amount of pathogenic protein expression is a key factor in 
+determining disease initiation. Recent work on transgenic models of these 
+diseases is consistent with the view that there are two stages of pathogenesis: 
+a concentration-dependent formation of a pathogenic protein oligomer followed by 
+aggregation on to this oligomeric template by a process that is less dependent 
+on the concentration of the protein.
+
+DOI: 10.1042/BST0330578
+PMID: 16042548 [Indexed for MEDLINE]
+
+
+1295. J Neurol. 2006 Feb;253(2):186-93. doi: 10.1007/s00415-005-0951-4. Epub 2005 Jul 
+27.
+
+Differential effect of Huntington's and Parkinson's diseases in programming 
+motor sequences of varied lengths.
+
+Yágüez L(1), Lange HW, Hömberg V.
+
+Author information:
+(1)Dept. of Psychology, Henry Wellcome Building, Institute of Psychiatry, De 
+Crespigny Park, Denmark Hill, London, UK. l.yaguez@iop.kcl.ac.uk
+
+BACKGROUND: Parkinson's disease (PD) and Huntington's disease (HD) patients have 
+difficulties executing sequential movements. Attention control and short-term 
+memory probably play an important role in programming sequential movements. To 
+investigate the contribution of these cognitive factors to programming and 
+executing visuomotor sequences in HD and PD patients a computerized version of 
+the Corsi Block Tapping-Test was employed.
+METHODS: the performance of 11 patients with early stage PD, 11 HD patients with 
+borderline to mild caudate atrophy and 20 healthy subjects was compared. The 
+task was a reaction time task where targets were illuminated in groups of 
+sequences increasing from 2 items to 5 items. Subjects reproduced the sequence 
+(pressing the illuminated target) in the same order of appearance. Reaction 
+Times and movement times were recorded.
+RESULTS: PD patients had increasing difficulties in programming and executing 
+series greater than three components. HD patients did not differ significantly 
+from the controls, although they showed a tendency to lose accuracy in the 
+longer series. Both patient groups did not differ in their attention span.
+CONCLUSIONS: In PD although the spatial information may be well stored, they 
+have difficulty accessing it when their attention is overloaded, leading to poor 
+encoding and slow information processing. This process interferes with 
+programming and execution of movement sequences. HD patients in the early stages 
+of the illness seem to have more attention resources than PD patients, so that 
+they start to show more problems in executing visuomotor sequences with longer 
+movement sequences than PD patients.
+
+DOI: 10.1007/s00415-005-0951-4
+PMID: 16044211 [Indexed for MEDLINE]
+
+
+1296. Cleve Clin J Med. 2005 Jul;72(7):586, 589-90, 592-4 passim. doi: 
+10.3949/ccjm.72.7.586.
+
+Gait disorders: search for multiple causes.
+
+Alexander NB(1), Goldberg A.
+
+Author information:
+(1)Institute of Gerontology, Division of Geriatric Medicine, Department of 
+Internal Medicine, University of Michigan, Ann Arbor, MI 48109-0926, USA. 
+nalexand@umich.edu
+
+Gait disorders predict functional decline in older adults. They are often the 
+result of multiple causes, so a full assessment should consider different 
+sensorimotor levels and should include a focused physical examination and 
+evaluation of functional performance. Exercise and medical and surgical 
+interventions are effective and can reduce the degree of gait disorder, but 
+usually not without some residual impairment. Orthoses and mobility aids are 
+also important interventions to consider.
+
+DOI: 10.3949/ccjm.72.7.586
+PMID: 16044655 [Indexed for MEDLINE]
+
+
+1297. Int Psychogeriatr. 2005 Jun;17(2):289-301. doi: 10.1017/s1041610205001511.
+
+Differential cognitive impairment in subjects with geriatric depression who will 
+develop Alzheimer's disease and other dementias: a retrospective study.
+
+Jean L(1), Simard M, van Reekum R, Clarke DE.
+
+Author information:
+(1)Ecole de psychologie, Centre de Recherche Université Laval-Robert-Giffard, 
+Université Laval, Québec City, Québec G1K 7P4, Canada. Leonie.Jean.1ulaval.ca
+
+OBJECTIVE: The aim of this study was to retrospectively differentiate the 
+cognitive profile of subjects with geriatric depression who will later be 
+diagnosed with Alzheimer's disease (AD) from those who will be diagnosed with 
+other dementias, and subjects who will remain with no dementia.
+METHODS: Forty-four depressed patients admitted to a day hospital program for 
+depression who participated in a historical cohort study were assessed after 7.5 
+years of follow-up. Fourteen of these subjects subsequently developed dementia: 
+seven met the criteria for probable AD and seven met the criteria for dementias 
+other than AD (Dementia-No-AD; D-NAD, such as dementia with Lewy bodies (DLB), 
+vascular and mixed dementia). Thirty subjects remained without dementia (No 
+Dementia, ND) at follow-up. The three groups were thus compared on their 
+baseline cognitive performances on the six sections of the Mini-mental State 
+Examination (MMSE) and on the five subscales of the Dementia Rating Scale (DRS).
+RESULTS: An analysis of variance (ANOVA) and post-hoc Student-Newman-Keuls 
+analyses with an alpha of p < 0.05 revealed that the subjects who received a 
+diagnosis of dementia at follow-up had previously had more impairment on tasks 
+measuring attention and memory (DRS-MMSE) than those who did not develop 
+dementia (AD = D-NAD < ND). Moreover, the future AD subjects could be 
+differentiated on the basis of their difficulties on the MMSE-orientation 
+subtest (AD < ND = D-NAD), whereas the future D-NAD subjects initially had more 
+problems with executive functions (DRS) and MMSE-visuospatial abilities (D-NAD < 
+AD = ND).
+CONCLUSION: The identification of early neuropsychological markers in elderly 
+depressed patients highlights the need to evaluate this population broadly as 
+soon as possible in the depression/dementia process in order to improve the 
+prognosis.
+
+DOI: 10.1017/s1041610205001511
+PMID: 16050437 [Indexed for MEDLINE]
+
+
+1298. Clin Neuropharmacol. 2005 Jul-Aug;28(4):176-8. doi: 
+10.1097/01.wnf.0000172498.24770.54.
+
+Efficacy and safety of donepezil in the treatment of executive dysfunction in 
+Parkinson disease: a pilot study.
+
+Linazasoro G(1), Lasa A, Van Blercom N.
+
+Author information:
+(1)Centro de Investigación Parkinson, Policlínica Gipuzkoa, San Sebastián, 
+Spain. glinazasoro@terra.es
+
+Cognitive disturbances in Parkinson's disease (PD) are dominated by troubles in 
+executive functions which affects to a vast majority of parkinsonian patients 
+since the onset of the disease. A common clinical observation is that 
+parkinsonian patients, who eventually develop dementia, exhibit subtle cognitive 
+disturbances quite earlier. The main biochemical substrate of cognitive 
+dysfunction in PD, even of the early dysexecutive syndrome, might be a 
+cholinergic deficiency. The aim of this pilot study was to determine the 
+efficacy and safety of donepezil in the treatment of 10 patients with PD and 
+dysexecutive alterations without dementia. All the items of the Clinical Global 
+Impression were significantly improved. An improvement on both the modified 
+Wisconsin Card Sorting Test and DIGIT Span was found. Parkinsonism remained 
+unchanged during the study. Only 1 out of 10 patients experienced transient and 
+mild gastrointestinal side effects. This study suggests that donepezil may be 
+useful in the treatment of the dysexecutive syndrome associated with PD.
+
+DOI: 10.1097/01.wnf.0000172498.24770.54
+PMID: 16062096 [Indexed for MEDLINE]
+
+
+1299. Tijdschr Gerontol Geriatr. 2005 Jul;36(3):116-21.
+
+[Chronic pain in dementia and in disorders with a high risk for congnitive 
+impairment].
+
+[Article in Dutch]
+
+Scherder EJ(1), Oosterman JM, Ooms ME, Ribbe MW, Swaab DF.
+
+Author information:
+(1)Afdeling Klinische Neuropsychologie, Vrije Universiteit, van der 
+Boechorststraat 1, 1081 BT Amsterdam. eja.scherder@psy.vu.nl
+
+Ageing increases the risk for the etiology of chronic pain and dementia. hence, 
+the increase in the number of elderly people implies that the number of elderly 
+with dementia suffering from chronic pain will increase as well. A key question 
+relates to if and how patients with dementia perceive pain. the inadequateness 
+of pain assessment, particularly in a more advanced stage, is also reflected in 
+a decreased use of analgesics by elderly people with dementia. Insight into 
+possible changes in pain experience as have been observed in the few available 
+clinical studies, could be enhanced by knowledge about the neuropathology which 
+may differ per subtype of dementia. It is striking that pain has not been 
+examined in degenerative diseases of the central nervous system with a high risk 
+for cognitive impairment such as Parkinson's disease and multiple sclerosis. In 
+these disorders, pain is a prominent clinical symptom and to date it is not 
+known whether the experience of pain will change in a stage in which patients 
+become cognitively impaired. Finally, a number of instruments which are most 
+appropriate to assess pain in communicative and non-communicative patients are 
+discussed.
+
+PMID: 16078658 [Indexed for MEDLINE]
+
+
+1300. Am J Pharmacogenomics. 2005;5(4):259-70. doi: 10.2165/00129785-200505040-00006.
+
+The proteomics of neurodegeneration.
+
+Johnson MD(1), Yu LR, Conrads TP, Kinoshita Y, Uo T, McBee JK, Veenstra TD, 
+Morrison RS.
+
+Author information:
+(1)Department of Neurological Surgery, University of Washington School of 
+Medicine, Seattle, Washington 98195-6470, USA.
+
+The continuing improvement and refinement of proteomic and bioinformatic tools 
+has made it possible to obtain increasing amounts of structural and functional 
+information about proteins on a global scale. The emerging field of 
+neuroproteomics promises to provide powerful strategies for further 
+characterizing neuronal dysfunction and cell loss associated with 
+neurodegenerative diseases. Neuroproteomic studies have thus far revealed 
+relatively comprehensive quantitative changes and post-translational 
+modifications (mostly oxidative damage) of high abundance proteins, confirming 
+deficits in energy production, protein degradation, antioxidant protein 
+function, and cytoskeletal regulation associated with neurodegenerative diseases 
+such as Alzheimer and Parkinson disease. The identification of changes in 
+low-abundance proteins and characterization of their functions based on 
+protein-protein interactions still await further development of proteomic 
+methodologies and more dedicated application of these technologies by 
+neuroscientists. Once accomplished, however, the resulting information will 
+certainly provide a truly comprehensive view of neurodegeneration-associated 
+changes in protein expression, facilitating the identification of novel 
+biomarkers for the early detection of neurodegenerative diseases and new targets 
+for therapeutic intervention.
+
+DOI: 10.2165/00129785-200505040-00006
+PMID: 16078862 [Indexed for MEDLINE]
+
+
