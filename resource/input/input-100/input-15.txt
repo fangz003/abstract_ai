@@ -3560,5 +3560,3 @@ syndrome.
 
 DOI: 10.1111/j.1468-1331.2006.01404.x
 PMID: 16930372 [Indexed for MEDLINE]
-
-

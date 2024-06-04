@@ -4849,5 +4849,3 @@ Royal College of Psychiatrists.
 
 DOI: 10.1192/bjp.bp.114.148643
 PMID: 25431431 [Indexed for MEDLINE]
-
-

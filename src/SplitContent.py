@@ -13,9 +13,13 @@ batches = split_file_into_batches(file_path, 100)
 
 for batch_number, batch in enumerate(batches, start=1):
     print(f"Split into file {batch_number}...")
-    output_file = f'../resource/input/input-100/input-{batch_number}.txt'
+    filler = "";
+    if batch_number < 10:
+        filler = "0"
+    output_file = f'../resource/input/input-100/input-{filler}{batch_number}.txt'
 
     with open(output_file, mode='w', newline='') as file:
         for i, abstract in enumerate(batch, start=1):
             file.write(abstract)
-            file.write("\n\n\n")
+            if i < 100:
+                file.write("\n\n\n")

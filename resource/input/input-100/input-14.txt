@@ -3533,5 +3533,3 @@ aimed at preventing or reversing the aggregation of alpha-syn.
 
 DOI: 10.1096/fj.03-1449com
 PMID: 16507759 [Indexed for MEDLINE]
-
-

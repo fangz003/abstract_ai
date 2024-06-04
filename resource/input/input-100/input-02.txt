@@ -3133,5 +3133,3 @@ major locus hypothesis could not be rejected.
 
 DOI: 10.1002/ajmg.1320450118
 PMID: 8418664 [Indexed for MEDLINE]
-
-

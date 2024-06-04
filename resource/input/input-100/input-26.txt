@@ -3911,5 +3911,3 @@ neurodegeneration.
 
 DOI: 10.1007/s00115-011-3258-y
 PMID: 21789693 [Indexed for MEDLINE]
-
-

@@ -3487,5 +3487,3 @@ assess the applicability of these findings.
 
 DOI: 10.1002/ana.10024
 PMID: 11761471 [Indexed for MEDLINE]
-
-

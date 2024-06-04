@@ -4186,5 +4186,3 @@ Content 1, http://links.lww.com/JNPT/A43) for more insights from the authors.
 
 DOI: 10.1097/NPT.0b013e31829219bc
 PMID: 23632453 [Indexed for MEDLINE]
-
-

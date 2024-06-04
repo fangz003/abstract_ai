@@ -3700,5 +3700,3 @@ predicted using simple clinical measures of motor impairment or cadence. These
 measures may be useful for targeting interventions.
 
 PMID: 15592133 [Indexed for MEDLINE]
-
-

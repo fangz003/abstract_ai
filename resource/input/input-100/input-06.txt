@@ -3594,5 +3594,3 @@ evaluation.
 DOI: 10.1136/jnnp.68.4.434
 PMCID: PMC1736862
 PMID: 10727478 [Indexed for MEDLINE]
-
-

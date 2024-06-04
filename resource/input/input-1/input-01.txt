@@ -1,0 +1,147 @@
+1. Can Med Assoc J. 1965 Mar 6;92(10):514-6.
+
+FINGERPRINT PATTERNS IN HUNTINGTON'S CHOREA AND PARKINSON'S DISEASE.
+
+BARBEAU A, TRUDEAU JG, COITEUX C.
+
+In the course of a continuing search for means of predicting Huntington's chorea 
+before the onset of neurological symptoms, a study of fingerprint patterns was 
+undertaken, using the technique employed by Hodges and Simon in the 
+investigation of patients with Wilson's disease. Fingerprint patterns of 61 
+patients with Huntington's chorea and 50 with Parkinson's disease were compared 
+with norms established by Scotland Yard. Although an increased incidence of the 
+"whorl" pattern was seen in the left second and third fingers in patients with 
+Huntington's chorea, this finding could not be interpreted as having diagnostic 
+or prognostic value as it was found also in some normal subjects and in 
+occasional cases of Parkinson's disease. The pattern supposedly characteristic 
+of Wilson's disease was also seen in persons with Huntington's chorea.
+
+PMCID: PMC1928158
+PMID: 14275039 [Indexed for MEDLINE]
+
+
+2. Contemp Neurol Ser. 1975;12:45-70.
+
+Patterns of Amyotrophic Lateral Sclerosis and Parkinsonism-Dementia on Guam.
+
+Brody JA, Stanhope JM, Kurland LT.
+
+The striking concentration of amyotrophic lateral sclerosis (ALS) and 
+parkinsonismdementia (PD) among the Chamorro people of Guam has attracted 
+attention since the early 1950's. Extensive studies conducted over the past 20 
+years have not revealed the causes of these diseases and the reasons for their 
+remarkable concentrations on Guam. Approximately 1 in 10 Guamanian deaths over 
+age 25 is from ALS, and another 1 in 10 is from PD. ALS still occurs 
+approximately 50 times more frequently on Guam than in the continental United 
+States. Advances in virologic and biochemical techniques, and long years of 
+study, appear to be leading us to a point where some of the problems will be 
+resolved. We shall attempt to review the pertinent background information and 
+summarize the data and observations up to the present time.
+
+PMID: 1095295 [Indexed for MEDLINE]
+
+
+3. Am J Epidemiol. 1975 Apr;101(4):287-301. doi: 
+10.1093/oxfordjournals.aje.a112097.
+
+Amyotrophic lateral sclerosis and parkinsonism-dementia on Guam, 1945-1972. I. 
+Descriptive epidemiology.
+
+Reed DM, Brody JA.
+
+An overview of the epidemiologic studies of amyotrophic lateral sclerosis (ALS) 
+and parkinsonism-dementia (PD) from 1945 through 1972 is presented. During this 
+period 350 cases of ALS were documented. PD, which is apparently unique to the 
+native Chamorro population, was not recognized during the early years of the 
+study. A total of 213 PD patients have now been seen. The rates of both diseases 
+have declined by approximately 50 per cent since 1965. In the early years 
+incidence per 100,000 for ALS males approached 60; for females it was about 40. 
+For PD males it was about 50; for females it was close to 20. The declines in 
+both diseases have occurred in both sexes and at all age groups and no cohort 
+phenomenon was observed. Marked geographic differences in the distribution of 
+the diseases were observed with southern villages having the highest rates and 
+western villages having the lowest rates; the remainder of the island was 
+intermediate. Recent declines have been most marked in the southern high-rate 
+villages. Chamorros living on the island of Rota have rates similar to those on 
+Guam; those on Saipan have lower rates. A possible excess of ALS among Filipino 
+residents ofGuam was noted; ALS has not been seen among other ethnic groups. 
+Geographic mapping even in high incidence areas did not reveal true clusters or 
+foci. Extensive case-control studies did not reveal any patterns of prior 
+illness, life-style, or exposures distinguishing patients. A tendency for 
+patients to be of somewhat lower socioeconomic level, have less education, eat 
+more homegrown foods and raw meats, and more contact with animals was found. No 
+Mendelian genetic patterns were observed; males were affected more frequently 
+than female for both diseases. Cases did not occur before age 20, reached 
+maximum frequency between ages 55 and 65 and there-after declined. Environmental 
+factors associated with some aspects of the traditional way of life seem to be 
+causally involved, but, since most aspects of the traditional life have changed 
+in the past 50 years, the specific factors remain elusive.
+
+DOI: 10.1093/oxfordjournals.aje.a112097
+PMID: 1124759 [Indexed for MEDLINE]
+
+
+4. Am J Epidemiol. 1975 Apr;101(4):302-10. doi: 10.1093/oxfordjournals.aje.a112098.
+
+Amyotrophic lateral sclerosis and parkinsonism-dementia on Guam, 1945-1972. II. 
+Familial and genetic studies.
+
+Reed DM, Torres JM, Brody JA.
+
+The extraordinarily high rate of amyotrophic lateral sclerosis (ALS) and 
+parkinsonism-dementia (PD) in the Chamorro linguistic group on Guam suggested a 
+genetic etiology for these diseases. Results of three studies are described. Two 
+involved comparisons of the rates of disease in relatives and spouses of index 
+patients and controls. In the third we examined offspring of doubly affected 
+parents, 10 spouse pairs with ALS, 3 spouse pairs with PD and 13 spouse pairs in 
+which 1 spouse had ALS and the other PD. Within the limitations of numbers and 
+age of offspring, we found a tendency among siblings and offspring of ALS cases 
+to have a higher risk than control relatives. Numbers were small and in no 
+instance were significant differences encountered. Spouses of patients had at 
+least as high risk of developing ALS or PD as any of the groups of blood 
+relatives. A slightly higher age-specific rate of ALS and PD occurred in the 
+offspring of doubly affected parents. The only group large enough for present 
+analysis are 60 offspring of doubly affected ALS parents over the age of 20. 
+Thus far only 3 have developed ALS. Within our entire patient population of 350 
+ALS cases and 219 PD cases there were 12 instances in which one parent of the 
+patient was not Chamorro. In addition there is a consistent two- to threefold 
+excess of affected males which could not be accounted for by competitive risks 
+of death from other causes among females. While a familial tendency does exist 
+these findings and observations are not compatible with any simple Mendelian 
+form of inheritance. It is possible that genetic influences affect the 
+occurrence of these diseases but our studies suggest that environmental factors 
+play at least as important a role.
+
+DOI: 10.1093/oxfordjournals.aje.a112098
+PMID: 1124760 [Indexed for MEDLINE]
+
+
+5. J Exp Med. 1975 Aug 1;142(2):483-94. doi: 10.1084/jem.142.2.483.
+
+RNA-instructed DNA polymerase activity in a cytoplasmic particulate fraction in 
+brains from Guamanian patients.
+
+Viola MV, Frazier M, White L, Brody J, Spiegelman S.
+
+Nervous system tissues from a number of patients with idiopathic neurological 
+disorders were examined for biochemical evidence of RNA tumor virus infection. 
+RNase-sensitive DNA polymerase activity was found in a cytoplasmic particulate 
+fraction from two patients with Guamanian amyotrophic lateral sclerosis (ALS) 
+but not in brains from two normal U.S. individuals. The buoyant density of the 
+enzyme-containing fraction was 1.16-1.18 g/ml and could be converted to a denser 
+region of the gradient (1.24 g/ml) by treatment with the nonionic surfactant, 
+Sterox. The cation and detergent requirements for the endogenous RNase-sensitive 
+DNA polymerase reaction were determined. The early (5 min) endogenous reverse 
+transcriptase product was analyzed by cesium sulfate gradient centrifugation. 
+RNase- and heat-sensitive RNA-DNA hybrids were detected in the product analysis 
+of two ALS, one Parkinsonism-dementia (PD) brain, and two brains from 
+asymptomatic Chamorros but not in brains from normal U.S. individuals and a 
+number of patients with neuro-psychiatric disorders. The DNA product was a 4.5S 
+heteropolymer that hybridized more extensively to RNA extracted from the 
+enzyme-containing pellet from PD brain as compared to a similar fraction from 
+normal U.S. brain. The DNA product appeared to be unrelated to Rausvher or visna 
+virus 70S RNA as determined by RNA-[-3H]DNA hybridization.
+
+DOI: 10.1084/jem.142.2.483
+PMCID: PMC2189894
+PMID: 49390 [Indexed for MEDLINE]

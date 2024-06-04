@@ -1,6 +1,7 @@
 import openai
 from openai import OpenAI
 from datetime import datetime
+from pathlib import Path
 import csv
 
 
@@ -14,7 +15,7 @@ def write_result(file_path):
     writer.writerow(["sequence", "Result"])
 
 
-def split_file_into_batches(file_path, batch_size):
+def split_content_into_batches(file_path, batch_size):
     with open(file_path, 'r') as file:
         abstracts = file.read().split('\n\n\n')  # Assuming each abstract is separated by double newlines
     return [abstracts[i:i + batch_size] for i in range(0, len(abstracts), batch_size)]
@@ -34,35 +35,38 @@ def evaluate_abstract(abstract):
     )
     return chat_completion.choices[0].message.content
 
-
+#Read all input files from the folder
+#Change the path if a different input path contains the input file
+path_str = "../resource/input/input-1/"
 # Path to the file
-file_path = '../resource/abstracts/abstract_test_5.txt'
+file_path = Path(path_str)
+all_files = sorted([f for f in file_path.iterdir() if f.is_file()])
 
-# Splitting file into batches
-batches = split_file_into_batches(file_path, 100)
-
-
-# Evaluating each batch
-for batch_number, batch in enumerate(batches, start=1):
+#Iterate all input files
+for batch_number, input_file in enumerate(all_files, start=1):
+    # Splitting abstracts in each input file
+    abstracts = split_content_into_batches(path_str + input_file.name, 1)
     before_run_time = datetime.now()
     formatted_timestamp = before_run_time.strftime('%m-%d-%Y %H:%M:%S')
-    print(formatted_timestamp)
 
     print(f"Evaluating Batch {batch_number}...")
     output_file = f'../resource/output/results_{batch_number}_{formatted_timestamp}.csv'
 
-    with open(output_file, mode='w', newline='') as file:
-        writer = csv.writer(file)
+    with open(output_file, mode='w', newline='') as output_file:
+        writer = csv.writer(output_file)
 
-        for i, abstract in enumerate(batch, start=1):
+    # Evaluating each batch
+        for i, abstract in enumerate(abstracts, start=1):
+            print(formatted_timestamp)
+
             #call openai
             result = evaluate_abstract(abstract)
-
+            #result = "test"
             #write the result fro openai call
-            writer.writerow([i, result])
+            writer.writerow([(batch_number - 1) * 100 + i, result])
 
             print(f"{i}: {result}")
             print("\n")
 
         time_spent = datetime.now() - before_run_time
-        print(f"Spent {time_spent} on batch {batch}")
+        print(f"Spent {time_spent} on batch {batch_number}")

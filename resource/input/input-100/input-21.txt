@@ -3792,5 +3792,3 @@ dysfunction in LBD remains to be determined.
 
 DOI: 10.1016/j.brainres.2009.05.083
 PMID: 19501577 [Indexed for MEDLINE]
-
-

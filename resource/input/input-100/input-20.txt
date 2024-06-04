@@ -3639,5 +3639,3 @@ PD and AD, and to determine the clinical efficacy of novel, disease-modifying
 DOI: 10.1016/j.nurt.2008.10.033
 PMCID: PMC5084261
 PMID: 19110204 [Indexed for MEDLINE]
-
-

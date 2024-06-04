@@ -5085,5 +5085,3 @@ Copyright © 2014 by the American Society of Neuroimaging.
 DOI: 10.1111/jon.12138
 PMCID: PMC4295004
 PMID: 25039916 [Indexed for MEDLINE]
-
-

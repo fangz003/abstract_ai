@@ -4045,5 +4045,3 @@ PMID: 22471863 [Indexed for MEDLINE]
 
 Conflict of interest statement: The authors have no potential conflicts of 
 interest relevant to the subject matter discussed in this manuscript.
-
-
